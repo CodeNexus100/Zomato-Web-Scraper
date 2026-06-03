@@ -25,7 +25,7 @@ city_input = input("Enter the city name (e.g., mumbai, pune, bangalore): ").stri
 
 driver = webdriver.Chrome()
 driver.maximize_window()
-wait = WebDriverWait(driver, 12)
+wait = WebDriverWait(driver, 25)
 
 print(f"Opening Zomato for {city_input}…")
 driver.get(f"https://www.zomato.com/{city_input}/restaurants")
