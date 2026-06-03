@@ -98,7 +98,7 @@ def get_phone(driver):
         return None
 
 # Scraping specific restaurant by its link
-def scrap_full_restaurant(driver, link, wait_time=12):
+def scrap_full_restaurant(driver, link, wait_time=25):
     wait = WebDriverWait(driver, wait_time)
 
     def safe_click(xpath):
