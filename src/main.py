@@ -6,6 +6,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from datetime import datetime
+from queue import Queue
+import concurrent.futures
 
 from helper import ( 
     get_links, safe_text, scroll_full_page
@@ -16,14 +18,17 @@ from scraping_restaurant import (
     get_timing, scrap_full_restaurant
 )
 
+# Get city input from user
+city_input = input("Enter the city name (e.g., mumbai, pune, bangalore): ").strip().lower().replace(" ", "-")
+
 # Basic driver setup
 
 driver = webdriver.Chrome()
 driver.maximize_window()
 wait = WebDriverWait(driver, 12)
 
-print("Opening Zomato…")
-driver.get("https://www.zomato.com/")
+print(f"Opening Zomato for {city_input}…")
+driver.get(f"https://www.zomato.com/{city_input}/restaurants")
 
 # handling cookie popup
 
@@ -40,43 +45,6 @@ except:
 
 driver.execute_script("window.scrollTo(0, 500);")
 time.sleep(1.5)
-
-# Get zomato restaurant page
-
-link = wait.until(
-    EC.element_to_be_clickable((By.CSS_SELECTOR, 
-    "a[href='https://www.zomato.com/restaurants']"))
-)
-driver.execute_script("arguments[0].click()", link)
-
-driver.switch_to.window(driver.window_handles[-1])
-time.sleep(2)
-print(f"{driver.title} page opened.")
-
-# applying filters
-
-try:
-    filters = wait.until(EC.element_to_be_clickable((By.XPATH, "//div[contains(text(),'Filters')]")))
-    filters.click()
-
-    more_filters = wait.until(EC.element_to_be_clickable((By.XPATH, "//p[text()='More filters']/parent::div")))
-    more_filters.click()
-
-    search_box = wait.until(EC.element_to_be_clickable((By.XPATH, "//section[@label='Search here']//input")))
-    search_box.send_keys("pure veg")
-
-    pureveg = wait.until(EC.element_to_be_clickable((By.XPATH, "//label[contains(text(),'Pure veg')]")))
-    pureveg.click()
-
-    apply_btn = wait.until(EC.element_to_be_clickable((By.XPATH, "//button[.//span[contains(text(),'Apply')]]")))
-    apply_btn.click()
-    time.sleep(4)
-
-    print('veg filter is applied!')
-    
-except Exception as e:
-    print("Filter error:", e)
-
 
 # Scrolling full page
 
@@ -97,9 +65,6 @@ restaurants = []
 
 for idx, card in enumerate(cards, start=1):
 
-    if idx > 15:
-        break
-    
     driver.execute_script("arguments[0].scrollIntoView(true);", card)
     time.sleep(0.1)
 
@@ -234,6 +199,30 @@ chunks = list(chunk_list(restaurants, chunk_size))
 total_restaurants = len(restaurants)
 scraped_count = 0
 
+num_threads = 5
+driver_queue = Queue()
+print(f"Initializing {num_threads} webdrivers for faster scraping...")
+for _ in range(num_threads):
+    options = webdriver.ChromeOptions()
+    options.add_argument('--disable-gpu')
+    # Adding a strategy to load page faster
+    options.page_load_strategy = 'eager'
+    d = webdriver.Chrome(options=options)
+    driver_queue.put(d)
+
+def scrape_task(task_data):
+    idx, r = task_data
+    print(f"Scraping restaurant {idx} of {total_restaurants}: {r['name']}")
+    driver = driver_queue.get()
+    try:
+        data = scrap_restaurant_full(driver, idx, r["page_link"][0])
+        return data
+    except Exception as e:
+        print(f"Error scraping {r['name']}: {e}")
+        return None
+    finally:
+        driver_queue.put(driver)
+
 for part_idx, chunk in enumerate(chunks, 1):
     start_idx = scraped_count + 1
     end_idx = scraped_count + len(chunk)
@@ -244,20 +233,14 @@ for part_idx, chunk in enumerate(chunks, 1):
     
     print(f"\nScraping part {part_idx} ({start_idx} to {end_idx}) ...")
     
-    # Start fresh driver
-    driver = webdriver.Chrome()
-    
     part_results = []
-    for idx, r in enumerate(chunk, start_idx):
-        print(f"Scraping restaurant {idx} of {total_restaurants}: {r['name']}")
-        try:
-            data = scrap_restaurant_full(driver, idx, r["page_link"][0])
-            part_results.append(data)
-        except Exception as e:
-            print(f"Error scraping {r['name']}: {e}")
-            continue
     
-    driver.quit()  # Close driver for this chunk
+    with concurrent.futures.ThreadPoolExecutor(max_workers=num_threads) as executor:
+        results = list(executor.map(scrape_task, enumerate(chunk, start_idx)))
+        
+    for data in results:
+        if data:
+            part_results.append(data)
     
     # Save this chunk immediately
     with open(output_file, "w", encoding="utf-8") as f:
@@ -269,6 +252,11 @@ for part_idx, chunk in enumerate(chunks, 1):
     
     # Optional pause
     time.sleep(5)
+
+# Close all drivers
+while not driver_queue.empty():
+    d = driver_queue.get()
+    d.quit()
 
 print("Scraping complete!")
 

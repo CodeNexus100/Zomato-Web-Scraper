@@ -1,0 +1,4511 @@
+[
+    {
+        "name": "URBAN CHAUPAL BY THE ELEGANCE",
+        "cuisine": "North Indian, Biryani, Chinese, Continental, Salad, Fast Food, Desserts",
+        "price_for_two": "₹1,000 for two",
+        "location": "Kakarmata, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/urban-chaupal-by-the-elegance-kakarmata/info"
+        ]
+    },
+    {
+        "name": "GARICOCO",
+        "cuisine": "North Indian, Mexican, Chinese, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹1,500 for two",
+        "location": "Shastri Nagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/garicoco-shastri-nagar/info"
+        ]
+    },
+    {
+        "name": "The 3rd Floor Project",
+        "cuisine": "Chinese, Italian, Thai, Fast Food, Beverages, North Indian, Mediterranean, Oriental",
+        "price_for_two": "₹1,700 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/the3rdfloorbse/info"
+        ]
+    },
+    {
+        "name": "The Vibe",
+        "cuisine": "North Indian, Chinese, Fast Food, Oriental, Mediterranean, Alcoholic Beverages, Italian, Beverages",
+        "price_for_two": "₹1,500 for two",
+        "location": "Shastri Nagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-vibe-shastri-nagar/info"
+        ]
+    },
+    {
+        "name": "Pizzeria Vatika Cafe",
+        "cuisine": "Italian, Desserts, Beverages, Pizza",
+        "price_for_two": "₹1,400 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/pizzeria-vatika-cafe-nadesar/info"
+        ]
+    },
+    {
+        "name": "Fika Coffee Co.",
+        "cuisine": "North Indian, South Indian, European, Burger, Italian, Pizza, Desserts, Beverages",
+        "price_for_two": "₹1,500 for two",
+        "location": "Lahartara, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/fika-coffee-co-lahartara/info"
+        ]
+    },
+    {
+        "name": "Molecule Gastro Bar",
+        "cuisine": "Italian, North Indian, Fast Food, Desserts, Bar Food, Sichuan, Japanese, Finger Food",
+        "price_for_two": "₹2,000 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/molecule-gastro-bar-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Charcoal Fine Dining",
+        "cuisine": "North Indian, Continental, Chinese, Fast Food, Desserts, Beverages, Oriental, Kebab",
+        "price_for_two": "₹1,100 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/charcoal-fine-dining-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Satkar's Regale",
+        "cuisine": "North Indian, Chinese, Continental, Pasta, Fast Food, Pizza, Shake, Beverages",
+        "price_for_two": "₹1,100 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/satkars-regale-sigra/info"
+        ]
+    },
+    {
+        "name": "Pind Balluchi",
+        "cuisine": "North Indian, Mughlai, Biryani, Continental, Chinese, Desserts",
+        "price_for_two": "₹1,200 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/pind-balluchi-sigra/info"
+        ]
+    },
+    {
+        "name": "Mysteria",
+        "cuisine": "North Indian, Chinese, Italian, Burger, Fast Food, Desserts, Shake, Juices",
+        "price_for_two": "₹1,000 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/mysteria-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Roots Varanasi",
+        "cuisine": "North Indian, Mughlai, Kebab, Biryani, Asian, Continental, Sushi, Desserts",
+        "price_for_two": "₹1,700 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/roots-varanasi-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Drinks On Board",
+        "cuisine": "North Indian, Chinese, Fast Food, Desserts, Beverages, Pizza, Pasta, Shake",
+        "price_for_two": "₹1,000 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/drinks-on-board-16-sigra/info"
+        ]
+    },
+    {
+        "name": "Holy Chopsticks",
+        "cuisine": "Chinese, Sushi, Asian, Seafood, Thai, Desserts, Beverages, Japanese",
+        "price_for_two": "₹1,200 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/holy-chopsticks-nadesar/info"
+        ]
+    },
+    {
+        "name": "Farzi Cafe",
+        "cuisine": "Cafe, Coffee, North Indian, Chinese, Seafood, Italian, Desserts, Beverages",
+        "price_for_two": "₹1,500 for two",
+        "location": "Shivpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/farzi-cafe-shivpur/info"
+        ]
+    },
+    {
+        "name": "Cubana Heights Club & Restaurant",
+        "cuisine": "North Indian, Chinese, Mughlai, Pasta, Pizza, Fast Food, Biryani, Beverages",
+        "price_for_two": "₹1,200 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/cubana-heights-club-restaurant-lanka/info"
+        ]
+    },
+    {
+        "name": "The Luxury Lounge By Sunsutra",
+        "cuisine": "Continental, Chinese, Mediterranean, Mexican, North Indian",
+        "price_for_two": "₹1,000 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-luxury-lounge-by-sunsutra-chetganj/info"
+        ]
+    },
+    {
+        "name": "Kriva Cafe",
+        "cuisine": "North Indian, Continental, Italian, Chinese, Sandwich, Salad, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kriva-cafe-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "VNS Live Studio- 24* 7",
+        "cuisine": "North Indian, Continental, Chinese, Beverages, Sichuan",
+        "price_for_two": "₹1,500 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/vns-live-studio-24-7-sigra/info"
+        ]
+    },
+    {
+        "name": "Rominus Pizza And Burger",
+        "cuisine": "Pizza, Burger, Fast Food",
+        "price_for_two": "₹450 for two",
+        "location": "Shastri Nagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/rominus-pizza-and-burger-shastri-nagar/info"
+        ]
+    },
+    {
+        "name": "The Hazelnut Factory",
+        "cuisine": "Bakery, Fusion, Fast Food, Desserts, Chinese, Tea, Shake, Beverages",
+        "price_for_two": "₹1,200 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-hazelnut-factory-lanka/info"
+        ]
+    },
+    {
+        "name": "Vaziri - Brew Pub at Om Vilas Benares",
+        "cuisine": "Lebanese, Mexican, Asian, Continental, North Indian, Kebab, Bar Food, Fast Food",
+        "price_for_two": "₹1,900 for two",
+        "location": "Shivpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/vaziri-brew-pub-at-om-vilas-benares-shivpur/info"
+        ]
+    },
+    {
+        "name": "Khadak Singh Da Dhaba",
+        "cuisine": "North Indian, Mughlai, Chinese",
+        "price_for_two": "₹1,300 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/khadak-singh-da-dhaba-bhelupur/info"
+        ]
+    },
+    {
+        "name": "The Taste Factory",
+        "cuisine": "North Indian, Chinese, Mughlai, Oriental, Italian, Desserts, Beverages, BBQ",
+        "price_for_two": "₹1,300 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-taste-factory-2-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Behind Yellow Doors Diner",
+        "cuisine": "North Indian, Chinese, Continental, Sichuan, Sandwich, Burger",
+        "price_for_two": "₹800 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/behind-yellow-doors-diner-sigra/info"
+        ]
+    },
+    {
+        "name": "Atrium Cafe- Hotel Hindustan International",
+        "cuisine": "Thai, Italian, Continental, North Indian, Fast Food, Desserts",
+        "price_for_two": "₹1,200 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/atrium-cafe-hotel-hindustan-international-chetganj/info"
+        ]
+    },
+    {
+        "name": "Burger King",
+        "cuisine": "Burger",
+        "price_for_two": "₹300 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/burger-king-lanka/info"
+        ]
+    },
+    {
+        "name": "Annada Restaurant - Dharm Resort",
+        "cuisine": "North Indian, Chinese, Fast Food",
+        "price_for_two": "₹1,000 for two",
+        "location": "Ramnagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/annada-restaurant-dharm-resort-ramnagar/info"
+        ]
+    },
+    {
+        "name": "The Taste Of Banarasiya",
+        "cuisine": "North Indian, Beverages, Chinese, Fast Food",
+        "price_for_two": "₹250 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-taste-of-banarasiya-sigra/info"
+        ]
+    },
+    {
+        "name": "Cabami Rooftop & Bar",
+        "cuisine": "North Indian, Chinese, Mediterranean, Continental, Mexican, Modern Indian",
+        "price_for_two": "₹2,500 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/cabami-rooftop-bar-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Roma's Café Diner",
+        "cuisine": "Cafe, Continental, North Indian, Italian, Asian, Fast Food, Beverages, Sichuan",
+        "price_for_two": "₹1,200 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/RomasCafeDiner/info"
+        ]
+    },
+    {
+        "name": "Sigdee Restaurant",
+        "cuisine": "North Indian, Chinese, Biryani, Oriental, Grilled Chicken",
+        "price_for_two": "₹1,000 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/sigdee-restaurant-lanka/info"
+        ]
+    },
+    {
+        "name": "Aman E Khas",
+        "cuisine": "North Indian, Mughlai, Chinese, Biryani, Desserts",
+        "price_for_two": "₹900 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/aman-e-khas-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Hang Out",
+        "cuisine": "North Indian, South Indian, Chinese, Fast Food, Street Food, Shake",
+        "price_for_two": "₹550 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/hang-out-lanka/info"
+        ]
+    },
+    {
+        "name": "Hotel Milap",
+        "cuisine": "North Indian, Street Food",
+        "price_for_two": "₹200 for two",
+        "location": "Godaulia, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/hotel-milap-godaulia/info"
+        ]
+    },
+    {
+        "name": "Taste King",
+        "cuisine": "North Indian, Burger, Chinese, Fast Food, Desserts, Shake, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/taste-king-nadesar/info"
+        ]
+    },
+    {
+        "name": "Barbeque Nation",
+        "cuisine": "North Indian, BBQ, Kebab, Biryani",
+        "price_for_two": "₹1,800 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/barbeque-nation-1-nadesar/info"
+        ]
+    },
+    {
+        "name": "Mangi Ferra Cafe - Hotel Surya",
+        "cuisine": "North Indian, Fast Food, Pizza, Sichuan, Kebab, Burger",
+        "price_for_two": "₹1,300 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/mangi-ferra-cafe-hotel-surya-nadesar/info"
+        ]
+    },
+    {
+        "name": "Pizzeria Vaatika Cafe",
+        "cuisine": "Pizza, Fast Food, Chinese, Pasta, North Indian, Shake, Juices, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/pizzeria-vaatika-cafe-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Kesariya Thaal",
+        "cuisine": "North Indian",
+        "price_for_two": "₹700 for two",
+        "location": "Shivala, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kesariya-thaal-shivala/info"
+        ]
+    },
+    {
+        "name": "McDonald's",
+        "cuisine": "Burger, Fast Food, Wraps, Desserts, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/mcdonalds-sigra/info"
+        ]
+    },
+    {
+        "name": "River Rhythm",
+        "cuisine": "North Indian, South Indian, Chinese, Fast Food, Sandwich, Ice Cream, Shake, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/river-rhythm-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Theobroma",
+        "cuisine": "Bakery, Desserts",
+        "price_for_two": "₹500 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/theobroma-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Canton Royale Restaurant - Hotel Surya",
+        "cuisine": "North Indian, Continental, Mediterranean, Fast Food, Salad, Asian, Desserts, Beverages",
+        "price_for_two": "₹3,000 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/canton-royale-restaurant-hotel-surya-nadesar/info"
+        ]
+    },
+    {
+        "name": "Poizn Sky Lounge - Hotel Arcadia",
+        "cuisine": "North Indian, Chinese, Continental",
+        "price_for_two": "₹1,200 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/poizn-sky-lounge-hotel-arcadia-chetganj/info"
+        ]
+    },
+    {
+        "name": "The Belgian Waffle Co.",
+        "cuisine": "Waffle, Pancake, Desserts, Beverages, Ice Cream",
+        "price_for_two": "₹300 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-belgian-waffle-co-4-bhelupur/info"
+        ]
+    },
+    {
+        "name": "The Beer Cafe",
+        "cuisine": "North Indian, Oriental, Continental, Chinese, Desserts, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-beer-cafe-sigra/info"
+        ]
+    },
+    {
+        "name": "Tanish Dining And Cafe",
+        "cuisine": "North Indian, Chinese, Mughlai, Pizza, Italian, Beverages, Continental, Biryani",
+        "price_for_two": "₹850 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/tanish-dining-and-cafe-lanka/info"
+        ]
+    },
+    {
+        "name": "Captain Nova",
+        "cuisine": "North Indian, Chinese, Continental, Pizza, Fast Food, Oriental, Mexican, Sichuan",
+        "price_for_two": "₹1,000 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/captain-nova-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Flamingo",
+        "cuisine": "Asian, Continental, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Sarnath, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/flamingo-sarnath/info"
+        ]
+    },
+    {
+        "name": "Hari Vilaas",
+        "cuisine": "North Indian, Chinese, Fast Food, Continental, Pizza, Pasta, Italian, Beverages",
+        "price_for_two": "₹1,200 for two",
+        "location": "Shastri Nagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/hari-vilaas-shastri-nagar/info"
+        ]
+    },
+    {
+        "name": "Pizza Hut",
+        "cuisine": "Pizza, Italian",
+        "price_for_two": "₹300 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/pizza-hut-2-nadesar/info"
+        ]
+    },
+    {
+        "name": "Narayan Kothi",
+        "cuisine": "North Indian, South Indian, Chinese, Fast Food, Indo-Chinese, Kebab, Mughlai, Street Food",
+        "price_for_two": "₹1,000 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/narayan-kothi-bhelupur/info"
+        ]
+    },
+    {
+        "name": "The Adda Momos",
+        "cuisine": "Momos, Fast Food",
+        "price_for_two": "₹300 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-adda-momos-1-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Desi Chulha",
+        "cuisine": "North Indian, Mughlai",
+        "price_for_two": "₹550 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/desi-chulha-bhelupur/info"
+        ]
+    },
+    {
+        "name": "My Table - The Lounge Bar",
+        "cuisine": "Finger Food, North Indian, Continental, Chinese, Oriental, Bar Food, Alcoholic Beverages, Italian",
+        "price_for_two": "₹2,000 for two",
+        "location": "Shastri Nagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/my-table-the-lounge-bar-shastri-nagar/info"
+        ]
+    },
+    {
+        "name": "Banarasi Zaika",
+        "cuisine": "North Indian, South Indian, Chinese, Mughlai",
+        "price_for_two": "₹400 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/banarasi-zaika-3-nadesar/info"
+        ]
+    },
+    {
+        "name": "Subway",
+        "cuisine": "Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Shastri Nagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/subway-shastri-nagar/info"
+        ]
+    },
+    {
+        "name": "The Aarna's Cafe",
+        "cuisine": "Street Food, African, Wraps, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-aarnas-cafe-bhelupur/info"
+        ]
+    },
+    {
+        "name": "East West - Radisson Hotel",
+        "cuisine": "Continental, North Indian, Chinese, Mughlai, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹1,500 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/east-west-radisson-hotel-nadesar/info"
+        ]
+    },
+    {
+        "name": "Bangs",
+        "cuisine": "Burger, Fast Food, Wraps, Beverages, American, Biryani",
+        "price_for_two": "₹550 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/bangs-lanka/info"
+        ]
+    },
+    {
+        "name": "Goli Vada Pav",
+        "cuisine": "Street Food, African, Fast Food, Beverages",
+        "price_for_two": "₹250 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/goli-vada-pav-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Shanjhi Rasoi",
+        "cuisine": "North Indian, Chinese",
+        "price_for_two": "₹700 for two",
+        "location": "Lahartara, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/shanjhi-rasoi-lahartara/info"
+        ]
+    },
+    {
+        "name": "Ming Garden",
+        "cuisine": "Chinese, Fast Food, Desserts, Beverages, Sichuan",
+        "price_for_two": "₹700 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/ming-garden-lanka/info"
+        ]
+    },
+    {
+        "name": "Nathu's Sweets",
+        "cuisine": "Mithai, South Indian, Chinese, North Indian, Continental, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/nathus-sweets-lanka/info"
+        ]
+    },
+    {
+        "name": "Chestnuts",
+        "cuisine": "Desserts, Bakery, Fast Food, Cake, Coffee, Shake",
+        "price_for_two": "₹300 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/chestnuts-1-sigra/info"
+        ]
+    },
+    {
+        "name": "Ramaeshwaram Upahaar",
+        "cuisine": "South Indian, African, North Indian, Chinese, Shake, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/ramaeshwaram-upahaar-lanka/info"
+        ]
+    },
+    {
+        "name": "Aamras",
+        "cuisine": "North Indian, Chinese, Continental",
+        "price_for_two": "₹1,500 for two",
+        "location": "Sarnath, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/aamras-sarnath/info"
+        ]
+    },
+    {
+        "name": "Makhan Handi",
+        "cuisine": "North Indian, South Indian, Continental, Beverages, Oriental, Desserts, Shake",
+        "price_for_two": "₹1,100 for two",
+        "location": "Godaulia, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/makhan-handi-godaulia/info"
+        ]
+    },
+    {
+        "name": "Domino's Pizza",
+        "cuisine": "Pizza, Italian, Pasta, Fast Food, Desserts",
+        "price_for_two": "₹400 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/dominos-pizza-chetganj/info"
+        ]
+    },
+    {
+        "name": "Fidka",
+        "cuisine": "North Indian, Chinese, Continental, Fast Food, Desserts, Shake, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/fidka-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Hungry Heads",
+        "cuisine": "Chinese",
+        "price_for_two": "₹900 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/hungry-heads-sigra/info"
+        ]
+    },
+    {
+        "name": "Machaan by Om Vilas",
+        "cuisine": "North Indian, Chinese, Oriental",
+        "price_for_two": "₹3,000 for two",
+        "location": "Shivpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/machaan-by-om-vilas-shivpur/info"
+        ]
+    },
+    {
+        "name": "Capsicum Food Court",
+        "cuisine": "North Indian, South Indian, Chinese, Fast Food, Pizza, Rolls, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/capsicum-food-court-3-lanka/info"
+        ]
+    },
+    {
+        "name": "Baker's Pride",
+        "cuisine": "Bakery, Pizza, Fast Food, Desserts",
+        "price_for_two": "₹400 for two",
+        "location": "Bhikharipur Kala, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/bakers-pride-bhikharipur-kala/info"
+        ]
+    },
+    {
+        "name": "Central Conversations Cafe- CC Cafe",
+        "cuisine": "Beverages, Burger, Fast Food, Indo-Chinese, Italian, Pizza, Sandwich, Chinese",
+        "price_for_two": "₹400 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/central-conversations-cafe-cc-cafe-lanka/info"
+        ]
+    },
+    {
+        "name": "KAFUSA",
+        "cuisine": "North Indian, Chinese, Fast Food",
+        "price_for_two": "₹1,100 for two",
+        "location": "Shastri Nagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kafusa-shastri-nagar/info"
+        ]
+    },
+    {
+        "name": "The Great Kebab Factory- Radisson Hotel",
+        "cuisine": "North Indian, Mughlai",
+        "price_for_two": "₹2,500 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-great-kebab-factory-radisson-hotel-nadesar/info"
+        ]
+    },
+    {
+        "name": "Ganga Teere by Guleria Kothi Hotel",
+        "cuisine": "North Indian, Continental",
+        "price_for_two": "₹1,500 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/ganga-teere-by-guleria-kothi-hotel-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "The Triana",
+        "cuisine": "North Indian, Chinese",
+        "price_for_two": "₹1,000 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-triana-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Chauuchak Restaurant",
+        "cuisine": "North Indian, Chinese, Fast Food, Biryani, South Indian, Desserts, Oriental",
+        "price_for_two": "₹1,000 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/chauuchak-restaurant-sigra/info"
+        ]
+    },
+    {
+        "name": "Cafe Green Mama",
+        "cuisine": "Cafe, Finger Food, Continental",
+        "price_for_two": "₹1,600 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/cafe-green-mama-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Nonna’s Pizzeria- The Spice Trail",
+        "cuisine": "Pizza",
+        "price_for_two": "₹600 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/nonnas-pizzeria-the-spice-trail-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "UP-65",
+        "cuisine": "North Indian, Chinese, Mughlai, Fast Food, Coffee, Desserts, Beverages, Sichuan",
+        "price_for_two": "₹800 for two",
+        "location": "Sarnath, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/up-65-sarnath/info"
+        ]
+    },
+    {
+        "name": "Lasooni Restaurant",
+        "cuisine": "North Indian, Chinese, Kebab, Biryani, Mughlai",
+        "price_for_two": "₹1,500 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/lasooni-restaurant-lanka/info"
+        ]
+    },
+    {
+        "name": "Hotel Landmark",
+        "cuisine": "Mughlai, North Indian, Chinese, Continental, Desserts, Beverages",
+        "price_for_two": "₹1,400 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/hotel-landmark-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Starbucks Coffee",
+        "cuisine": "Cafe, Coffee, Desserts, Beverages",
+        "price_for_two": "₹900 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/starbucks-coffee-lanka/info"
+        ]
+    },
+    {
+        "name": "Shree Shivay",
+        "cuisine": "North Indian, Desserts",
+        "price_for_two": "₹1,400 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/shree-shivay-nadesar/info"
+        ]
+    },
+    {
+        "name": "99 Chickens",
+        "cuisine": "North Indian, Fast Food, Burger, Pizza, Beverages",
+        "price_for_two": "₹350 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/99-chickens-2-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Creme Borne",
+        "cuisine": "Ice Cream, Desserts, Fast Food, Burger, Pizza, Pasta, Sandwich, Beverages",
+        "price_for_two": "₹550 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/creme-borne-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Pizza Plaza",
+        "cuisine": "Pizza, Fast Food, Pasta, Burger, Sandwich",
+        "price_for_two": "₹500 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/pizza-plaza-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Adda",
+        "cuisine": "North Indian, Continental, Chinese, Desserts, Salad",
+        "price_for_two": "₹600 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/adda-1-chetganj/info"
+        ]
+    },
+    {
+        "name": "Click Collection",
+        "cuisine": "North Indian, Mughlai, South Indian, Biryani, Chinese, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/click-collection-lanka/info"
+        ]
+    },
+    {
+        "name": "Chilli Tadka The Family Restaurant",
+        "cuisine": "North Indian, Biryani, Chinese, Fast Food",
+        "price_for_two": "₹400 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/chilli-tadka-the-family-restaurant-sigra/info"
+        ]
+    },
+    {
+        "name": "Arzoo Restaurant - Ramada By Wyndham",
+        "cuisine": "North Indian, Oriental, Chinese, Kebab, Desserts, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Ramnagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/arzoo-restaurant-ramada-by-wyndham-ramnagar/info"
+        ]
+    },
+    {
+        "name": "Khaboos - Hotel Castillo",
+        "cuisine": "Continental, American, South Indian, North Indian, Mughlai, Chinese, Desserts, Beverages",
+        "price_for_two": "₹2,000 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/khaboos-hotel-castillo-sigra/info"
+        ]
+    },
+    {
+        "name": "Bhojanik - The Amayaa",
+        "cuisine": "North Indian, Mughlai, Chinese, Desserts, Shake, Kebab, South Indian, Italian",
+        "price_for_two": "₹2,000 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/bhojanik-the-amayaa-nadesar/info"
+        ]
+    },
+    {
+        "name": "JBB Restaurant & Cafe",
+        "cuisine": "North Indian, Chinese, Mughlai, Rolls, Street Food, Biryani, Burger",
+        "price_for_two": "₹400 for two",
+        "location": "Durgakund, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/jbb-restaurant-cafe-durgakund/info"
+        ]
+    },
+    {
+        "name": "Red Rhino Pizza And Shake",
+        "cuisine": "Fast Food, Pizza, Shake",
+        "price_for_two": "₹400 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/red-rhino-pizza-and-shake-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Rocks & Roll Cafe",
+        "cuisine": "Fast Food, Chinese, North Indian, Biryani, Rolls, Pizza, Burger",
+        "price_for_two": "₹200 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/rocks-roll-cafe-1-sunderpur/info"
+        ]
+    },
+    {
+        "name": "Foodify",
+        "cuisine": "Chinese, North Indian, Burger, Pizza, Fast Food, Street Food, Rolls",
+        "price_for_two": "₹450 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/foodify-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Gravy Wala Family Restaurant",
+        "cuisine": "Fast Food, North Indian, Mughlai, Chinese, Rolls, Pizza, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Bhikharipur Kala, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/gravy-wala-family-restaurant-bhikharipur-kala/info"
+        ]
+    },
+    {
+        "name": "Molley Food Plaza",
+        "cuisine": "Pizza, Fast Food, Chinese, South Indian, North Indian, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/molley-food-plaza-nadesar/info"
+        ]
+    },
+    {
+        "name": "RollsKing",
+        "cuisine": "Rolls, North Indian, Fast Food, Beverages",
+        "price_for_two": "₹350 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/rollsking-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Cafe Choco Craze",
+        "cuisine": "Pizza, Burger, Momos, Fast Food, Ice Cream, Desserts, Shake, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Shivala, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/cafe-choco-craze-shivala/info"
+        ]
+    },
+    {
+        "name": "Terracotta Cafe",
+        "cuisine": "Cafe, Coffee, North Indian, Fast Food",
+        "price_for_two": "₹500 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/terracotta-cafe-1-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Curry Leaves - Hotel Xenia",
+        "cuisine": "North Indian, Chinese, Oriental, Tea, Kebab, Beverages, Biryani, Pizza",
+        "price_for_two": "₹700 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/curry-leaves-hotel-xenia-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Papa Panda Pizza",
+        "cuisine": "Pizza, Fast Food, Desserts",
+        "price_for_two": "₹450 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/papa-panda-pizza-sigra/info"
+        ]
+    },
+    {
+        "name": "Baba Biryani Hub",
+        "cuisine": "Biryani, Street Food",
+        "price_for_two": "₹200 for two",
+        "location": "Durgakund, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/baba-biryani-hub-durgakund/info"
+        ]
+    },
+    {
+        "name": "Baati Chokha",
+        "cuisine": "North Indian, Bihari",
+        "price_for_two": "₹400 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/baati-chokha-2-chetganj/info"
+        ]
+    },
+    {
+        "name": "Kerala Cafe Since 1962",
+        "cuisine": "South Indian, North Indian, Ice Cream, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kerala-cafe-since-1962-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Pizza Adda",
+        "cuisine": "Pizza, Burger, Sandwich, Momos, Street Food, Fast Food, Beverages",
+        "price_for_two": "₹200 for two",
+        "location": "Bhikharipur Kala, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/pizza-adda-4-bhikharipur-kala/info"
+        ]
+    },
+    {
+        "name": "The Holy Waffle",
+        "cuisine": "Waffle, Ice Cream, Shake, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-holy-waffle-lanka/info"
+        ]
+    },
+    {
+        "name": "Keshari Food Plaza",
+        "cuisine": "North Indian, South Indian, Chinese, Fast Food, Desserts, Beverages, Italian",
+        "price_for_two": "₹700 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/keshari-food-plaza-lanka/info"
+        ]
+    },
+    {
+        "name": "The Green Curry - Hotel Vishwam Residency",
+        "cuisine": "North Indian, Mughlai, Kebab, Chinese, Seafood, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹800 for two",
+        "location": "Bhikharipur Kala, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-green-curry-hotel-vishwam-residency-bhikharipur-kala/info"
+        ]
+    },
+    {
+        "name": "Flavours Cafe",
+        "cuisine": "Cafe, Pizza, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹550 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/flavours-cafe-lanka/info"
+        ]
+    },
+    {
+        "name": "Taste & See Cafe And Bakery",
+        "cuisine": "Bakery",
+        "price_for_two": "₹1,000 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/taste-see-cafe-and-bakery-2-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Cafebility",
+        "cuisine": "Pizza, African, Continental, Pasta, Sandwich, Burger, Mexican, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/cafebility-chetganj/info"
+        ]
+    },
+    {
+        "name": "Taamra",
+        "cuisine": "North Indian, Chinese, Awadhi",
+        "price_for_two": "₹1,200 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/taamra-2-sigra/info"
+        ]
+    },
+    {
+        "name": "Wow Crunchy Pizza",
+        "cuisine": "Pizza, Fast Food",
+        "price_for_two": "₹450 for two",
+        "location": "Kakarmata, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/wow-crunchy-pizza-kakarmata/info"
+        ]
+    },
+    {
+        "name": "3 Idiots",
+        "cuisine": "North Indian, Chinese, Fast Food, Shake",
+        "price_for_two": "₹500 for two",
+        "location": "Durgakund, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/3-idiots-durgakund/info"
+        ]
+    },
+    {
+        "name": "Behind Yellow Doors Diner",
+        "cuisine": "North Indian, Pizza, Chinese, Italian",
+        "price_for_two": "₹700 for two",
+        "location": "Shivpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/behind-yellow-doors-diner-shivpur/info"
+        ]
+    },
+    {
+        "name": "Divo - DoubleTree By Hilton",
+        "cuisine": "North Indian, Asian, Continental, Italian, Chinese, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹3,400 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/divo-doubletree-by-hilton-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Kashi Cloud Kitchen",
+        "cuisine": "Sandwich, Burger, Fast Food, Chinese, Rolls, North Indian, Pizza",
+        "price_for_two": "₹350 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kashi-cloud-kitchen-1-sigra/info"
+        ]
+    },
+    {
+        "name": "Shivam Restaurant",
+        "cuisine": "Chinese, Fast Food, Ice Cream",
+        "price_for_two": "₹300 for two",
+        "location": "Durgakund, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/shivam-restaurant-durgakund/info"
+        ]
+    },
+    {
+        "name": "The Aqua by Hotel Four Element",
+        "cuisine": "North Indian, Chinese, Pizza, Burger, Desserts, Sichuan, Salad",
+        "price_for_two": "₹700 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-aqua-by-hotel-four-element-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Delicious Delight D2",
+        "cuisine": "North Indian, Chinese, Mughlai, Kebab",
+        "price_for_two": "₹400 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/delicious-delight-d2-lanka/info"
+        ]
+    },
+    {
+        "name": "Taste Of Banaras",
+        "cuisine": "North Indian, Bengali, Seafood, Mughlai, Chinese",
+        "price_for_two": "₹300 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/taste-of-banaras-chetganj/info"
+        ]
+    },
+    {
+        "name": "Kankal Horror Restaurant",
+        "cuisine": "North Indian, Pizza, Rolls, Burger, Fast Food, Street Food, Chinese, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kankal-horror-restaurant-1-chetganj/info"
+        ]
+    },
+    {
+        "name": "1916 Cafe & Restaurant",
+        "cuisine": "North Indian, Chinese, Continental, Beverages, Fast Food",
+        "price_for_two": "₹450 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/1916-cafe-restaurant-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "De Once More",
+        "cuisine": "Beverages, Cafe, Coffee, North Indian",
+        "price_for_two": "₹800 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/de-once-more-lanka/info"
+        ]
+    },
+    {
+        "name": "Wife On Leave Restaurant",
+        "cuisine": "North Indian, Chinese, Charcoal Chicken, BBQ, Continental, Afghan, Biryani, Beverages",
+        "price_for_two": "₹700 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/wife-on-leave-restaurant-sigra/info"
+        ]
+    },
+    {
+        "name": "Fresh Cake",
+        "cuisine": "Bakery",
+        "price_for_two": "₹600 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/fresh-cake-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Champaran Desi Matka Meat House",
+        "cuisine": "Mughlai, Bihari, Lucknowi, North Indian",
+        "price_for_two": "₹500 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/champaran-desi-matka-meat-house-nadesar/info"
+        ]
+    },
+    {
+        "name": "The Biryani Mahal Banaras",
+        "cuisine": "Biryani, Mughlai, North Indian",
+        "price_for_two": "₹700 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-biryani-mahal-banaras-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Paradise Cafe Banquet Restaurant",
+        "cuisine": "North Indian, Chinese",
+        "price_for_two": "₹1,000 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/paradise-cafe-banquet-restaurant-lanka/info"
+        ]
+    },
+    {
+        "name": "Bianca Lounge & Bar - Hotel Castillo",
+        "cuisine": "North Indian, Alcoholic Beverages, Chinese, Finger Food, Pizza, Desserts, Beverages, Sichuan",
+        "price_for_two": "₹1,500 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/bianca-lounge-bar-hotel-castillo-sigra/info"
+        ]
+    },
+    {
+        "name": "Shri Annapurna Restaurant And Bakers",
+        "cuisine": "North Indian, South Indian, Chinese, Biryani, Ice Cream",
+        "price_for_two": "₹400 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/shri-annapurna-restaurant-and-bakers-pandeypur/info"
+        ]
+    },
+    {
+        "name": "D Courtyard Restaurant",
+        "cuisine": "North Indian, Mughlai, Chinese, Biryani, Fast Food, Beverages, Shake",
+        "price_for_two": "₹1,000 for two",
+        "location": "Lahartara, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/d-courtyard-restaurant-lahartara/info"
+        ]
+    },
+    {
+        "name": "Singh's Delight Restaurant",
+        "cuisine": "North Indian, African, Chinese, Fast Food, Pizza, Beverages, Seafood, Pasta",
+        "price_for_two": "₹700 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/singhs-delight-restaurant-sunderpur/info"
+        ]
+    },
+    {
+        "name": "Teaquila Cafe & Bistro",
+        "cuisine": "Cafe, Italian, Fast Food, Beverages, Chinese",
+        "price_for_two": "₹500 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/teaquila-cafe-bistro-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Ocean - The Rivatas by Ideal",
+        "cuisine": "North Indian, Desserts",
+        "price_for_two": "₹1,800 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/ocean-the-rivatas-by-ideal-nadesar/info"
+        ]
+    },
+    {
+        "name": "Momos Of Shaolin ️",
+        "cuisine": "Momos, Fast Food",
+        "price_for_two": "₹300 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/momos-of-shaolin-nadesar/info"
+        ]
+    },
+    {
+        "name": "Keventers Ice Cream",
+        "cuisine": "Ice Cream, Desserts",
+        "price_for_two": "₹300 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/keventers-ice-cream-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Keventers - Milkshakes & Desserts",
+        "cuisine": "Shake, Beverages, Desserts",
+        "price_for_two": "₹400 for two",
+        "location": "Shastri Nagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/keventers-milkshakes-desserts-shastri-nagar/info"
+        ]
+    },
+    {
+        "name": "Varuna - The Gateway Hotel",
+        "cuisine": "North Indian, Mughlai, Desserts",
+        "price_for_two": "₹1,700 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/varuna-the-gateway-hotel-nadesar/info"
+        ]
+    },
+    {
+        "name": "Shaakya Restaurant - Hotel SGT Plaza",
+        "cuisine": "North Indian, Italian, Chinese, South Indian, Fast Food, Beverages, Pizza, Desserts",
+        "price_for_two": "₹1,200 for two",
+        "location": "Sarnath, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/shaakya-restaurant-hotel-sgt-plaza-sarnath/info"
+        ]
+    },
+    {
+        "name": "84 Above",
+        "cuisine": "North Indian, Kebab, Chinese, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/84-above-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Dawat E Zaika",
+        "cuisine": "Biryani, North Indian, African, Arabian, Mughlai, Chinese, Fast Food",
+        "price_for_two": "₹850 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/dawat-e-zaika-bhelupur/info"
+        ]
+    },
+    {
+        "name": "The Sanatani's",
+        "cuisine": "Sandwich, Street Food",
+        "price_for_two": "₹250 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-sanatanis-lanka/info"
+        ]
+    },
+    {
+        "name": "Kalika Family Restaurant",
+        "cuisine": "North Indian, Mughlai, Seafood",
+        "price_for_two": "₹550 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kalika-family-restaurant-3-sunderpur/info"
+        ]
+    },
+    {
+        "name": "Zorko Brand Of Food Lovers",
+        "cuisine": "Fast Food, Street Food, Pizza, Burger, Sandwich, Shake, Beverages, Desserts",
+        "price_for_two": "₹400 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/zorko-brand-of-food-lovers-2-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Golden Hour Multi Cuisine Restaurant",
+        "cuisine": "North Indian, Chinese, Italian",
+        "price_for_two": "₹1,000 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/golden-hour-multi-cuisine-restaurant-lanka/info"
+        ]
+    },
+    {
+        "name": "The Perch Restaurant - Hotel Aviral Ganga",
+        "cuisine": "North Indian, Mughlai, Seafood, Chinese, Beverages",
+        "price_for_two": "₹900 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-perch-restaurant-hotel-aviral-ganga-lanka/info"
+        ]
+    },
+    {
+        "name": "Tandoor Villa",
+        "cuisine": "North Indian, Mughlai, Biryani, Seafood, Desserts, Beverages",
+        "price_for_two": "₹1,500 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/tandoor-villa-nadesar/info"
+        ]
+    },
+    {
+        "name": "The Palate - Ramada Plaza",
+        "cuisine": "Asian, Continental, North Indian, South Indian, Beverages, Desserts",
+        "price_for_two": "₹1,800 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-palate-ramada-plaza-nadesar/info"
+        ]
+    },
+    {
+        "name": "Chatkara Restaurant",
+        "cuisine": "North Indian, South Indian, Chinese",
+        "price_for_two": "₹850 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/chatkara-restaurant-sunderpur/info"
+        ]
+    },
+    {
+        "name": "Maa Annapurna Bhojnalaya",
+        "cuisine": "North Indian, Biryani",
+        "price_for_two": "₹450 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/maa-annapurna-bhojnalaya-1-sunderpur/info"
+        ]
+    },
+    {
+        "name": "Bindaas Family Restaurant",
+        "cuisine": "North Indian, Chinese, Biryani, Rolls",
+        "price_for_two": "₹600 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/bindaas-family-restaurant-sunderpur/info"
+        ]
+    },
+    {
+        "name": "Badnam Chai",
+        "cuisine": "Tea, Chinese, Momos, Street Food",
+        "price_for_two": "₹200 for two",
+        "location": "Jaitpura, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/badnam-chai-jaitpura/info"
+        ]
+    },
+    {
+        "name": "Pizza Vali Didi",
+        "cuisine": "Pizza, Burger, Sandwich, Fast Food, Shake, Beverages",
+        "price_for_two": "₹350 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/pizza-vali-didi-chetganj/info"
+        ]
+    },
+    {
+        "name": "Shri Maharaja Fast Food",
+        "cuisine": "Fast Food, Rolls, Chinese, North Indian, Biryani, Momos, Street Food, Sandwich",
+        "price_for_two": "₹350 for two",
+        "location": "Lahartara, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/shri-maharaja-fast-food-lahartara/info"
+        ]
+    },
+    {
+        "name": "Thali Expresss",
+        "cuisine": "North Indian",
+        "price_for_two": "₹350 for two",
+        "location": "Durgakund, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/thali-expresss-durgakund/info"
+        ]
+    },
+    {
+        "name": "The Mandirian",
+        "cuisine": "North Indian, Cafe",
+        "price_for_two": "₹1,000 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-mandirian-sunderpur/info"
+        ]
+    },
+    {
+        "name": "Lemon Grass Restaurant",
+        "cuisine": "Continental, North Indian, Chinese, Mughlai, Biryani, Fast Food, Shake, Beverages",
+        "price_for_two": "₹1,500 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/lemon-grass-restaurant-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "Rajesh Sweets & Bakers",
+        "cuisine": "Chinese, Desserts, Shake, Beverages, North Indian, South Indian, Street Food",
+        "price_for_two": "₹500 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/rajesh-sweets-bakers-chetganj/info"
+        ]
+    },
+    {
+        "name": "Seera",
+        "cuisine": "North Indian, Chinese, Continental, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹1,200 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/seera-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Night Owl Cafe",
+        "cuisine": "Pizza, Burger, Sandwich, Biryani, Fast Food, Shake, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Sarnath, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/night-owl-cafe-1-sarnath/info"
+        ]
+    },
+    {
+        "name": "Heaven Of Taste Cafe And Family Restaurant",
+        "cuisine": "North Indian, Chinese, Fast Food, Oriental",
+        "price_for_two": "₹1,000 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/heaven-of-taste-cafe-and-family-restaurant-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Food Junction 49",
+        "cuisine": "Chinese, North Indian, Momos, Sandwich, Street Food, Fast Food, Pizza, Beverages",
+        "price_for_two": "₹200 for two",
+        "location": "Durgakund, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/food-junction-49-durgakund/info"
+        ]
+    },
+    {
+        "name": "Caasefy Cafe",
+        "cuisine": "Pizza, Rolls, Fast Food, Chinese, Street Food, Pancake, Waffle, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/caasefy-cafe-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "AT Joy Cafe",
+        "cuisine": "North Indian, Chinese, Sandwich, Burger, Rolls, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/at-joy-cafe-4-lanka/info"
+        ]
+    },
+    {
+        "name": "Champaran",
+        "cuisine": "North Indian, Bihari, Biryani",
+        "price_for_two": "₹400 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/champaran-sigra/info"
+        ]
+    },
+    {
+        "name": "TMP-Taste Me Please",
+        "cuisine": "Pizza, Fast Food, Chinese, Burger, Rolls, Beverages",
+        "price_for_two": "₹350 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/tmp-taste-me-please-sigra/info"
+        ]
+    },
+    {
+        "name": "Blue Salt",
+        "cuisine": "Beverages, Juices, Momos, Shake, Street Food",
+        "price_for_two": "₹300 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/blue-salt-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "London Live Restaurant",
+        "cuisine": "North Indian, Mughlai, Sandwich, Burger, Chinese",
+        "price_for_two": "₹1,000 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/london-live-restaurant-chetganj/info"
+        ]
+    },
+    {
+        "name": "Satvik Restaurant by Pearl Courtyard",
+        "cuisine": "North Indian, Chinese, South Indian, Pizza, Fast Food, Shake",
+        "price_for_two": "₹700 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/satvik-restaurant-by-pearl-courtyard-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "Banarasi Biryani",
+        "cuisine": "Biryani, African, North Indian, Chinese",
+        "price_for_two": "₹500 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/banarasi-biryani-2-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Veer Ji Malai Chaap Wale",
+        "cuisine": "North Indian, Mughlai, Biryani, Chinese, Rolls, Burger, Momos, Beverages",
+        "price_for_two": "₹600 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/veer-ji-malai-chaap-wale-lanka/info"
+        ]
+    },
+    {
+        "name": "KFC",
+        "cuisine": "Burger, Fast Food, Rolls",
+        "price_for_two": "₹500 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kfc-sigra/info"
+        ]
+    },
+    {
+        "name": "Sagar Ratna",
+        "cuisine": "South Indian, Ice Cream",
+        "price_for_two": "₹700 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/sagar-ratna-lanka/info"
+        ]
+    },
+    {
+        "name": "D Sixty Four Dining",
+        "cuisine": "Chinese, North Indian, Italian, Momos, Sandwich, Oriental, Beverages, Street Food",
+        "price_for_two": "₹1,000 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/d-sixty-four-dining-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Rail Coach Restaurant",
+        "cuisine": "North Indian, Chinese",
+        "price_for_two": "₹350 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/rail-coach-restaurant-chetganj/info"
+        ]
+    },
+    {
+        "name": "Wendys",
+        "cuisine": "Burger",
+        "price_for_two": "₹200 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/wendys-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Marwad Sweet And Restaurant",
+        "cuisine": "Chinese, South Indian, Desserts",
+        "price_for_two": "₹250 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/marwad-sweet-and-restaurant-nadesar/info"
+        ]
+    },
+    {
+        "name": "Banaras Ki Rasoi",
+        "cuisine": "North Indian, Biryani",
+        "price_for_two": "₹300 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/banaras-ki-rasoi-chetganj/info"
+        ]
+    },
+    {
+        "name": "Baithack - Taste Of Kulhad",
+        "cuisine": "Tea, Coffee, Shake, Beverages, Pizza, Pasta, Sandwich, Burger",
+        "price_for_two": "₹500 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/baithack-taste-of-kulhad-1-lanka/info"
+        ]
+    },
+    {
+        "name": "Annpurna Hotel",
+        "cuisine": "North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/annpurna-hotel-chetganj/info"
+        ]
+    },
+    {
+        "name": "Roll Corner",
+        "cuisine": "North Indian, Biryani, Chinese, Fast Food, Rolls",
+        "price_for_two": "₹400 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/roll-corner-1-lanka/info"
+        ]
+    },
+    {
+        "name": "Engineer Chai Wala (Engineers Cafe)",
+        "cuisine": "Coffee, Beverages",
+        "price_for_two": "₹150 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/engineer-chai-wala-engineers-cafe-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Meals & More",
+        "cuisine": "North Indian, Chinese, Fast Food, Beverages",
+        "price_for_two": "₹450 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/meals-more-1-chetganj/info"
+        ]
+    },
+    {
+        "name": "Sanzha Chulha",
+        "cuisine": "Chinese, North Indian, Street Food, Indo-Chinese",
+        "price_for_two": "₹700 for two",
+        "location": "Harhua, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/sanzha-chulha-harhua/info"
+        ]
+    },
+    {
+        "name": "Chrystal Bowl Restaurant",
+        "cuisine": "North Indian, Italian, Burger, Sandwich, Pasta, Fast Food, Pizza, Mexican",
+        "price_for_two": "₹1,100 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/chrystal-bowl-restaurant-lanka/info"
+        ]
+    },
+    {
+        "name": "Shree Bhojanam",
+        "cuisine": "South Indian, North Indian, Chinese, Desserts, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/shree-bhojanam-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "Ram - Ram Authentic Veg Restaurant",
+        "cuisine": "North Indian, Chinese, Biryani, Continental, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Luxa, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/ram-ram-authentic-veg-restaurant-luxa/info"
+        ]
+    },
+    {
+        "name": "Rahil Restaurant",
+        "cuisine": "North Indian, South Indian, Chinese, Ice Cream, Beverages, Salad",
+        "price_for_two": "₹500 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/rahil-restaurant-sigra/info"
+        ]
+    },
+    {
+        "name": "Sunrise Resturant",
+        "cuisine": "North Indian, South Indian, Chinese, Pizza, Ice Cream",
+        "price_for_two": "₹200 for two",
+        "location": "Ramnagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/sunrise-resturant-ramnagar/info"
+        ]
+    },
+    {
+        "name": "Banarasiya Junction",
+        "cuisine": "North Indian, Momos, Pizza, Burger, Sandwich, Rolls, Fast Food, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/banarasiya-junction-lanka/info"
+        ]
+    },
+    {
+        "name": "Keshari Fast Food",
+        "cuisine": "North Indian, Pizza, Rolls, Momos, Chinese, Fast Food",
+        "price_for_two": "₹400 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/keshari-fast-food-4-sigra/info"
+        ]
+    },
+    {
+        "name": "Saturday Biryani",
+        "cuisine": "Biryani, Fast Food",
+        "price_for_two": "₹400 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/saturday-biryani-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Pizza's Hub",
+        "cuisine": "Pizza, Italian, Fast Food",
+        "price_for_two": "₹450 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/pizzas-hub-sunderpur/info"
+        ]
+    },
+    {
+        "name": "C2H5 Klub",
+        "cuisine": "Chinese, Fast Food, Salad, North Indian, Bar Food, Desserts, Oriental, Finger Food",
+        "price_for_two": "₹1,200 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/c2h5-klub-2-chetganj/info"
+        ]
+    },
+    {
+        "name": "Flavours Restaurant",
+        "cuisine": "North Indian, Chinese, Mughlai, Fast Food, Wraps, Biryani, Desserts, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/flavours-restaurant-nadesar/info"
+        ]
+    },
+    {
+        "name": "Lemon Grass Fine Dine And Lounge Bar",
+        "cuisine": "Continental, North Indian, Chinese, Mughlai, Biryani, Fast Food, Shake, Beverages",
+        "price_for_two": "₹1,500 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/lemon-grass-fine-dine-and-lounge-bar-chetganj/info"
+        ]
+    },
+    {
+        "name": "Masala Mist - Sands Of Kashi",
+        "cuisine": "North Indian, Chinese, Biryani, Mughlai",
+        "price_for_two": "₹900 for two",
+        "location": "Shastri Nagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/masala-mist-sands-of-kashi-shastri-nagar/info"
+        ]
+    },
+    {
+        "name": "Golden Peacock- By Hotel Rio Benaras",
+        "cuisine": "Chinese, North Indian, Salad, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹1,500 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/golden-peacock-by-hotel-rio-benaras-nadesar/info"
+        ]
+    },
+    {
+        "name": "Shri Rajbandhu Since 1887",
+        "cuisine": "Mithai",
+        "price_for_two": "₹250 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/shri-rajbandhu-since-1887-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Amma Cafe",
+        "cuisine": "North Indian, Chinese, Continental, South Indian, Desserts, Coffee, Shake, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/amma-cafe-bhelupur/info"
+        ]
+    },
+    {
+        "name": "360 Degree Dining",
+        "cuisine": "North Indian, Chinese",
+        "price_for_two": "₹1,000 for two",
+        "location": "Harhua, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/360-degree-dining-harhua/info"
+        ]
+    },
+    {
+        "name": "Star Family Restaurant",
+        "cuisine": "North Indian, Street Food, Chinese",
+        "price_for_two": "₹300 for two",
+        "location": "Ramnagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/star-family-restaurant-ramnagar/info"
+        ]
+    },
+    {
+        "name": "Tandoori Night's With Kabab",
+        "cuisine": "North Indian, Chinese, Mughlai, Fast Food, Biryani",
+        "price_for_two": "₹600 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/tandoori-nights-with-kabab-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Shri Viswanath Hotel",
+        "cuisine": "North Indian, Chinese",
+        "price_for_two": "₹300 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/shri-viswanath-hotel-chetganj/info"
+        ]
+    },
+    {
+        "name": "Mahabeer Bhojanalya And Bati Choka",
+        "cuisine": "North Indian, Rajasthani",
+        "price_for_two": "₹300 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/mahabeer-bhojanalya-and-bati-choka-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Kashi Chai Sutta Bar",
+        "cuisine": "Shake, Beverages, Chinese, Pasta, Sandwich, Fast Food",
+        "price_for_two": "₹450 for two",
+        "location": "Durgakund, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kashi-chai-sutta-bar-2-durgakund/info"
+        ]
+    },
+    {
+        "name": "Cafe 41",
+        "cuisine": "North Indian, Burger, Chinese, Pizza, Sandwich, Momos, Fast Food, Shake",
+        "price_for_two": "₹500 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/cafe-41-1-lanka/info"
+        ]
+    },
+    {
+        "name": "Banaras Metro Family Restaurant",
+        "cuisine": "North Indian, South Indian, Chinese",
+        "price_for_two": "₹1,000 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/banaras-metro-family-restaurant-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Grapevine Restaurant",
+        "cuisine": "North Indian, Chinese, Pizza, Mughlai, Italian, Lebanese, Kebab",
+        "price_for_two": "₹1,100 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/grapevine-restaurant-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "The Awadh Maan Hotel Restaurant And Lawn",
+        "cuisine": "North Indian, Chinese, Mughlai, Fast Food, Beverages",
+        "price_for_two": "₹600 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-awadh-maan-hotel-restaurant-and-lawn-nadesar/info"
+        ]
+    },
+    {
+        "name": "Sri Annapurna Sweets & Snacks",
+        "cuisine": "Chinese, North Indian, Fast Food, Street Food, Mithai, South Indian",
+        "price_for_two": "₹1,000 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/sri-annapurna-sweets-snacks-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Mr Pizza Wala",
+        "cuisine": "Pizza, Fast Food, Shake, Beverages",
+        "price_for_two": "₹450 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/mr-pizza-wala-sigra/info"
+        ]
+    },
+    {
+        "name": "Bistro B2",
+        "cuisine": "Burger, North Indian, Chinese, Pizza, Shake, Beverages, Sandwich, Ice Cream",
+        "price_for_two": "₹900 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/bistro-b2-chetganj/info"
+        ]
+    },
+    {
+        "name": "Tafri Bar & Lounge By The Elegance",
+        "cuisine": "North Indian, Chinese, Bar Food",
+        "price_for_two": "₹2,600 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/tafri-bar-lounge-by-the-elegance-sunderpur/info"
+        ]
+    },
+    {
+        "name": "Ambrosia Restaurant",
+        "cuisine": "North Indian, Chinese, Biryani, Fast Food, Street Food, Bakery, Desserts, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Bhikharipur Kala, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/ambrosia-restaurant-bhikharipur-kala/info"
+        ]
+    },
+    {
+        "name": "Spica11 Restaurant",
+        "cuisine": "North Indian, South Indian, Mughlai, Chinese, Continental, Kebab, Desserts, Beverages",
+        "price_for_two": "₹1,100 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/spica11-restaurant-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Rasika Lounge & Bar - The Amayaa",
+        "cuisine": "Bar Food, North Indian, Mughlai, Beverages, Oriental, Finger Food",
+        "price_for_two": "₹1,200 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/rasika-lounge-bar-the-amayaa-nadesar/info"
+        ]
+    },
+    {
+        "name": "The Bluu- Rivatas by Ideal",
+        "cuisine": "Finger Food, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹1,500 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-bluu-rivatas-by-ideal-nadesar/info"
+        ]
+    },
+    {
+        "name": "Dolphin Grand",
+        "cuisine": "South Indian, North Indian, Chinese",
+        "price_for_two": "₹1,100 for two",
+        "location": "Jaitpura, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/dolphin-grand-jaitpura/info"
+        ]
+    },
+    {
+        "name": "Kashi Zayka Family Restaurant",
+        "cuisine": "North Indian, Chinese, Fast Food",
+        "price_for_two": "₹300 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kashi-zayka-family-restaurant-1-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Royal Cafe & Restaurant",
+        "cuisine": "North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Sarnath, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/royal-cafe-restaurant-sarnath/info"
+        ]
+    },
+    {
+        "name": "Maa Annapurna",
+        "cuisine": "North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/maa-annapurna-chetganj/info"
+        ]
+    },
+    {
+        "name": "Mint Leaf",
+        "cuisine": "Burger, Rolls",
+        "price_for_two": "₹200 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/mint-leaf-1-lanka/info"
+        ]
+    },
+    {
+        "name": "Delicious Delight Family Restaurant",
+        "cuisine": "North Indian, Chinese, Biryani, Fast Food, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/delicious-delight-family-restaurant-1-lanka/info"
+        ]
+    },
+    {
+        "name": "Happy Fast Food",
+        "cuisine": "North Indian, Chinese, Rolls, Street Food",
+        "price_for_two": "₹300 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/happy-fast-food-1-chetganj/info"
+        ]
+    },
+    {
+        "name": "Sagarika Bhojanalya & Restaurant",
+        "cuisine": "North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Shivala, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/sagarika-bhojanalya-restaurant-shivala/info"
+        ]
+    },
+    {
+        "name": "Flavour King Pizza",
+        "cuisine": "Pizza, Fast Food, Pasta, Street Food",
+        "price_for_two": "₹200 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/flavour-king-pizza-1-nadesar/info"
+        ]
+    },
+    {
+        "name": "Balaji Restaurant And Dhaba",
+        "cuisine": "North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Ramnagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/balaji-restaurant-and-dhaba-ramnagar/info"
+        ]
+    },
+    {
+        "name": "Petal Of Love And Cake",
+        "cuisine": "Bakery, Desserts, Pizza, Burger, Fast Food",
+        "price_for_two": "₹200 for two",
+        "location": "Godaulia, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/petal-of-love-and-cake-1-godaulia/info"
+        ]
+    },
+    {
+        "name": "Ming Garden Bakery",
+        "cuisine": "Bakery, Desserts, Pizza, Shake, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/ming-garden-bakery-lanka/info"
+        ]
+    },
+    {
+        "name": "Royal Cafe & Dining",
+        "cuisine": "North Indian, Mughlai, Biryani, Chinese, Fast Food, Desserts, Shake, Beverages",
+        "price_for_two": "₹650 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/royal-cafe-dining-sigra/info"
+        ]
+    },
+    {
+        "name": "Kesariya Thal",
+        "cuisine": "North Indian, Rajasthani, Beverages",
+        "price_for_two": "₹800 for two",
+        "location": "Luxa, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kesariya-thal-luxa/info"
+        ]
+    },
+    {
+        "name": "Bhoj Restaurant",
+        "cuisine": "North Indian, Chinese, Oriental",
+        "price_for_two": "₹1,000 for two",
+        "location": "Babatpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/bhoj-restaurant-babatpur/info"
+        ]
+    },
+    {
+        "name": "Windsor Bar- Hotel Hindustan International",
+        "cuisine": "Finger Food",
+        "price_for_two": "₹1,200 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/windsor-bar-hotel-hindustan-international-chetganj/info"
+        ]
+    },
+    {
+        "name": "Sri Annapurna Restaurant",
+        "cuisine": "North Indian, South Indian, Street Food, Beverages",
+        "price_for_two": "₹800 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/sri-annapurna-restaurant-chetganj/info"
+        ]
+    },
+    {
+        "name": "Bati Chokha Restaurant",
+        "cuisine": "Rajasthani",
+        "price_for_two": "₹300 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/bati-chokha-restaurant-bhelupur/info"
+        ]
+    },
+    {
+        "name": "New Bhole Paneer Chat Bhandar",
+        "cuisine": "Street Food",
+        "price_for_two": "₹100 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/new-bhole-paneer-chat-bhandar-nadesar/info"
+        ]
+    },
+    {
+        "name": "Saffron Veg Restaurant",
+        "cuisine": "North Indian, African, Beverages",
+        "price_for_two": "₹700 for two",
+        "location": "Godaulia, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/saffron-veg-restaurant-godaulia/info"
+        ]
+    },
+    {
+        "name": "Cafe Cool Vibe",
+        "cuisine": "North Indian",
+        "price_for_two": "₹1,000 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/cafe-cool-vibe-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Poker Mania Restaurant",
+        "cuisine": "Chinese, North Indian, Salad, Desserts, Oriental, Burger, Sandwich, Italian",
+        "price_for_two": "₹1,200 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/poker-mania-restaurant-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Apna Banaras",
+        "cuisine": "North Indian, Chinese, Fast Food",
+        "price_for_two": "₹600 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/apna-banaras-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Annapurna Dhaba",
+        "cuisine": "",
+        "price_for_two": "₹600 for two",
+        "location": "Bhikharipur Kala, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/annapurna-dhaba-bhikharipur-kala/info"
+        ]
+    },
+    {
+        "name": "Radiant Restaurant",
+        "cuisine": "North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/radiant-restaurant-sigra/info"
+        ]
+    },
+    {
+        "name": "Royal Chinese Crush",
+        "cuisine": "Chinese, Pizza, Burger, Sandwich, Rolls, Street Food, Fast Food, Beverages",
+        "price_for_two": "₹450 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/royal-chinese-crush-nadesar/info"
+        ]
+    },
+    {
+        "name": "Freeway Cafe",
+        "cuisine": "Fast Food, Chinese, Momos",
+        "price_for_two": "₹200 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/freeway-cafe-1-lanka/info"
+        ]
+    },
+    {
+        "name": "Amigos Cafe & Dine In",
+        "cuisine": "North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/amigos-cafe-dine-in-lanka/info"
+        ]
+    },
+    {
+        "name": "Pizza Rocks",
+        "cuisine": "Pizza, Rolls, Cafe",
+        "price_for_two": "₹400 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/pizza-rocks-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Kasturi Zayka",
+        "cuisine": "North Indian",
+        "price_for_two": "₹200 for two",
+        "location": "Shastri Nagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kasturi-zayka-shastri-nagar/info"
+        ]
+    },
+    {
+        "name": "Swad Restaurant",
+        "cuisine": "North Indian",
+        "price_for_two": "₹450 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/swad-restaurant-sigra/info"
+        ]
+    },
+    {
+        "name": "Jhatpat Restaurant",
+        "cuisine": "Chinese, North Indian, Biryani",
+        "price_for_two": "₹700 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/jhatpat-restaurant-1-lanka/info"
+        ]
+    },
+    {
+        "name": "Mahadev Fast Food Corner",
+        "cuisine": "Fast Food, Chinese",
+        "price_for_two": "₹300 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/mahadev-fast-food-corner-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Made In Banaras Family Restaurant",
+        "cuisine": "North Indian, Biryani",
+        "price_for_two": "₹400 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/made-in-banaras-family-restaurant-1-chetganj/info"
+        ]
+    },
+    {
+        "name": "Aalishan Zaika",
+        "cuisine": "North Indian, Fast Food, Chinese, Beverages, Ice Cream",
+        "price_for_two": "₹550 for two",
+        "location": "Lahartara, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/aalishan-zaika-1-lahartara/info"
+        ]
+    },
+    {
+        "name": "Diamond Hotel",
+        "cuisine": "Beverages, Coffee, Shake, Tea",
+        "price_for_two": "₹150 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/diamond-hotel-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Stallion Bar - Doubletree By Hilton",
+        "cuisine": "Bar Food",
+        "price_for_two": "₹2,000 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/stallion-bar-doubletree-by-hilton-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Banana Leaf Restaurant",
+        "cuisine": "North Indian, Chinese, South Indian",
+        "price_for_two": "₹1,000 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/banana-leaf-restaurant-lanka/info"
+        ]
+    },
+    {
+        "name": "Banarasi Tadka",
+        "cuisine": "Chinese, North Indian",
+        "price_for_two": "₹350 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/banarasi-tadka-6-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Chillax Fast Food Corner",
+        "cuisine": "Pizza, Chinese",
+        "price_for_two": "₹300 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/chillax-fast-food-corner-chetganj/info"
+        ]
+    },
+    {
+        "name": "Kiara's Kitchen",
+        "cuisine": "North Indian, Mughlai, Biryani, Italian, Chinese, Continental, Desserts, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Harhua, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kiaras-kitchen-harhua/info"
+        ]
+    },
+    {
+        "name": "Captain Burger",
+        "cuisine": "Burger, African, Fast Food, American, Shake, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/captain-burger-2-sigra/info"
+        ]
+    },
+    {
+        "name": "Kerala Cafe",
+        "cuisine": "South Indian, Street Food, Ice Cream, Beverages",
+        "price_for_two": "₹350 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kerala-cafe-2-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Cubic Cafe Rooftop",
+        "cuisine": "North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/cubic-cafe-rooftop-lanka/info"
+        ]
+    },
+    {
+        "name": "Samarpan Dhaba",
+        "cuisine": "North Indian, Street Food",
+        "price_for_two": "₹300 for two",
+        "location": "Bhikharipur Kala, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/samarpan-dhaba-bhikharipur-kala/info"
+        ]
+    },
+    {
+        "name": "Lucknow Handi Biryani Family Restaurant",
+        "cuisine": "Biryani, Mughlai",
+        "price_for_two": "₹400 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/lucknow-handi-biryani-family-restaurant-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "Kalakaar Cafe And Restaurant",
+        "cuisine": "North Indian, Pizza, Pasta, Fast Food, Chinese, Street Food, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kalakaar-cafe-and-restaurant-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Sitaram cafe",
+        "cuisine": "",
+        "price_for_two": "for two",
+        "location": "Lahartara, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/sitaram-cafe-lahartara/info"
+        ]
+    },
+    {
+        "name": "Wendy's Flavor Fresh Burgers",
+        "cuisine": "Burger",
+        "price_for_two": "₹300 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/wendys-flavor-fresh-burgers-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Singh's Cafe & Restaurant",
+        "cuisine": "",
+        "price_for_two": "for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/singhs-cafe-restaurant-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Tridev Dhaba And Restaurants",
+        "cuisine": "Biryani, Chinese, North Indian, Fast Food",
+        "price_for_two": "₹350 for two",
+        "location": "Bhikharipur Kala, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/tridev-dhaba-and-restaurants-bhikharipur-kala/info"
+        ]
+    },
+    {
+        "name": "The Momo's Shop",
+        "cuisine": "Fast Food, Momos",
+        "price_for_two": "₹300 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-momos-shop-sunderpur/info"
+        ]
+    },
+    {
+        "name": "The Spicy Grill",
+        "cuisine": "Fast Food, Chinese, South Indian, Mughlai, North Indian, Beverages",
+        "price_for_two": "₹600 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-spicy-grill-lanka/info"
+        ]
+    },
+    {
+        "name": "Sol Bar - Hotel Surya",
+        "cuisine": "Finger Food, North Indian, Mughlai, Fast Food, Pizza",
+        "price_for_two": "₹3,000 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/sol-bar-hotel-surya-nadesar/info"
+        ]
+    },
+    {
+        "name": "Dining Express The Train Restro",
+        "cuisine": "North Indian, Mughlai, Biryani, Chinese, Fast Food, Beverages, Ice Cream",
+        "price_for_two": "₹1,200 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/dining-express-the-train-restro-sunderpur/info"
+        ]
+    },
+    {
+        "name": "Pizza Paai",
+        "cuisine": "Pizza, Chinese, Sandwich, Burger, Fast Food, Street Food, Shake, Beverages",
+        "price_for_two": "₹850 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/pizza-paai-sunderpur/info"
+        ]
+    },
+    {
+        "name": "Kalika Dhaba And Family Restaurant",
+        "cuisine": "Chinese, Mughlai",
+        "price_for_two": "₹300 for two",
+        "location": "Bhikharipur Kala, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kalika-dhaba-and-family-restaurant-bhikharipur-kala/info"
+        ]
+    },
+    {
+        "name": "Jai Basera Dhaba",
+        "cuisine": "North Indian, Mughlai",
+        "price_for_two": "₹300 for two",
+        "location": "Lahartara, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/jai-basera-dhaba-lahartara/info"
+        ]
+    },
+    {
+        "name": "Welcome Dhaba And Family Restaurant",
+        "cuisine": "",
+        "price_for_two": "for two",
+        "location": "Bhikharipur Kala, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/welcome-dhaba-and-family-restaurant-bhikharipur-kala/info"
+        ]
+    },
+    {
+        "name": "Shahi Restaurant",
+        "cuisine": "Biryani, Chinese, Coffee, North Indian, South Indian, Indo-Chinese, Mughlai, Street Food",
+        "price_for_two": "₹1,000 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/shahi-restaurant-sigra/info"
+        ]
+    },
+    {
+        "name": "Vedang",
+        "cuisine": "North Indian, Chinese, Oriental, Italian, Beverages, Desserts, Modern Indian, South Indian",
+        "price_for_two": "₹1,500 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/vedang-sigra/info"
+        ]
+    },
+    {
+        "name": "The Cocktail Bar- Ramada By Wyndham",
+        "cuisine": "Bar Food",
+        "price_for_two": "₹1,100 for two",
+        "location": "Ramnagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-cocktail-bar-ramada-by-wyndham-ramnagar/info"
+        ]
+    },
+    {
+        "name": "Bikanervala",
+        "cuisine": "North Indian, Street Food, South Indian, Chinese, Fast Food, Desserts, Shake, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/bikanervala-bhelupur/info"
+        ]
+    },
+    {
+        "name": "The Coffee Trading & Co.",
+        "cuisine": "Cafe, Coffee",
+        "price_for_two": "₹300 for two",
+        "location": "Sarnath, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-coffee-trading-co-sarnath/info"
+        ]
+    },
+    {
+        "name": "Tik Tok Pizza Burgers",
+        "cuisine": "Burger, Pizza, Fast Food",
+        "price_for_two": "₹200 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/tik-tok-pizza-burgers-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Lucknow Biryani",
+        "cuisine": "Biryani, Mughlai, North Indian",
+        "price_for_two": "₹400 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/lucknow-biryani-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Germanee",
+        "cuisine": "Pizza, South Indian, Chinese, Fast Food, Wraps, Pasta, Shake, Beverages",
+        "price_for_two": "₹450 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/germanee-nadesar/info"
+        ]
+    },
+    {
+        "name": "Momo Jn",
+        "cuisine": "Street Food, Momos",
+        "price_for_two": "₹300 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/momo-jn-lanka/info"
+        ]
+    },
+    {
+        "name": "Tadka - Ramada Plaza",
+        "cuisine": "North Indian, Mughlai, Desserts, Beverages",
+        "price_for_two": "₹1,200 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/tadka-ramada-plaza-nadesar/info"
+        ]
+    },
+    {
+        "name": "Capsicum Fine Dining",
+        "cuisine": "North Indian, Chinese, Fast Food",
+        "price_for_two": "₹800 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/capsicum-fine-dining-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Cupid Roof",
+        "cuisine": "South Indian, Chinese, Fast Food, Kebab",
+        "price_for_two": "₹500 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/cupid-roof-lanka/info"
+        ]
+    },
+    {
+        "name": "My Pizza Hub",
+        "cuisine": "Burger, Pizza, Sandwich, Fast Food, Beverages",
+        "price_for_two": "₹250 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/my-pizza-hub-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Kashi Chat Bhandar",
+        "cuisine": "Street Food",
+        "price_for_two": "₹300 for two",
+        "location": "Jaitpura, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kashi-chat-bhandar-jaitpura/info"
+        ]
+    },
+    {
+        "name": "Shahi Daya Restaurant",
+        "cuisine": "North Indian, Chinese, South Indian, Mughlai, Indo-Chinese",
+        "price_for_two": "₹650 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/shahi-daya-restaurant-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Salt- Hotel Arcadia",
+        "cuisine": "North Indian, Mughlai, Seafood, Chinese, Kebab, Biryani, Desserts",
+        "price_for_two": "₹600 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/salt-hotel-arcadia-chetganj/info"
+        ]
+    },
+    {
+        "name": "A.K Samosi Queen",
+        "cuisine": "Street Food",
+        "price_for_two": "₹100 for two",
+        "location": "Lahartara, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/a-k-samosi-queen-1-lahartara/info"
+        ]
+    },
+    {
+        "name": "Keshav Kunj Family Restaurant",
+        "cuisine": "North Indian, Biryani, South Indian, Chinese, Street Food, Ice Cream",
+        "price_for_two": "₹400 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/keshav-kunj-family-restaurant-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Rajasthani Rasoi",
+        "cuisine": "North Indian, Beverages",
+        "price_for_two": "₹600 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/rajasthani-rasoi-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "The Town House Cafe",
+        "cuisine": "Chinese, Pizza, Sandwich, Burger, Momos, Italian, Street Food, Desserts",
+        "price_for_two": "₹600 for two",
+        "location": "Bhikharipur Kala, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-town-house-cafe-bhikharipur-kala/info"
+        ]
+    },
+    {
+        "name": "Hide In",
+        "cuisine": "North Indian, Biryani, Chinese",
+        "price_for_two": "₹600 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/hide-in-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Royal Tattva Restaurant",
+        "cuisine": "North Indian, Mughlai, Chinese, Fast Food, Street Food, Biryani, Desserts, Beverages",
+        "price_for_two": "₹650 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/royal-tattva-restaurant-lanka/info"
+        ]
+    },
+    {
+        "name": "Bollyghat Cafe",
+        "cuisine": "North Indian, Chinese, Pizza, Sandwich, Pasta",
+        "price_for_two": "₹1,000 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/bollyghat-cafe-1-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Bhole Chature",
+        "cuisine": "North Indian, Chinese",
+        "price_for_two": "₹250 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/bhole-chature-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Tandoori Temptation",
+        "cuisine": "Beverages, Chinese, North Indian, Indo-Chinese, Street Food",
+        "price_for_two": "₹1,000 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/tandoori-temptation-nadesar/info"
+        ]
+    },
+    {
+        "name": "THS -Cafe & Rooftop",
+        "cuisine": "North Indian, Chinese, Momos, Fast Food",
+        "price_for_two": "₹500 for two",
+        "location": "Shivpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/ths-cafe-rooftop-shivpur/info"
+        ]
+    },
+    {
+        "name": "Swaadam Pure Veg Restaurant",
+        "cuisine": "North Indian, Chinese, Street Food, Beverages",
+        "price_for_two": "₹700 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/swaadam-pure-veg-restaurant-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "Treat Cafe And Dine",
+        "cuisine": "Italian, North Indian, Continental, Chinese, Sandwich, Desserts, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/treat-cafe-and-dine-nadesar/info"
+        ]
+    },
+    {
+        "name": "AV Ice Cream And Cold Drink",
+        "cuisine": "Ice Cream, Desserts, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "Ramnagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/av-ice-cream-and-cold-drink-ramnagar/info"
+        ]
+    },
+    {
+        "name": "English Masala",
+        "cuisine": "North Indian, African, Italian, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/english-masala-1-lanka/info"
+        ]
+    },
+    {
+        "name": "Jaws- The Madin Hotel",
+        "cuisine": "North Indian, Ice Cream",
+        "price_for_two": "₹1,000 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/jaws-the-madin-hotel-nadesar/info"
+        ]
+    },
+    {
+        "name": "Pizza Club",
+        "cuisine": "Pizza",
+        "price_for_two": "₹250 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/pizza-club-2-lanka/info"
+        ]
+    },
+    {
+        "name": "Balaji Restaurant",
+        "cuisine": "North Indian, Chinese, South Indian",
+        "price_for_two": "₹500 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/balaji-restaurant-sunderpur/info"
+        ]
+    },
+    {
+        "name": "The Food Palace",
+        "cuisine": "North Indian, Chinese, Biryani, Beverages, Kebab, Rolls",
+        "price_for_two": "₹400 for two",
+        "location": "Lahartara, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-food-palace-lahartara/info"
+        ]
+    },
+    {
+        "name": "Aroma Restaurant",
+        "cuisine": "North Indian, Mughlai, Biryani, Kebab, Chinese, Pizza, Fast Food, Desserts",
+        "price_for_two": "₹1,000 for two",
+        "location": "Lahartara, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/aroma-restaurant-lahartara/info"
+        ]
+    },
+    {
+        "name": "Burg Bite",
+        "cuisine": "Burger, Pizza, Sandwich, Fast Food, Street Food, Shake, Beverages",
+        "price_for_two": "₹350 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/burg-bite-1-lanka/info"
+        ]
+    },
+    {
+        "name": "Sanzha Chulha Family Restaurant",
+        "cuisine": "Chinese, North Indian, Street Food, Indo-Chinese",
+        "price_for_two": "₹700 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/sanzha-chulha-family-restaurant-nadesar/info"
+        ]
+    },
+    {
+        "name": "Jamuna Das Biscuits",
+        "cuisine": "Bakery",
+        "price_for_two": "₹300 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/jamuna-das-biscuits-sigra/info"
+        ]
+    },
+    {
+        "name": "The London Shakes & Cafe",
+        "cuisine": "Fast Food, Chinese, Pasta, Wraps, Sandwich, Desserts, Beverages, American",
+        "price_for_two": "₹300 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-london-shakes-cafe-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Le Buffet- Hotel Le Lotus Grand",
+        "cuisine": "North Indian, Chinese, Continental",
+        "price_for_two": "₹500 for two",
+        "location": "Kakarmata, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/le-buffet-hotel-le-lotus-grand-kakarmata/info"
+        ]
+    },
+    {
+        "name": "The Bamboo Restaurant",
+        "cuisine": "North Indian, Biryani, Mughlai, Chinese, Rolls, Fast Food, Salad, Beverages",
+        "price_for_two": "₹650 for two",
+        "location": "Sarnath, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-bamboo-restaurant-sarnath/info"
+        ]
+    },
+    {
+        "name": "Hastag Multi Cuisine Restro & Garden",
+        "cuisine": "North Indian, Oriental, Chinese, Tibetan, Momos, Fast Food, Biryani, Desserts",
+        "price_for_two": "₹1,000 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/hastag-multi-cuisine-restro-garden-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Banaras Bliss",
+        "cuisine": "North Indian, Chinese, Fast Food, Street Food, Burger, Pizza, Shake, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/banaras-bliss-1-lanka/info"
+        ]
+    },
+    {
+        "name": "Vishwanath Chat Bhandar",
+        "cuisine": "Street Food",
+        "price_for_two": "₹150 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/vishwanath-chat-bhandar-lanka/info"
+        ]
+    },
+    {
+        "name": "Chowk - The Gateway Hotel",
+        "cuisine": "Continental",
+        "price_for_two": "₹2,000 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/chowk-the-gateway-hotel-nadesar/info"
+        ]
+    },
+    {
+        "name": "Ankit Sweets",
+        "cuisine": "Mithai",
+        "price_for_two": "₹300 for two",
+        "location": "Ramnagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/ankit-sweets-ramnagar/info"
+        ]
+    },
+    {
+        "name": "Baba Kal Bhairav Restaurant",
+        "cuisine": "South Indian, Fast Food",
+        "price_for_two": "₹100 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/baba-kal-bhairav-restaurant-pandeypur/info"
+        ]
+    },
+    {
+        "name": "BSB Local",
+        "cuisine": "North Indian, Chinese, Fast Food, Pizza, Pasta, Desserts, Beverages, South Indian",
+        "price_for_two": "₹700 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/bsb-local-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Desi Masala Chowk",
+        "cuisine": "Chinese, Burger, Momos",
+        "price_for_two": "₹300 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/desi-masala-chowk-pandeypur/info"
+        ]
+    },
+    {
+        "name": "My Dream Restaurant",
+        "cuisine": "North Indian, Sandwich, Burger, Pizza, Chinese",
+        "price_for_two": "₹500 for two",
+        "location": "Sarnath, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/my-dream-restaurant-sarnath/info"
+        ]
+    },
+    {
+        "name": "Basant Cafe",
+        "cuisine": "North Indian, Chinese, South Indian, Desserts, Beverages",
+        "price_for_two": "₹600 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/basant-cafe-chetganj/info"
+        ]
+    },
+    {
+        "name": "The Oakwood Bar- Radisson Hotel",
+        "cuisine": "Beverages, Bar Food",
+        "price_for_two": "₹1,500 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-oakwood-bar-radisson-hotel-1-nadesar/info"
+        ]
+    },
+    {
+        "name": "Pahalwan Lassi",
+        "cuisine": "Beverages, Street Food, Desserts",
+        "price_for_two": "₹100 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/pahalwan-lassi-lanka/info"
+        ]
+    },
+    {
+        "name": "Sri Naivedyam",
+        "cuisine": "South Indian, Chinese, North Indian, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/sri-naivedyam-2-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "New Sai Bakers",
+        "cuisine": "Bakery, Pizza, Sandwich, Fast Food, Street Food",
+        "price_for_two": "₹200 for two",
+        "location": "Shivpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/new-sai-bakers-shivpur/info"
+        ]
+    },
+    {
+        "name": "Ksheer Sagar",
+        "cuisine": "Mithai",
+        "price_for_two": "₹500 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/ksheer-sagar-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "Momomia - Love In Every Bite",
+        "cuisine": "Momos, Street Food, Chinese, Rolls, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/momomia-love-in-every-bite-lanka/info"
+        ]
+    },
+    {
+        "name": "Pawan Chat Stall",
+        "cuisine": "Street Food",
+        "price_for_two": "₹150 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/pawan-chat-stall-1-lanka/info"
+        ]
+    },
+    {
+        "name": "The Burger Company",
+        "cuisine": "Burger, Fast Food, Pizza, Sandwich, Waffle, Shake, Beverages",
+        "price_for_two": "₹350 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-burger-company-1-nadesar/info"
+        ]
+    },
+    {
+        "name": "Tarang Bar - The Clarks Hotel",
+        "cuisine": "Finger Food, Beverages",
+        "price_for_two": "₹2,700 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/tarang-bar-the-clarks-hotel-nadesar/info"
+        ]
+    },
+    {
+        "name": "Pahelwan Lassi Wale",
+        "cuisine": "",
+        "price_for_two": "for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/pahelwan-lassi-wale-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "Casamila Restro & Banquet",
+        "cuisine": "North Indian, Chinese, Biryani",
+        "price_for_two": "₹400 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/casamila-restro-banquet-nadesar/info"
+        ]
+    },
+    {
+        "name": "Mom’s Kitchen",
+        "cuisine": "North Indian, Chinese, Momos, Fast Food, Pizza, Burger, Desserts, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/moms-kitchen-nadesar/info"
+        ]
+    },
+    {
+        "name": "K N Cafe",
+        "cuisine": "Pizza, Pasta, Sandwich, Burger, Rolls, Fast Food, Chinese, Momos",
+        "price_for_two": "₹400 for two",
+        "location": "Sarnath, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/k-n-cafe-1-sarnath/info"
+        ]
+    },
+    {
+        "name": "Sandesh Sweets and Restaurant",
+        "cuisine": "Mithai, South Indian, Chinese, North Indian, Street Food",
+        "price_for_two": "₹450 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/sandesh-sweets-and-restaurant-nadesar/info"
+        ]
+    },
+    {
+        "name": "Yadav Hotel",
+        "cuisine": "North Indian",
+        "price_for_two": "₹200 for two",
+        "location": "Godaulia, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/yadav-hotel-godaulia/info"
+        ]
+    },
+    {
+        "name": "Rasna Family Restaurant",
+        "cuisine": "Chinese, North Indian, South Indian, Fast Food, Beverages, Desserts",
+        "price_for_two": "₹600 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/rasna-family-restaurant-sigra/info"
+        ]
+    },
+    {
+        "name": "Annam Restaurant",
+        "cuisine": "South Indian, Chinese, North Indian",
+        "price_for_two": "₹500 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/annam-restaurant-2-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "Quality Inn- City Centre",
+        "cuisine": "North Indian, Chinese, Mughlai",
+        "price_for_two": "₹1,000 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/quality-inn-city-centre-sigra/info"
+        ]
+    },
+    {
+        "name": "Jannat Restaurant",
+        "cuisine": "Mughlai, North Indian, Desserts, Beverages, Chinese, Salad",
+        "price_for_two": "₹3,500 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/jannat-restaurant-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "Raasaa",
+        "cuisine": "North Indian, Continental, Chinese, Desserts",
+        "price_for_two": "₹1,000 for two",
+        "location": "Durgakund, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/raasaa-durgakund/info"
+        ]
+    },
+    {
+        "name": "Bar Bar",
+        "cuisine": "Continental, Chinese, North Indian, Desserts, Bar Food",
+        "price_for_two": "₹1,100 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/bar-bar-nadesar/info"
+        ]
+    },
+    {
+        "name": "Zeenat Restaurant",
+        "cuisine": "North Indian, Mughlai, Kebab",
+        "price_for_two": "₹1,000 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/zeenat-restaurant-chetganj/info"
+        ]
+    },
+    {
+        "name": "Nawabi Zaiqua",
+        "cuisine": "Mughlai, North Indian, Biryani",
+        "price_for_two": "₹400 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/nawabi-zaiqua-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Sushi Cafe & Continental Restaurant",
+        "cuisine": "Japanese, Continental, Sushi, Chinese",
+        "price_for_two": "₹1,000 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/sushi-cafe-continental-restaurant-1-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "Paprika Restaurant",
+        "cuisine": "North Indian, Chinese, South Indian, Fast Food, Mughlai, Beverages, Shake",
+        "price_for_two": "₹700 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/paprika-restaurant-lanka/info"
+        ]
+    },
+    {
+        "name": "Vegking Family Restaurant",
+        "cuisine": "South Indian, Chinese, North Indian, Burger, Beverages, Ice Cream",
+        "price_for_two": "₹500 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/vegking-family-restaurant-nadesar/info"
+        ]
+    },
+    {
+        "name": "Aum Cafe",
+        "cuisine": "Healthy Food, Desserts, Juices, Coffee, Beverages",
+        "price_for_two": "₹550 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/aum-cafe-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Popular Baati Chokha",
+        "cuisine": "North Indian, Street Food, Beverages",
+        "price_for_two": "₹100 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/popular-baati-chokha-sigra/info"
+        ]
+    },
+    {
+        "name": "Baskin Robbins - Ice Cream Desserts",
+        "cuisine": "Ice Cream, Desserts, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/baskin-robbins-ice-cream-desserts-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Hotel Costa River",
+        "cuisine": "North Indian, Continental, Oriental, Salad, Desserts, Beverages, Chinese",
+        "price_for_two": "₹1,000 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/hotel-costa-river-nadesar/info"
+        ]
+    },
+    {
+        "name": "Prasadam",
+        "cuisine": "North Indian, Chinese, South Indian, Fast Food",
+        "price_for_two": "₹1,000 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/prasadam-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "Om Shree Ram Bhandar",
+        "cuisine": "Mithai, Street Food, Desserts",
+        "price_for_two": "₹200 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/om-shree-ram-bhandar-nadesar/info"
+        ]
+    },
+    {
+        "name": "The Friends Table",
+        "cuisine": "Street Food, Fast Food, Chinese, North Indian, South Indian, Momos, Shake, Beverages",
+        "price_for_two": "₹700 for two",
+        "location": "Sarnath, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-friends-table-sarnath/info"
+        ]
+    },
+    {
+        "name": "Aabudana Restaurant- Hotel Sqaure Inn",
+        "cuisine": "North Indian, Continental, Chinese, Street Food, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/aabudana-restaurant-hotel-sqaure-inn-nadesar/info"
+        ]
+    },
+    {
+        "name": "HOTEL THE MANOR",
+        "cuisine": "Beverages, Chinese, Desserts, Fast Food, North Indian, Street Food, Mughlai, South Indian",
+        "price_for_two": "₹1,100 for two",
+        "location": "Lahartara, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/hotel-the-manor-lahartara/info"
+        ]
+    },
+    {
+        "name": "The Royal Rasoi",
+        "cuisine": "North Indian, Chinese, Mughlai, Kebab, Desserts, Beverages",
+        "price_for_two": "₹1,300 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-royal-rasoi-sigra/info"
+        ]
+    },
+    {
+        "name": "Hotel The Pearl",
+        "cuisine": "North Indian, Mughlai, Biryani, Chinese, Kebab, Sandwich, Desserts, Beverages",
+        "price_for_two": "₹1,400 for two",
+        "location": "Harhua, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/hotel-the-pearl-harhua/info"
+        ]
+    },
+    {
+        "name": "7 Spices",
+        "cuisine": "North Indian, Mughlai, Chinese, Fast Food, Street Food, Salad, Desserts",
+        "price_for_two": "₹500 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/7-spices-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Darpan Restaurant",
+        "cuisine": "North Indian, South Indian, Chinese, Biryani, Beverages, Mughlai, Kebab, Fast Food",
+        "price_for_two": "₹600 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/darpan-restaurant-chetganj/info"
+        ]
+    },
+    {
+        "name": "Hotel Kashi Crown",
+        "cuisine": "North Indian, Chinese, South Indian, Fast Food, Pizza",
+        "price_for_two": "₹800 for two",
+        "location": "Shastri Nagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/hotel-kashi-crown-shastri-nagar/info"
+        ]
+    },
+    {
+        "name": "Lajawab Restaurant",
+        "cuisine": "North Indian, Chinese, Street Food",
+        "price_for_two": "₹350 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/lajawab-restaurant-lanka/info"
+        ]
+    },
+    {
+        "name": "The Hungry Gamers",
+        "cuisine": "Burger, Pizza, Sandwich",
+        "price_for_two": "₹300 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-hungry-gamers-lanka/info"
+        ]
+    },
+    {
+        "name": "Sahar-Eco Satva",
+        "cuisine": "North Indian, Bakery, Beverages, Cafe, Tea, Salad",
+        "price_for_two": "₹1,000 for two",
+        "location": "Godaulia, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/sahar-eco-satva-godaulia/info"
+        ]
+    },
+    {
+        "name": "New Banaras Restaurant & Bhojnalaya",
+        "cuisine": "North Indian, Fast Food, South Indian, Chinese, Biryani",
+        "price_for_two": "₹400 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/new-banaras-restaurant-bhojnalaya-lanka/info"
+        ]
+    },
+    {
+        "name": "Roll Corner",
+        "cuisine": "Rolls, North Indian, Biryani, South Indian, Chinese, Mughlai",
+        "price_for_two": "₹250 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/roll-corner-chetganj/info"
+        ]
+    },
+    {
+        "name": "Okhlee",
+        "cuisine": "Fast Food, Wraps, Momos, Chinese, Street Food, Pizza, Burger, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Ramnagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/okhlee-ramnagar/info"
+        ]
+    },
+    {
+        "name": "Pallavi Baati Chokha Restaurant",
+        "cuisine": "North Indian, Rajasthani, Street Food, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/pallavi-baati-chokha-restaurant-sigra/info"
+        ]
+    },
+    {
+        "name": "1951 - The Clarks Hotel",
+        "cuisine": "North Indian, Chinese, Mughlai, Italian, Beverages, Sandwich, Continental, Desserts",
+        "price_for_two": "₹1,500 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/1951-the-clarks-hotel-nadesar/info"
+        ]
+    },
+    {
+        "name": "Raaga Restaurant- Hotel Meera Palace",
+        "cuisine": "North Indian, Chinese, Biryani",
+        "price_for_two": "₹1,000 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/raaga-restaurant-hotel-meera-palace-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Nirvana Riverview Cafe",
+        "cuisine": "North Indian, Chinese, Continental",
+        "price_for_two": "₹500 for two",
+        "location": "Jaitpura, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/nirvana-riverview-cafe-1-jaitpura/info"
+        ]
+    },
+    {
+        "name": "Silver Stone",
+        "cuisine": "North Indian, Chinese, Pizza",
+        "price_for_two": "₹1,000 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/silver-stone-chetganj/info"
+        ]
+    },
+    {
+        "name": "Figaro's Pizza",
+        "cuisine": "Pizza, Fast Food",
+        "price_for_two": "₹300 for two",
+        "location": "Ramnagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/figaros-pizza-ramnagar/info"
+        ]
+    },
+    {
+        "name": "Thanco's Natural Ice Creams",
+        "cuisine": "Ice Cream, Desserts, Beverages",
+        "price_for_two": "₹250 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/thancos-natural-ice-creams-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Kashi View Restaurant",
+        "cuisine": "North Indian, Mughlai, Chinese, Continental, Pizza, Fast Food, Biryani, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kashi-view-restaurant-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Varansi Diljeet Cafe",
+        "cuisine": "North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/varansi-diljeet-cafe-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "Maharaja Veg & Non-Veg Foods",
+        "cuisine": "North Indian, Rolls, Chinese",
+        "price_for_two": "₹250 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/maharaja-veg-non-veg-foods-lanka/info"
+        ]
+    },
+    {
+        "name": "Lav Kush Hotel",
+        "cuisine": "North Indian, Biryani",
+        "price_for_two": "₹400 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/lav-kush-hotel-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Meals on Wheels",
+        "cuisine": "Chinese, North Indian, Momos, Fast Food",
+        "price_for_two": "₹250 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/meals-on-wheels-nadesar/info"
+        ]
+    },
+    {
+        "name": "Green Gardens",
+        "cuisine": "North Indian, Chinese, Continental, Fast Food, Pancake, Desserts, Shake, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/green-garden-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "99 Pancakes",
+        "cuisine": "Pancake, Pizza, Fast Food, Shake, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/99-pancakes-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Chhappan Bhog Restaurant",
+        "cuisine": "North Indian, Chinese, South Indian, Street Food, Ice Cream, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/chhappan-bhog-restaurant-nadesar/info"
+        ]
+    },
+    {
+        "name": "Toxic Bar - Ramada Plaza",
+        "cuisine": "Bar Food, North Indian, Fast Food",
+        "price_for_two": "₹1,200 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/toxic-bar-ramada-plaza-nadesar/info"
+        ]
+    },
+    {
+        "name": "Angeethee Restaurant",
+        "cuisine": "North Indian, South Indian, Chinese, Fast Food, Shake, Salad, Desserts",
+        "price_for_two": "₹500 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/angeethee-restaurant-sunderpur/info"
+        ]
+    },
+    {
+        "name": "Paramshree Restaurant",
+        "cuisine": "South Indian, Chinese, North Indian, Street Food, Pizza, Desserts, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/paramshree-restaurant-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Aroma Restaurant",
+        "cuisine": "North Indian, Mughlai, South Indian, Biryani, Seafood, Kebab, Chinese, Fast Food",
+        "price_for_two": "₹1,000 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/aroma-restaurant-chetganj/info"
+        ]
+    },
+    {
+        "name": "Taste Of Happiness",
+        "cuisine": "Chinese, Pizza, Sandwich, Burger, Pasta",
+        "price_for_two": "₹450 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/taste-of-happiness-lanka/info"
+        ]
+    },
+    {
+        "name": "Ganga Kashi Family Restaurant",
+        "cuisine": "North Indian, Chinese, Biryani, Desserts, Beverages",
+        "price_for_two": "₹800 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/ganga-kashi-family-restaurant-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "The Diamond Restaurant And Garden",
+        "cuisine": "North Indian, Mughlai, Biryani, Chinese, Pizza, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Shivpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-diamond-restaurant-and-garden-shivpur/info"
+        ]
+    },
+    {
+        "name": "Mandarin Restaurant",
+        "cuisine": "Chinese, North Indian, Seafood, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/mandarin-restaurant-sigra/info"
+        ]
+    },
+    {
+        "name": "The Keshari Restaurant",
+        "cuisine": "North Indian, South Indian, Chinese, Continental, Desserts",
+        "price_for_two": "₹700 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-keshari-restaurant-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "Chilly Hunters Restaurant - Hotel Uday Palace",
+        "cuisine": "North Indian, Biryani",
+        "price_for_two": "₹600 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/chilly-hunters-restaurant-hotel-uday-palace-sunderpur/info"
+        ]
+    },
+    {
+        "name": "Treat Restaurant & Bar",
+        "cuisine": "North Indian, Chinese, Kebab, Mughlai, Continental, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/treat-restaurant-bar-nadesar/info"
+        ]
+    },
+    {
+        "name": "Highlander by Costa Riviera Hotel",
+        "cuisine": "North Indian, Chinese, Fast Food, South Indian, Pizza, Beverages, Sandwich",
+        "price_for_two": "₹1,200 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/highlander-by-costa-riviera-hotel-sigra/info"
+        ]
+    },
+    {
+        "name": "The Basant Bahar",
+        "cuisine": "Mithai, Desserts, South Indian, Chinese",
+        "price_for_two": "₹300 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-basant-bahar-chetganj/info"
+        ]
+    },
+    {
+        "name": "Amantran",
+        "cuisine": "Chinese, North Indian, Mughlai, Biryani, Beverages",
+        "price_for_two": "₹550 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/amantran-1-sunderpur/info"
+        ]
+    },
+    {
+        "name": "Rollarappaa - Cult Kathi Rolls",
+        "cuisine": "Rolls, Wraps, Shawarma, North Indian, Momos",
+        "price_for_two": "₹400 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/rollarappaa-cult-kathi-rolls-nadesar/info"
+        ]
+    },
+    {
+        "name": "Aahaar Fast Food Court & Restaurant",
+        "cuisine": "North Indian, South Indian, Chinese, Rolls, Fast Food, Beverages, Sandwich, Pizza",
+        "price_for_two": "₹300 for two",
+        "location": "Durgakund, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/aahaar-fast-food-court-restaurant-durgakund/info"
+        ]
+    },
+    {
+        "name": "Yelchiko Cafe & Diner",
+        "cuisine": "North Indian, Chinese, Mughlai, Italian, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/yelchiko-cafe-diner-nadesar/info"
+        ]
+    },
+    {
+        "name": "Satkar Family Restaurant",
+        "cuisine": "North Indian, Chinese, Street Food, Biryani, Mughlai",
+        "price_for_two": "₹500 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/satkar-family-restaurant-lanka/info"
+        ]
+    },
+    {
+        "name": "7th Heaven",
+        "cuisine": "Bakery, Waffle, Ice Cream, Desserts, Chinese, Fast Food, Shake, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/7th-heaven-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Hotel Kalika",
+        "cuisine": "North Indian, Chinese, Street Food, Biryani",
+        "price_for_two": "₹400 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/hotel-kalika-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Maharaja Fast Food & Chicken Roll Corner",
+        "cuisine": "Chinese, North Indian, Rolls",
+        "price_for_two": "₹250 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/maharaja-fast-food-chicken-roll-corner-lanka/info"
+        ]
+    },
+    {
+        "name": "New Kovil Restaurant",
+        "cuisine": "Continental, North Indian, Chinese, Beverages, Ice Cream, South Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/new-kovil-restaurant-sigra/info"
+        ]
+    },
+    {
+        "name": "Lanka Vibes Cafe' & Restaurant",
+        "cuisine": "Chinese, North Indian, Biryani, Pizza, Pasta, Fast Food, Street Food, Ice Cream",
+        "price_for_two": "₹300 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/lanka-vibes-cafe-restaurant-lanka/info"
+        ]
+    },
+    {
+        "name": "The Coriander Blend",
+        "cuisine": "Pizza, African, Chinese, Italian",
+        "price_for_two": "₹900 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-coriander-blend-sigra/info"
+        ]
+    },
+    {
+        "name": "Krishna Vatika",
+        "cuisine": "North Indian",
+        "price_for_two": "₹1,000 for two",
+        "location": "Sarnath, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/krishna-vatika-sarnath/info"
+        ]
+    },
+    {
+        "name": "Udupi Sagar- Hotel Dolphin International",
+        "cuisine": "South Indian, North Indian, Chinese, Fast Food, Desserts, Coffee, Juices, Beverages",
+        "price_for_two": "₹1,800 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/udupi-sagar-hotel-dolphin-international-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Garden Grill House",
+        "cuisine": "North Indian, South Indian, Fast Food, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Harhua, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/garden-grill-house-harhua/info"
+        ]
+    },
+    {
+        "name": "Highway 24",
+        "cuisine": "North Indian",
+        "price_for_two": "₹1,200 for two",
+        "location": "Shastri Nagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/highway-24-shastri-nagar/info"
+        ]
+    },
+    {
+        "name": "Chalu - Apna Desi Chinese",
+        "cuisine": "Chinese, Momos",
+        "price_for_two": "₹550 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/chalu-apna-desi-chinese-nadesar/info"
+        ]
+    },
+    {
+        "name": "DC Family Restaurant",
+        "cuisine": "North Indian, Chinese, Pizza, Burger, BBQ",
+        "price_for_two": "₹900 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/dc-family-restaurant-bhelupur/info"
+        ]
+    },
+    {
+        "name": "7 Days Fry",
+        "cuisine": "North Indian, Chinese, Biryani",
+        "price_for_two": "₹550 for two",
+        "location": "Lahartara, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/7-days-fry-lahartara/info"
+        ]
+    },
+    {
+        "name": "The Chocolate Room",
+        "cuisine": "Mexican, Italian, Burger, Healthy Food, Desserts, Ice Cream, Beverages, Wraps",
+        "price_for_two": "₹700 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-chocolate-room-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Rajesh Sweets",
+        "cuisine": "Mithai, South Indian, Chinese",
+        "price_for_two": "₹400 for two",
+        "location": "Jaitpura, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/rajesh-sweets-jaitpura/info"
+        ]
+    },
+    {
+        "name": "Dolphin Restaurant",
+        "cuisine": "North Indian, Chinese, Mexican, Sandwich, Pizza, Beverages, Pasta, Burger",
+        "price_for_two": "₹700 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/dolphin-restaurant-1-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "Gianis - Ice cream, shakes & sundaes",
+        "cuisine": "Ice Cream, Desserts, Shake, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/gianis-ice-cream-shakes-sundaes-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Mark's Cafe - Diner",
+        "cuisine": "Continental, North Indian, Asian, Desserts, Beverages",
+        "price_for_two": "₹600 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/marks-cafe-diner-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Namaskar The Bakery King",
+        "cuisine": "Bakery, Desserts",
+        "price_for_two": "₹300 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/namaskar-the-bakery-king-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Kebab Lajawab Family Restaurant",
+        "cuisine": "Kebab, Biryani, North Indian, Rolls",
+        "price_for_two": "₹1,800 for two",
+        "location": "Lahartara, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kebab-lajawab-family-restaurant-lahartara/info"
+        ]
+    },
+    {
+        "name": "The Cake Cottage",
+        "cuisine": "Bakery",
+        "price_for_two": "₹200 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-cake-cottage-1-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Food Express",
+        "cuisine": "North Indian, Chinese, Rolls, Mughlai",
+        "price_for_two": "₹450 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/food-express-chetganj/info"
+        ]
+    },
+    {
+        "name": "La Pino'z Pizza",
+        "cuisine": "Pizza, Pasta, Italian, Fast Food",
+        "price_for_two": "₹450 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/la-pinoz-pizza-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Zaika",
+        "cuisine": "Mughlai, North Indian, Chinese, Pizza, Fast Food",
+        "price_for_two": "₹200 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/zaika-2-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Saffron & Spice",
+        "cuisine": "North Indian, Chinese, Fast Food, Pizza",
+        "price_for_two": "₹550 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/saffron-spice-nadesar/info"
+        ]
+    },
+    {
+        "name": "Time Out Cafe",
+        "cuisine": "Cafe, Chinese, Coffee, Continental, North Indian, Pizza, Fast Food, Kebab",
+        "price_for_two": "₹600 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/time-out-cafe-chetganj/info"
+        ]
+    },
+    {
+        "name": "Krystal Kitchen Restro",
+        "cuisine": "North Indian, South Indian, Chinese, Pasta, Momos",
+        "price_for_two": "₹400 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/krystal-kitchen-restro-lanka/info"
+        ]
+    },
+    {
+        "name": "Sita Rasoi - A Unit Of Mint Leaf",
+        "cuisine": "North Indian, South Indian, Chinese, Fast Food, Street Food",
+        "price_for_two": "₹1,000 for two",
+        "location": "Durgakund, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/sita-rasoi-a-unit-of-mint-leaf-durgakund/info"
+        ]
+    },
+    {
+        "name": "Family Thikana Dhaba",
+        "cuisine": "North Indian, Chinese, Street Food",
+        "price_for_two": "₹550 for two",
+        "location": "Bhikharipur Kala, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/family-thikana-dhaba-bhikharipur-kala/info"
+        ]
+    },
+    {
+        "name": "Flour & Beans",
+        "cuisine": "Bakery, Fast Food",
+        "price_for_two": "₹500 for two",
+        "location": "Jaitpura, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/flour-beans-jaitpura/info"
+        ]
+    },
+    {
+        "name": "Aangan- Hotel Hindustan International",
+        "cuisine": "North Indian, Mughlai, Kebab, Desserts",
+        "price_for_two": "₹850 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/aangan-hotel-hindustan-international-sigra/info"
+        ]
+    },
+    {
+        "name": "The Garage Kitchen",
+        "cuisine": "Beverages, Fast Food, Pasta, Sandwich, Shake",
+        "price_for_two": "₹250 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-garage-kitchen-1-lanka/info"
+        ]
+    },
+    {
+        "name": "Cafe Big Chilli",
+        "cuisine": "Chinese, Pizza, Italian, Sandwich, Fast Food, Wraps, Waffle, Shake",
+        "price_for_two": "₹600 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/cafe-big-chilli-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Vishal Bakers",
+        "cuisine": "Bakery",
+        "price_for_two": "₹300 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/vishal-bakers-sigra/info"
+        ]
+    },
+    {
+        "name": "Chalu Aapna Desi Chinese",
+        "cuisine": "Chinese, Momos, Beverages",
+        "price_for_two": "₹450 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/chalu-aapna-desi-chinese-pandeypur/info"
+        ]
+    },
+    {
+        "name": "WOW! Momo",
+        "cuisine": "Momos, Tibetan, Sichuan",
+        "price_for_two": "₹500 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/wow-momo-1-nadesar/info"
+        ]
+    },
+    {
+        "name": "Urban Tadka",
+        "cuisine": "Chinese, North Indian, Fast Food, Rolls, Biryani",
+        "price_for_two": "₹500 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/urban-tadka-lanka/info"
+        ]
+    },
+    {
+        "name": "Moti Mahal Varanasi",
+        "cuisine": "North Indian, Chinese, Mughlai, Biryani",
+        "price_for_two": "₹500 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/moti-mahal-varanasi-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Purvanchal Baati Chokha Restaurant",
+        "cuisine": "Bihari, North Indian, Chinese, Desserts, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/purvanchal-baati-chokha-restaurant-chetganj/info"
+        ]
+    },
+    {
+        "name": "Banaras Darbar",
+        "cuisine": "North Indian, Chinese, Tea, Salad, Sandwich, Kebab, Desserts, Biryani",
+        "price_for_two": "₹700 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/banaras-darbar-1-lanka/info"
+        ]
+    },
+    {
+        "name": "Kalika Restaurant",
+        "cuisine": "North Indian, Chinese, Mughlai, Rolls, Biryani",
+        "price_for_two": "₹450 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kalika-restaurant-chetganj/info"
+        ]
+    },
+    {
+        "name": "Ganga View Cafe & Restaurant",
+        "cuisine": "North Indian, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/ganga-view-cafe-restaurant-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "Cafe-65 India Hotel",
+        "cuisine": "Continental, Chinese, North Indian, Fast Food, Oriental, Sandwich, Desserts, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/cafe-65-india-hotel-nadesar/info"
+        ]
+    },
+    {
+        "name": "The Green Balcony Cafe & Diner",
+        "cuisine": "Chinese, Street Food, Fast Food, North Indian, Desserts, Beverages",
+        "price_for_two": "₹650 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-green-balcony-cafe-diner-1-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Cafe Cafe Varanasi",
+        "cuisine": "Fast Food, North Indian, Street Food, Coffee, Beverages",
+        "price_for_two": "₹600 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/cafe-cafe-varanasi-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Non Veg Point Desi Tadka",
+        "cuisine": "North Indian, Biryani, Mughlai",
+        "price_for_two": "₹350 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/non-veg-point-desi-tadka-2-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Muskan Kalika Family Restaurant",
+        "cuisine": "Mughlai, North Indian, Chinese",
+        "price_for_two": "₹300 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/muskan-kalika-family-restaurant-2-chetganj/info"
+        ]
+    },
+    {
+        "name": "The Spice Trail- Hotel Padmini",
+        "cuisine": "North Indian, Chinese, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-spice-trail-hotel-padmini-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Swadishtam Kashi Restaurant",
+        "cuisine": "North Indian, Chinese, Pizza, Fast Food, South Indian, Biryani",
+        "price_for_two": "₹1,200 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/swadishtam-kashi-restaurant-sunderpur/info"
+        ]
+    },
+    {
+        "name": "Vestta Restaurant",
+        "cuisine": "North Indian, Chinese, Fast Food",
+        "price_for_two": "₹600 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/vestta-restaurant-1-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "The City Spoon",
+        "cuisine": "North Indian, Mughlai, Biryani, European, Italian, Asian, Chinese, Desserts",
+        "price_for_two": "₹1,400 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-city-spoon-nadesar/info"
+        ]
+    },
+    {
+        "name": "Theth Banarasi Baati Chokha",
+        "cuisine": "Rajasthani, Street Food, Desserts, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/theth-banarasi-baati-chokha-1-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Cakery",
+        "cuisine": "Bakery, Desserts, Fast Food, Beverages",
+        "price_for_two": "₹600 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/cakery-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Shri Narayan Mishthan",
+        "cuisine": "Mithai, Street Food",
+        "price_for_two": "₹200 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/shri-narayan-mishthan-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Potli Baati Chokha Restaurant",
+        "cuisine": "Bihari",
+        "price_for_two": "₹300 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/potli-baati-chokha-restaurant-1-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Mark's Man Bar And Restaurant",
+        "cuisine": "Bar Food, North Indian, Chinese, Mughlai, Biryani, Beverages",
+        "price_for_two": "₹700 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/marks-man-bar-and-restaurant-1-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Bliss Bar & Restaurant - Hotel Zeeras",
+        "cuisine": "Finger Food",
+        "price_for_two": "₹1,200 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/bliss-bar-restaurant-hotel-zeeras-nadesar/info"
+        ]
+    },
+    {
+        "name": "Tit Bit Cafe At Home",
+        "cuisine": "North Indian, South Indian, Chinese, Fast Food",
+        "price_for_two": "₹350 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/tit-bit-cafe-at-home-lanka/info"
+        ]
+    },
+    {
+        "name": "Shri Chappan Bhog Restaurant",
+        "cuisine": "North Indian, South Indian, Chinese, Ice Cream, Beverages",
+        "price_for_two": "₹550 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/shri-chappan-bhog-restaurant-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Kavos Coffee",
+        "cuisine": "Cafe, Coffee, Beverages",
+        "price_for_two": "₹350 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/kavos-coffee-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Maurya Family Restaurant",
+        "cuisine": "Fast Food, Chinese, South Indian, Ice Cream, Pizza",
+        "price_for_two": "₹300 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/maurya-family-restaurant-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Gloria Family Restaurant",
+        "cuisine": "South Indian, North Indian, Chinese",
+        "price_for_two": "₹400 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/gloria-family-restaurant-sunderpur/info"
+        ]
+    },
+    {
+        "name": "Silver Spoon Restaurant",
+        "cuisine": "North Indian, South Indian, Chinese, Fast Food, Beverages, Desserts",
+        "price_for_two": "₹500 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/silver-spoon-restaurant-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "Le Costa Cafe & Dine",
+        "cuisine": "North Indian, Mughlai, Sandwich, Burger, Chinese, Momos, Desserts, Beverages",
+        "price_for_two": "₹1,400 for two",
+        "location": "Bhikharipur Kala, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/le-costa-cafe-dine-bhikharipur-kala/info"
+        ]
+    },
+    {
+        "name": "Shahi Bengal",
+        "cuisine": "North Indian, Chinese, Rolls",
+        "price_for_two": "₹300 for two",
+        "location": "Sarnath, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/shahi-bengal-sarnath/info"
+        ]
+    },
+    {
+        "name": "Local Leaf",
+        "cuisine": "Fast Food, Chinese, Continental",
+        "price_for_two": "₹1,000 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/local-leaf-nadesar/info"
+        ]
+    },
+    {
+        "name": "Pahalwan Lassi And Dugdh",
+        "cuisine": "Mithai",
+        "price_for_two": "₹100 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/pahalwan-lassi-and-dugdh-lanka/info"
+        ]
+    },
+    {
+        "name": "Yelchiko",
+        "cuisine": "North Indian, Chinese, Mughlai, Ice Cream, Biryani, Desserts, Beverages, Fast Food",
+        "price_for_two": "₹800 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/yelchiko-sigra/info"
+        ]
+    },
+    {
+        "name": "Zen G Cafe",
+        "cuisine": "North Indian, Chinese, Pizza, Fast Food, Beverages",
+        "price_for_two": "₹800 for two",
+        "location": "Assi Ghat, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/zen-g-cafe-2-assi-ghat/info"
+        ]
+    },
+    {
+        "name": "Food Lovers",
+        "cuisine": "Chinese, North Indian, Fast Food, Desserts, Beverages, Shake, Ice Cream",
+        "price_for_two": "₹600 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/food-lovers-2-sigra/info"
+        ]
+    },
+    {
+        "name": "The Dilli Durbar",
+        "cuisine": "North Indian, Chinese, Shake, Beverages",
+        "price_for_two": "₹200 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-dilli-durbar-sigra/info"
+        ]
+    },
+    {
+        "name": "Cresent Villa",
+        "cuisine": "North Indian, Chinese, Italian, Shake, Fast Food, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Bhelupur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/cresent-villa-bhelupur/info"
+        ]
+    },
+    {
+        "name": "Mishra Marwadi Bhojnalaya",
+        "cuisine": "North Indian",
+        "price_for_two": "₹200 for two",
+        "location": "Godaulia, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/mishra-marwadi-bhojnalaya-godaulia/info"
+        ]
+    },
+    {
+        "name": "Champaran The Taste Of Culture",
+        "cuisine": "North Indian, Mughlai, Chinese, Kebab",
+        "price_for_two": "₹700 for two",
+        "location": "Durgakund, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/champaran-the-taste-of-culture-durgakund/info"
+        ]
+    },
+    {
+        "name": "Banaras Cafe & Family Restaurant",
+        "cuisine": "North Indian, South Indian, Continental, Chinese, Mughlai, Fast Food, Desserts",
+        "price_for_two": "₹500 for two",
+        "location": "Sunderpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/banaras-cafe-family-restaurant-sunderpur/info"
+        ]
+    },
+    {
+        "name": "Garden Bar",
+        "cuisine": "Finger Food",
+        "price_for_two": "₹700 for two",
+        "location": "Chetganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/garden-bar-chetganj/info"
+        ]
+    },
+    {
+        "name": "Fish Corner",
+        "cuisine": "Biryani, Rolls, Chinese, Mughlai, Seafood",
+        "price_for_two": "₹500 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/fish-corner-sigra/info"
+        ]
+    },
+    {
+        "name": "Al-Baik World",
+        "cuisine": "North Indian, Fast Food",
+        "price_for_two": "₹300 for two",
+        "location": "Pandeypur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/al-baik-world-pandeypur/info"
+        ]
+    },
+    {
+        "name": "Culture Garden",
+        "cuisine": "North Indian, Biryani, Chinese, Pizza, Fast Food, Ice Cream, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Godaulia, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/culture-garden-godaulia/info"
+        ]
+    },
+    {
+        "name": "Dakshin Kashi",
+        "cuisine": "South Indian, North Indian, Street Food, Fast Food, Chinese, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Dashaswmedh Road, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/dakshin-kashi-dashaswmedh-road/info"
+        ]
+    },
+    {
+        "name": "Palki Restaurant",
+        "cuisine": "North Indian, Chinese, Mughlai, Biryani, Salad",
+        "price_for_two": "₹700 for two",
+        "location": "Ramnagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/palki-restaurant-ramnagar/info"
+        ]
+    },
+    {
+        "name": "Mamma Mia Biryani",
+        "cuisine": "Biryani, North Indian",
+        "price_for_two": "₹400 for two",
+        "location": "Kakarmata, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/mamma-mia-biryani-kakarmata/info"
+        ]
+    },
+    {
+        "name": "Foodies Junction",
+        "cuisine": "North Indian, Chinese, Fast Food",
+        "price_for_two": "₹450 for two",
+        "location": "Lanka, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/foodies-junction-lanka/info"
+        ]
+    },
+    {
+        "name": "Mom’s Kitchen - Original",
+        "cuisine": "North Indian, Chinese, Pizza, Burger, Fast Food, Momos, Shake, Beverages",
+        "price_for_two": "₹700 for two",
+        "location": "Shivpur, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/moms-kitchen-original-shivpur/info"
+        ]
+    },
+    {
+        "name": "Dawat- E- Khas",
+        "cuisine": "North Indian, Chinese, Biryani, Salad",
+        "price_for_two": "₹1,000 for two",
+        "location": "Godaulia, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/dawat-e-khas-godaulia/info"
+        ]
+    },
+    {
+        "name": "Goli Vada Pav No. 1",
+        "cuisine": "Street Food, African",
+        "price_for_two": "₹250 for two",
+        "location": "Durgakund, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/goli-vada-pav-no-1-durgakund/info"
+        ]
+    }
+]

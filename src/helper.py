@@ -1,5 +1,5 @@
 import time
-
+from selenium.webdriver.common.by import By
 # Helper functions
 
 def safe_text(parent, xpath):

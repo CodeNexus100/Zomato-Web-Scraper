@@ -1,0 +1,83 @@
+[
+    {
+        "name": "URBAN CHAUPAL BY THE ELEGANCE",
+        "cuisine": "North Indian, Biryani, Chinese, Continental, Salad, Fast Food, Desserts",
+        "price_for_two": "₹1,000 for two",
+        "location": "Kakarmata, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/urban-chaupal-by-the-elegance-kakarmata/info"
+        ]
+    },
+    {
+        "name": "GARICOCO",
+        "cuisine": "North Indian, Mexican, Chinese, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹1,500 for two",
+        "location": "Shastri Nagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/garicoco-shastri-nagar/info"
+        ]
+    },
+    {
+        "name": "The 3rd Floor Project",
+        "cuisine": "Chinese, Italian, Thai, Fast Food, Beverages, North Indian, Mediterranean, Oriental",
+        "price_for_two": "₹1,700 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/the3rdfloorbse/info"
+        ]
+    },
+    {
+        "name": "The Vibe",
+        "cuisine": "North Indian, Chinese, Fast Food, Oriental, Mediterranean, Alcoholic Beverages, Italian, Beverages",
+        "price_for_two": "₹1,500 for two",
+        "location": "Shastri Nagar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/the-vibe-shastri-nagar/info"
+        ]
+    },
+    {
+        "name": "Pizzeria Vatika Cafe",
+        "cuisine": "Italian, Desserts, Beverages, Pizza",
+        "price_for_two": "₹1,400 for two",
+        "location": "Nadesar, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/pizzeria-vatika-cafe-nadesar/info"
+        ]
+    },
+    {
+        "name": "Fika Coffee Co.",
+        "cuisine": "North Indian, South Indian, European, Burger, Italian, Pizza, Desserts, Beverages",
+        "price_for_two": "₹1,500 for two",
+        "location": "Lahartara, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/fika-coffee-co-lahartara/info"
+        ]
+    },
+    {
+        "name": "Molecule Gastro Bar",
+        "cuisine": "Italian, North Indian, Fast Food, Desserts, Bar Food, Sichuan, Japanese, Finger Food",
+        "price_for_two": "₹2,000 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/molecule-gastro-bar-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Charcoal Fine Dining",
+        "cuisine": "North Indian, Continental, Chinese, Fast Food, Desserts, Beverages, Oriental, Kebab",
+        "price_for_two": "₹1,100 for two",
+        "location": "Mahmoorganj, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/charcoal-fine-dining-mahmoorganj/info"
+        ]
+    },
+    {
+        "name": "Satkar's Regale",
+        "cuisine": "North Indian, Chinese, Continental, Pasta, Fast Food, Pizza, Shake, Beverages",
+        "price_for_two": "₹1,100 for two",
+        "location": "Sigra, Varanasi",
+        "page_link": [
+            "https://www.zomato.com/varanasi/satkars-regale-sigra/info"
+        ]
+    }
+]

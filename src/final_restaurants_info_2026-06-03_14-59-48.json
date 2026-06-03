@@ -1,0 +1,731 @@
+[
+    {
+        "name": "Two Saints Bar & Kitchen",
+        "cuisine": "North Indian, Bar Food, Oriental, Continental, Italian, Chinese, Mexican, Desserts",
+        "price_for_two": "₹1,800 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/two-saints-bar-kitchen-tajganj/info"
+        ]
+    },
+    {
+        "name": "Beep",
+        "cuisine": "North Indian, Chinese, Continental, Pizza, Pasta",
+        "price_for_two": "₹2,500 for two",
+        "location": "Rakabganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/beep-rakabganj/info"
+        ]
+    },
+    {
+        "name": "Qairo",
+        "cuisine": "Mediterranean, Italian",
+        "price_for_two": "₹1,800 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/qairo-tajganj/info"
+        ]
+    },
+    {
+        "name": "My Bar Headquarters",
+        "cuisine": "North Indian, Chinese, Bar Food, Italian, Desserts, Continental, Asian",
+        "price_for_two": "₹1,200 for two",
+        "location": "Khandari, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/my-bar-headquarters-khandari/info"
+        ]
+    },
+    {
+        "name": "The Nawaabs",
+        "cuisine": "North Indian, Biryani, Kebab, Beverages",
+        "price_for_two": "₹1,300 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/the-nawaabs-tajganj/info"
+        ]
+    },
+    {
+        "name": "Incanto",
+        "cuisine": "Continental, Mexican, Pizza, Sushi",
+        "price_for_two": "₹1,500 for two",
+        "location": "Civil Lines, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/incanto-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Desi Vibes",
+        "cuisine": "North Indian, Beverages, Desserts, Kebab, Mughlai, Street Food",
+        "price_for_two": "₹800 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/desi-vibes-tajganj/info"
+        ]
+    },
+    {
+        "name": "Mansion- Tapas & CL Club",
+        "cuisine": "North Indian, Asian, Italian, Continental",
+        "price_for_two": "₹3,500 for two",
+        "location": "Rakabganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/mansion-tapas-cl-club-rakabganj/info"
+        ]
+    },
+    {
+        "name": "Molecule Air Bar",
+        "cuisine": "North Indian, Chinese, Continental, Italian, Finger Food",
+        "price_for_two": "₹1,700 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/molecule-air-bar-tajganj/info"
+        ]
+    },
+    {
+        "name": "JB's Lounge & Bar",
+        "cuisine": "Continental, Beverages",
+        "price_for_two": "₹1,500 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/jbs-lounge-bar-tajganj/info"
+        ]
+    },
+    {
+        "name": "The Salt Cafe Kitchen & Bar",
+        "cuisine": "North Indian, Continental, Chinese, Italian, Finger Food",
+        "price_for_two": "₹2,000 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/the-salt-cafe-kitchen-bar-tajganj/info"
+        ]
+    },
+    {
+        "name": "Unplugged Courtyard",
+        "cuisine": "Mediterranean, North Indian, Continental, Chinese, Mexican, Thai, Italian, Coffee",
+        "price_for_two": "₹2,500 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/unplugged-courtyard-tajganj/info"
+        ]
+    },
+    {
+        "name": "The Saheb's Realm",
+        "cuisine": "North Indian, Fast Food, Biryani, Mughlai, Italian, Rolls",
+        "price_for_two": "₹2,400 for two",
+        "location": "Lohamandi, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/the-sahebs-realm-1-lohamandi/info"
+        ]
+    },
+    {
+        "name": "The Indian Curry",
+        "cuisine": "North Indian, Chinese, Oriental, Continental, Desserts, Beverages, Italian",
+        "price_for_two": "₹1,500 for two",
+        "location": "Kamla Nagar, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/the-indian-curry-kamla-nagar/info"
+        ]
+    },
+    {
+        "name": "Drink Inn",
+        "cuisine": "Fast Food, Bar Food",
+        "price_for_two": "₹1,200 for two",
+        "location": "Kamla Nagar, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/drink-inn-kamla-nagar/info"
+        ]
+    },
+    {
+        "name": "Pyramid MicroBrewery Taj View",
+        "cuisine": "North Indian, Seafood, Pizza, Salad, Beverages",
+        "price_for_two": "₹1,700 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/pyramid-microbrewery-taj-view-tajganj/info"
+        ]
+    },
+    {
+        "name": "Sidewalk Bakehouse & Cafe",
+        "cuisine": "Beverages, Cafe, Coffee, Continental, Italian, Bakery, Healthy Food, Pasta",
+        "price_for_two": "₹1,500 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/sidewalk-bakehouse-cafe-tajganj/info"
+        ]
+    },
+    {
+        "name": "Merry Go Round",
+        "cuisine": "North Indian, Chinese, Continental, Fast Food",
+        "price_for_two": "₹1,300 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/merry-go-round-tajganj/info"
+        ]
+    },
+    {
+        "name": "Palm Burj",
+        "cuisine": "North Indian, Chinese, Continental, Sushi, Sichuan, Beverages, Desserts",
+        "price_for_two": "₹2,600 for two",
+        "location": "Rakabganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/palm-burj-rakabganj/info"
+        ]
+    },
+    {
+        "name": "Zimora",
+        "cuisine": "North Indian",
+        "price_for_two": "₹2,000 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/zimora-tajganj/info"
+        ]
+    },
+    {
+        "name": "Sidewalk Bakehouse & Cafe",
+        "cuisine": "Bakery, Continental, Italian, Pizza, Burger, Fast Food, Coffee, Beverages",
+        "price_for_two": "₹1,200 for two",
+        "location": "Civil Lines, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/sidewalk-bakehouse-cafe-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Biryani By Kilo",
+        "cuisine": "Biryani, Kebab, North Indian, Ice Cream, Desserts, Hyderabadi, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/biryani-by-kilo-2-tajganj/info"
+        ]
+    },
+    {
+        "name": "The Bungalow",
+        "cuisine": "Coffee, Continental, Italian, Fast Food, American",
+        "price_for_two": "₹1,000 for two",
+        "location": "Khandari, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/the-bungalow-2-khandari/info"
+        ]
+    },
+    {
+        "name": "Silbuttah - The Indian Story By Berco's",
+        "cuisine": "North Indian, Mughlai, Kebab",
+        "price_for_two": "₹1,200 for two",
+        "location": "Lohamandi, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/silbuttah-the-indian-story-by-bercos-lohamandi/info"
+        ]
+    },
+    {
+        "name": "Peshawri - ITC Mughal",
+        "cuisine": "North Indian, Mughlai",
+        "price_for_two": "₹6,000 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/peshawri-itc-mughal-tajganj/info"
+        ]
+    },
+    {
+        "name": "The Escape",
+        "cuisine": "Asian, Italian, Continental, Chinese, Thai, Seafood, Salad, Pasta",
+        "price_for_two": "₹2,200 for two",
+        "location": "Khandari, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/the-escape-khandari/info"
+        ]
+    },
+    {
+        "name": "Romeo Lane Agra",
+        "cuisine": "North Indian, Chinese, Biryani, Pizza, Burger, Desserts, Beverages, Continental",
+        "price_for_two": "₹3,500 for two",
+        "location": "Gopal Pura, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/romeo-lane-agra-gopal-pura/info"
+        ]
+    },
+    {
+        "name": "Cosmos Cafe & Bar - Fairfield By Marriott",
+        "cuisine": "Continental, North Indian, South Indian, Mughlai, Chinese, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹2,400 for two",
+        "location": "Civil Lines, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/cosmos-cafe-bar-fairfield-by-marriott-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Hotel Orange",
+        "cuisine": "North Indian, Desserts",
+        "price_for_two": "₹1,200 for two",
+        "location": "Rakabganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/hotel-orange-rakabganj/info"
+        ]
+    },
+    {
+        "name": "Karchi",
+        "cuisine": "North Indian, Mughlai, Kebab, Biryani, Fast Food, Momos, Pizza, Roast Chicken",
+        "price_for_two": "₹1,400 for two",
+        "location": "Kamla Nagar, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/karchi-kamla-nagar/info"
+        ]
+    },
+    {
+        "name": "LONDON COFFEE CLUB",
+        "cuisine": "Pizza, Coffee, Italian, Sandwich, Bakery, Burger, Fast Food, Pasta",
+        "price_for_two": "₹1,000 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/london-coffee-club-tajganj/info"
+        ]
+    },
+    {
+        "name": "Folks Pub",
+        "cuisine": "North Indian, Chinese",
+        "price_for_two": "₹1,900 for two",
+        "location": "Khandari, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/folks-pub-khandari/info"
+        ]
+    },
+    {
+        "name": "The Hazelnut Factory",
+        "cuisine": "Bakery, Mithai",
+        "price_for_two": "₹900 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/the-hazelnut-factory-tajganj/info"
+        ]
+    },
+    {
+        "name": "Barbeque Nation",
+        "cuisine": "North Indian, BBQ, Kebab, Biryani",
+        "price_for_two": "₹1,800 for two",
+        "location": "Civil Lines, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/barbeque-nation-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Ginza",
+        "cuisine": "Asian, Korean, Italian, Mexican",
+        "price_for_two": "₹1,500 for two",
+        "location": "Civil Lines, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/ginza-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Downtown Cafe",
+        "cuisine": "North Indian, Mughlai, Continental, Chinese, Beverages, Desserts",
+        "price_for_two": "₹1,600 for two",
+        "location": "Rakabganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/downtown-cafe-rakabganj/info"
+        ]
+    },
+    {
+        "name": "Aahar",
+        "cuisine": "North Indian, South Indian, Chinese, Bakery, Continental, Desserts, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Civil Lines, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/aahar-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Mughal Pavilion - ITC Mughal",
+        "cuisine": "North Indian, Chinese, Continental",
+        "price_for_two": "₹2,000 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/mughal-pavilion-itc-mughal-tajganj/info"
+        ]
+    },
+    {
+        "name": "Pizza Hut",
+        "cuisine": "Pizza, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/pizza-hut-4-tajganj/info"
+        ]
+    },
+    {
+        "name": "Taj Bano - ITC Mughal",
+        "cuisine": "Mughlai, North Indian",
+        "price_for_two": "₹4,000 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/taj-bano-itc-mughal-tajganj/info"
+        ]
+    },
+    {
+        "name": "Roastery Coffee House",
+        "cuisine": "Coffee, Cafe, Italian, Pizza, Sandwich",
+        "price_for_two": "₹1,100 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/roastery-coffee-house-tajganj/info"
+        ]
+    },
+    {
+        "name": "Alpine Restaurant",
+        "cuisine": "North Indian",
+        "price_for_two": "₹350 for two",
+        "location": "Kamla Nagar, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/alpine-restaurant-kamla-nagar/info"
+        ]
+    },
+    {
+        "name": "North 27 - Doubletree By Hilton",
+        "cuisine": "North Indian, Chinese, Continental, Oriental, Fast Food, Mughlai, Beverages, Desserts",
+        "price_for_two": "₹3,800 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/north-27-doubletree-by-hilton-tajganj/info"
+        ]
+    },
+    {
+        "name": "Urban Deck",
+        "cuisine": "Mexican, Italian, North Indian",
+        "price_for_two": "₹2,600 for two",
+        "location": "Civil Lines, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/urban-deck-2-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Pind Balluchi",
+        "cuisine": "North Indian, Mughlai, Chinese, Desserts",
+        "price_for_two": "₹900 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/pind-balluchi-tajganj/info"
+        ]
+    },
+    {
+        "name": "Altitude Rooftop Restaurant & Lounge",
+        "cuisine": "North Indian, Biryani, Pizza, Sandwich, Chinese, Pasta, Fast Food, Ice Cream",
+        "price_for_two": "₹1,000 for two",
+        "location": "Shahganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/altitude-rooftop-restaurant-lounge-2-shahganj/info"
+        ]
+    },
+    {
+        "name": "The Bakers Canvas",
+        "cuisine": "Beverages, Cafe, Coffee, Desserts, Fast Food, Pizza, Sandwich, Cake",
+        "price_for_two": "₹1,000 for two",
+        "location": "Agra Cantt, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/the-bakers-canvas-agra-cantt/info"
+        ]
+    },
+    {
+        "name": "Beep 2.0 Gastro Pub",
+        "cuisine": "North Indian, Biryani, Oriental, Italian, Fast Food, Shake, Beverages",
+        "price_for_two": "₹2,000 for two",
+        "location": "Lohamandi, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/beep-2-0-gastro-pub-lohamandi/info"
+        ]
+    },
+    {
+        "name": "WOW! Momo",
+        "cuisine": "Tibetan, Nepalese, Chinese, Asian, Street Food",
+        "price_for_two": "₹500 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/wow-momo-tajganj/info"
+        ]
+    },
+    {
+        "name": "The Numberdaars",
+        "cuisine": "North Indian, Chinese, Biryani, Mughlai, Kebab, Salad, Desserts",
+        "price_for_two": "₹800 for two",
+        "location": "Sikandra, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/the-numberdaars-2-sikandra/info"
+        ]
+    },
+    {
+        "name": "Chatoraa Cafe",
+        "cuisine": "Burger, Pasta, Sandwich, Fast Food, Street Food, Desserts, Shake, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "Shahganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/chatoraa-cafe-shahganj/info"
+        ]
+    },
+    {
+        "name": "Shripati Dwarkadhish Restaurant",
+        "cuisine": "North Indian, South Indian, Chinese, Fast Food, Pizza, Desserts, Shake, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Rakabganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/shripati-dwarkadhish-restaurant-3-rakabganj/info"
+        ]
+    },
+    {
+        "name": "The Bridge- Clarks Inn suites",
+        "cuisine": "North Indian, Fast Food, South Indian, Biryani, Chinese, Pizza, Desserts, Beverages",
+        "price_for_two": "₹1,200 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/the-bridge-clarks-inn-suites-tajganj/info"
+        ]
+    },
+    {
+        "name": "The Wok Bar",
+        "cuisine": "Asian, Japanese, Sushi, Thai, Korean, Desserts",
+        "price_for_two": "₹2,200 for two",
+        "location": "Civil Lines, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/the-wok-bar-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Berco's - If You Love Chinese",
+        "cuisine": "Desserts, Tibetan, Sichuan, Thai, Momos, Seafood, Chinese, Asian",
+        "price_for_two": "₹1,400 for two",
+        "location": "Civil Lines, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/bercos-if-you-love-chinese-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Chow's Kitchen",
+        "cuisine": "Chinese, Thai, Asian, Momos, Healthy Food, Rolls, Burger, Sichuan",
+        "price_for_two": "₹1,400 for two",
+        "location": "Kamla Nagar, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/chows-kitchen-kamla-nagar/info"
+        ]
+    },
+    {
+        "name": "The Mughal Room - Hotel Clarks Shiraz",
+        "cuisine": "North Indian, Mughlai, Chinese, Beverages, Desserts",
+        "price_for_two": "₹2,600 for two",
+        "location": "Agra Cantt, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/the-mughal-room-hotel-clarks-shiraz-agra-cantt/info"
+        ]
+    },
+    {
+        "name": "The Master Chef Cafe & Rooftop",
+        "cuisine": "Biryani, South Indian",
+        "price_for_two": "₹1,200 for two",
+        "location": "Agra Cantt, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/the-master-chef-cafe-rooftop-agra-cantt/info"
+        ]
+    },
+    {
+        "name": "Hello Anna",
+        "cuisine": "South Indian, Chinese, Fast Food, Street Food, Ice Cream, Shake",
+        "price_for_two": "₹1,000 for two",
+        "location": "Sikandra, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/hello-anna-sikandra/info"
+        ]
+    },
+    {
+        "name": "Biryani & Kebab by Zahid Foods",
+        "cuisine": "Biryani, Awadhi, Hyderabadi",
+        "price_for_two": "₹1,000 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/biryani-kebab-by-zahid-foods-tajganj/info"
+        ]
+    },
+    {
+        "name": "Oasis - Radisson Hotel Agra",
+        "cuisine": "North Indian, Continental, Beverages",
+        "price_for_two": "₹2,700 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/oasis-radisson-hotel-agra-tajganj/info"
+        ]
+    },
+    {
+        "name": "Pinch Of Spice",
+        "cuisine": "North Indian, Chinese, Continental, Desserts, Beverages, Mughlai",
+        "price_for_two": "₹1,600 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/pinch-of-spice-tajganj/info"
+        ]
+    },
+    {
+        "name": "Kiskey Whiskey",
+        "cuisine": "North Indian, Continental, Chinese, European, Pasta, Oriental",
+        "price_for_two": "₹2,000 for two",
+        "location": "Civil Lines, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/kiskey-whiskey-3-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Cafe G - Holiday Inn",
+        "cuisine": "North Indian, Continental, South Indian, Chinese, Asian, Italian",
+        "price_for_two": "₹2,300 for two",
+        "location": "Civil Lines, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/cafe-g-holiday-inn-civil-lines/info"
+        ]
+    },
+    {
+        "name": "MoMo Cafe - Courtyard By Marriott",
+        "cuisine": "North Indian, Fast Food, Continental, Beverages, Asian",
+        "price_for_two": "₹3,000 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/momo-cafe-courtyard-by-marriott-tajganj/info"
+        ]
+    },
+    {
+        "name": "GMB - Gopika Sweets & Restaurant",
+        "cuisine": "North Indian, South Indian, Chinese, Fast Food, Street Food, Mithai",
+        "price_for_two": "₹500 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/gmb-gopika-sweets-restaurant-tajganj/info"
+        ]
+    },
+    {
+        "name": "Tajnuma",
+        "cuisine": "North Indian, Mughlai, Biryani",
+        "price_for_two": "₹2,000 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/tajnuma-tajganj/info"
+        ]
+    },
+    {
+        "name": "Theobroma",
+        "cuisine": "Bakery, Desserts",
+        "price_for_two": "₹500 for two",
+        "location": "Khandari, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/theobroma-khandari/info"
+        ]
+    },
+    {
+        "name": "Citrus Cafe By Lemon Tree",
+        "cuisine": "North Indian, Continental, Chinese, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹1,200 for two",
+        "location": "Khandari, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/citrus-cafe-by-lemon-tree-khandari/info"
+        ]
+    },
+    {
+        "name": "Bellevue - The Oberoi Amarvilas",
+        "cuisine": "North Indian, Continental, Desserts",
+        "price_for_two": "₹4,500 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/bellevue-the-oberoi-amarvilas-tajganj/info"
+        ]
+    },
+    {
+        "name": "Maa Vaishno Restaurant",
+        "cuisine": "North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/maa-vaishno-restaurant-tajganj/info"
+        ]
+    },
+    {
+        "name": "Maikhana – ITC Mughal",
+        "cuisine": "Finger Food",
+        "price_for_two": "₹2,000 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/maikhana-itc-mughal-1-tajganj/info"
+        ]
+    },
+    {
+        "name": "Sheroes Hangout",
+        "cuisine": "North Indian, Chinese, Fast Food",
+        "price_for_two": "₹800 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/sheroes-hangout-tajganj/info"
+        ]
+    },
+    {
+        "name": "Hotel Moti Palace - Pankhuri Restaurant",
+        "cuisine": "North Indian, Chinese, Continental, South Indian, Desserts, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Rakabganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/hotel-moti-palace-pankhuri-restaurant-rakabganj/info"
+        ]
+    },
+    {
+        "name": "Eight Herbs Café",
+        "cuisine": "Chinese, Cafe, Sandwich, Momos, Pizza, Fast Food, Coffee",
+        "price_for_two": "₹800 for two",
+        "location": "Civil Lines, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/eight-herbs-caf%C3%A9-1-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Udta Punjab Restaurant & Banquets",
+        "cuisine": "North Indian, Chinese, Biryani, Burger, Beverages, Coffee, Continental, Fast Food",
+        "price_for_two": "₹1,400 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/udta-punjab-restaurant-banquets-tajganj/info"
+        ]
+    },
+    {
+        "name": "Thaliwala Pure Veg Restaurant",
+        "cuisine": "North Indian, Chinese, Beverages",
+        "price_for_two": "₹800 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/thaliwala-pure-veg-restaurant-tajganj/info"
+        ]
+    },
+    {
+        "name": "2ND Wife",
+        "cuisine": "North Indian, Fast Food, Beverages, Shake",
+        "price_for_two": "₹250 for two",
+        "location": "Agra Cantt, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/2nd-wife-agra-cantt/info"
+        ]
+    },
+    {
+        "name": "Starbucks Coffee",
+        "cuisine": "Fast Food, Cafe, Beverages, Coffee",
+        "price_for_two": "₹900 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/starbucks-coffee-tajganj/info"
+        ]
+    },
+    {
+        "name": "Chizza & Pizza",
+        "cuisine": "Pizza, Burger, Sandwich, Rolls, Pasta, Fast Food",
+        "price_for_two": "₹500 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/chizza-pizza-1-tajganj/info"
+        ]
+    },
+    {
+        "name": "Blue Tokai Coffee Roasters",
+        "cuisine": "Cafe, Coffee, Beverages",
+        "price_for_two": "₹600 for two",
+        "location": "Tajganj, Agra",
+        "page_link": [
+            "https://www.zomato.com/agra/blue-tokai-coffee-roasters-tajganj/info"
+        ]
+    }
+]

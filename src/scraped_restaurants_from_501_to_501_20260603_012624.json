@@ -1,0 +1,45 @@
+[
+  {
+    "id": 501,
+    "name": "Goli Vada Pav No. 1",
+    "ratings": {
+      "dining": {
+        "score": 3.6,
+        "count": 10
+      },
+      "delivery": {
+        "score": 4.0,
+        "count": 7069
+      }
+    },
+    "cuisines": [
+      "Street Food",
+      "African"
+    ],
+    "address": "Shop 14, B 27/96-K-1-F-14, Gurudham, Durgakund, Varanasi",
+    "timing": "12midnight – 4:45am, 12noon – 12midnight (Today)",
+    "cost_for_two": "₹250 for two",
+    "phone": "+916389327913",
+    "dishes": [],
+    "photos": [
+      "https://b.zmtcdn.com/data/menus/445/19683445/40c4afcd86a9fb40a3ef854063a30943.jpg?h=200&impolicy=newfitandcrop&w=200",
+      "https://maps.zomato.com/php/staticmap?center=25.2929337051,82.9991313815&maptype=zomato&markers=25.2929337051,82.9991313815,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240&size=650x250",
+      "https://b.zmtcdn.com/data/webuikit/9f0c85a5e33adb783fa0aef667075f9e1556003622.png",
+      "https://b.zmtcdn.com/data/pictures/chains/6/19113476/79c57b3c0c7bfa5e01b1a69866a44055.jpg?output-format=webp&fit=around|300:273&crop=300:273;*,*",
+      "https://b.zmtcdn.com/data/webuikit/23e930757c3df49840c482a8638bf5c31556001144.png",
+      "https://b.zmtcdn.com/data/pictures/chains/6/19113476/fcf63d811f6fd3af0d2a0c2112871efb.jpg?output-format=webp&fit=around|300:273&crop=300:273;*,*",
+      "https://b.zmtcdn.com/data/pictures/chains/6/19113476/938a2e9b43590d640a0c1eac732f8037.jpg?output-format=webp&fit=around|300:273&crop=300:273;*,*",
+      "https://b.zmtcdn.com/data/pictures/chains/6/19113476/387107079577caf2071309487f00536f.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+    ],
+    "menu_images": [
+      "https://b.zmtcdn.com/data/menus/445/19683445/40c4afcd86a9fb40a3ef854063a30943.jpg?h=200&impolicy=newfitandcrop&w=200",
+      "https://maps.zomato.com/php/staticmap?center=25.2929337051,82.9991313815&maptype=zomato&markers=25.2929337051,82.9991313815,pin_res32&sensor=false&scale=2&zoom=16&language=en&size=240x150&size=400x240&size=650x250",
+      "https://b.zmtcdn.com/data/webuikit/9f0c85a5e33adb783fa0aef667075f9e1556003622.png",
+      "https://b.zmtcdn.com/data/pictures/chains/6/19113476/79c57b3c0c7bfa5e01b1a69866a44055.jpg?output-format=webp&fit=around|300:273&crop=300:273;*,*",
+      "https://b.zmtcdn.com/data/webuikit/23e930757c3df49840c482a8638bf5c31556001144.png",
+      "https://b.zmtcdn.com/data/pictures/chains/6/19113476/fcf63d811f6fd3af0d2a0c2112871efb.jpg?output-format=webp&fit=around|300:273&crop=300:273;*,*",
+      "https://b.zmtcdn.com/data/pictures/chains/6/19113476/938a2e9b43590d640a0c1eac732f8037.jpg?output-format=webp&fit=around|300:273&crop=300:273;*,*",
+      "https://b.zmtcdn.com/data/pictures/chains/6/19113476/387107079577caf2071309487f00536f.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*"
+    ]
+  }
+]

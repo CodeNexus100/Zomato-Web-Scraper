@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Criollo Cafe",
+        "cuisine": "Cafe, Italian, Continental, Coffee",
+        "price_for_two": "₹1,000 for two",
+        "location": "Hazratganj, Lucknow",
+        "page_link": [
+            "https://www.zomato.com/lucknow/criollo-cafe-hazratganj/info"
+        ]
+    },
+    {
+        "name": "Kool Break",
+        "cuisine": "Chinese, Indo-Chinese, Mughlai, North Indian, Continental",
+        "price_for_two": "₹1,000 for two",
+        "location": "Hazratganj, Lucknow",
+        "page_link": [
+            "https://www.zomato.com/lucknow/kool-break-hazratganj/info"
+        ]
+    },
+    {
+        "name": "Haloz - Flame Crafted Crust",
+        "cuisine": "Italian, Pizza, Mexican, Beverages, Coffee, Juices, Healthy Food, Cafe",
+        "price_for_two": "₹1,200 for two",
+        "location": "Hazratganj, Lucknow",
+        "page_link": [
+            "https://www.zomato.com/lucknow/haloz-flame-crafted-crust-hazratganj/info"
+        ]
+    },
+    {
+        "name": "Hazratganj SOCIAL",
+        "cuisine": "Chinese, Biryani, Pasta, Burger, Kebab, Momos, Beverages",
+        "price_for_two": "₹1,800 for two",
+        "location": "Hazratganj, Lucknow",
+        "page_link": [
+            "https://www.zomato.com/lucknow/hazratganj-social-hazratganj/info"
+        ]
+    },
+    {
+        "name": "Trucco's",
+        "cuisine": "Pizza, Pasta, Asian",
+        "price_for_two": "₹500 for two",
+        "location": "Hazratganj, Lucknow",
+        "page_link": [
+            "https://www.zomato.com/lucknow/truccos-hazratganj/info"
+        ]
+    },
+    {
+        "name": "Food Mohalla",
+        "cuisine": "Burger, North Indian, Chinese, Beverages, Pizza, Shake",
+        "price_for_two": "₹500 for two",
+        "location": "Kapoorthala, Lucknow",
+        "page_link": [
+            "https://www.zomato.com/lucknow/food-mohalla-kapoorthala/info"
+        ]
+    },
+    {
+        "name": "Ginger Eats & Arts",
+        "cuisine": "Continental, Italian, Chinese, Sandwich, Cafe, Waffle, Pancake, Coffee",
+        "price_for_two": "₹700 for two",
+        "location": "Mahanagar, Lucknow",
+        "page_link": [
+            "https://www.zomato.com/lucknow/ginger-eats-arts-mahanagar/info"
+        ]
+    },
+    {
+        "name": "Robot Restaurant - The Yellow House",
+        "cuisine": "North Indian, Chinese, Seafood, Mughlai, Italian, Mexican, Desserts, Beverages",
+        "price_for_two": "₹1,400 for two",
+        "location": "Aliganj, Lucknow",
+        "page_link": [
+            "https://www.zomato.com/lucknow/robot-restaurant-the-yellow-house-aliganj/info"
+        ]
+    },
+    {
+        "name": "Molecule Air Bar",
+        "cuisine": "North Indian, Continental, Asian, Finger Food, Desserts, Beverages",
+        "price_for_two": "₹1,800 for two",
+        "location": "Gomti Nagar, Lucknow",
+        "page_link": [
+            "https://www.zomato.com/lucknow/molecule-air-bar-gomti-nagar/info"
+        ]
+    }
+]
