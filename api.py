@@ -5,6 +5,7 @@ import builtins
 import json
 import threading
 import runpy
+import shutil
 from datetime import datetime
 from glob import glob
 from typing import Optional
@@ -70,7 +71,7 @@ def custom_json_dump(obj, fp, *args, **kwargs):
     Monkeypatched json.dump to intercept data when scraper writes output.
     """
     global active_scraper_loop
-    if isinstance(obj, list) and len(obj) > 0 and isinstance(obj[0], dict) and "name" in obj[0]:
+    if isinstance(obj, list) and len(obj) > 0 and isinstance(obj[0], dict) and "name" in obj[0] and "id" in obj[0]:
         if active_scraper_loop:
             for item in obj:
                 mapped_item = {
@@ -211,6 +212,17 @@ async def scrape_endpoint(req: ScrapeRequest):
     while not data_queue.empty():
         await data_queue.get()
         
+    # Clear output directory
+    for filename in os.listdir(OUTPUT_DIR):
+        file_path = os.path.join(OUTPUT_DIR, filename)
+        try:
+            if os.path.isfile(file_path) or os.path.islink(file_path):
+                os.unlink(file_path)
+            elif os.path.isdir(file_path):
+                shutil.rmtree(file_path)
+        except Exception:
+            pass
+            
     stop_event.clear()
     scraper_status = "running"
     
