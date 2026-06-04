@@ -19,7 +19,7 @@ from scraping_restaurant import (
 )
 
 # Get city input from user
-city_input = input("Enter the city name (e.g., mumbai, pune, bangalore): ").strip().lower().replace(" ", "-")
+city_input = input("Enter the city url: ").strip()
 
 # Basic driver setup
 
@@ -27,8 +27,8 @@ driver = webdriver.Chrome()
 driver.maximize_window()
 wait = WebDriverWait(driver, 25)
 
-print(f"Opening Zomato for {city_input}…")
-driver.get(f"https://www.zomato.com/{city_input}/restaurants")
+print(f"Opening Zomato URL.....")
+driver.get(f"{city_input}")
 
 # handling cookie popup
 

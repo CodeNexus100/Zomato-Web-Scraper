@@ -1,0 +1,3323 @@
+[
+    {
+        "name": "Playbook Cafe",
+        "cuisine": "Italian, Mexican, Pizza, Burger, Continental, Chinese, Desserts, Beverages",
+        "price_for_two": "₹1,200 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/playbook-cafe-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Ministry Of Beer",
+        "cuisine": "Indian, Indo-Chinese, Japanese, Mughlai, North Indian, Sushi",
+        "price_for_two": "₹2,000 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/ministry-of-beer-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Paprika Park",
+        "cuisine": "North Indian, Bar Food, Momos, Fast Food, Chinese, Continental, Mughlai, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/paprika-park-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Imperfecto",
+        "cuisine": "North Indian, Continental, Asian, Kebab, Mughlai, American, Pakistani, Kerala",
+        "price_for_two": "₹3,000 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/imperfecto-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Aaviary Restaurant & Bar",
+        "cuisine": "North Indian, Asian, Beverages",
+        "price_for_two": "₹1,800 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/aaviary-restaurant-bar-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Pind Balluchi",
+        "cuisine": "North Indian, Mughlai, Kebab, Desserts",
+        "price_for_two": "₹1,400 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/pind-balluchi-1-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Berco's - If You Love Chinese",
+        "cuisine": "Sichuan, Thai, Chinese, Momos, Seafood, Desserts, Tibetan, Asian",
+        "price_for_two": "₹1,200 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/bercos-if-you-love-chinese-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Cinnamon Courtyard",
+        "cuisine": "Continental, Pizza, Wraps, Pasta, Chinese, North Indian, Mughlai, Beverages",
+        "price_for_two": "₹1,400 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/cinnamon-courtyard-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Gola Sizzlers - Naresh Gola Group",
+        "cuisine": "North Indian, Mughlai, Chinese, Italian, Biryani, Fast Food, Momos, Beverages",
+        "price_for_two": "₹2,500 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/gola-sizzlers-naresh-gola-group-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Lord Of Foods",
+        "cuisine": "North Indian, Lebanese, Italian, Continental, Asian, Seafood, Desserts",
+        "price_for_two": "₹1,600 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/lord-of-foods-1-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Annam",
+        "cuisine": "South Indian, North Indian, Chinese, Street Food, Desserts, Shake, Beverages",
+        "price_for_two": "₹600 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/annam-1-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Adige Dosa House",
+        "cuisine": "South Indian, Beverages",
+        "price_for_two": "₹1,200 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/adige-dosa-house-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Weekend - BYOB",
+        "cuisine": "North Indian, Chinese, Thai, Beverages",
+        "price_for_two": "₹1,400 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-weekend-byob-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Terrace",
+        "cuisine": "North Indian, Mughlai, Chinese, Continental, Italian, Bar Food, Desserts, Beverages",
+        "price_for_two": "₹2,800 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-terrace-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Soho Garden",
+        "cuisine": "Italian, Chinese, North Indian, Bar Food, Asian, Biryani, Sandwich, Pasta",
+        "price_for_two": "₹3,200 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-soho-garden-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Walk In The Woods",
+        "cuisine": "North Indian, Asian, Chinese, Biryani, Kebab, Mughlai, Beverages, Desserts",
+        "price_for_two": "₹1,600 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/walk-in-the-woods-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Chai Point",
+        "cuisine": "Tea, Coffee, Beverages, Shake, Fast Food, Rolls, Desserts, Cafe",
+        "price_for_two": "₹400 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/chai-point-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Daalcha By The Yellow Bowl",
+        "cuisine": "Chinese, Momos, Fast Food, Rolls, North Indian, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/daalcha-by-the-yellow-bowl-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "64/6 - Country Inn & Suites By Radisson",
+        "cuisine": "North Indian, Chinese, Thai, Continental",
+        "price_for_two": "₹6,200 for two",
+        "location": "Sahibabad, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/64-6-country-inn-suites-by-radisson-sahibabad-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Barbeque Company",
+        "cuisine": "BBQ, North Indian, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹2,600 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-barbeque-company-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Rooftop - The View",
+        "cuisine": "North Indian, Chinese, Continental, Italian, Asian, South American, Beverages",
+        "price_for_two": "₹3,700 for two",
+        "location": "Kaushambi, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/rooftop-the-view-kaushambi-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "3B's - Country Inn & Suites By Radisson",
+        "cuisine": "North Indian, Chinese, Oriental, Desserts, Beverages",
+        "price_for_two": "₹4,000 for two",
+        "location": "Sahibabad, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/3bs-country-inn-suites-by-radisson-sahibabad-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Country Lounge - Country Inn & Suites By Radisson",
+        "cuisine": "Cafe, Coffee, Desserts, Fast Food, Ice Cream, Continental, North Indian",
+        "price_for_two": "₹2,500 for two",
+        "location": "Sahibabad, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-country-lounge-country-inn-suites-by-radisson-sahibabad-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Boho-Bistro",
+        "cuisine": "Italian, Continental, Coffee, Pizza, Chinese, Fast Food",
+        "price_for_two": "₹1,400 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/boho-bistro-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Tatva - Country Inn & Suites By Radisson",
+        "cuisine": "North Indian, Biryani, Desserts, Beverages",
+        "price_for_two": "₹3,500 for two",
+        "location": "Sahibabad, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/tatva-country-inn-suites-by-radisson-sahibabad-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Kake Di Hatti",
+        "cuisine": "North Indian, Chinese, Rolls, Shake, Beverages",
+        "price_for_two": "₹1,200 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/kake-di-hatti-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Golden Paprika - Fine Dine And Playtorium",
+        "cuisine": "Oriental, North Indian, Pizza, Pasta, Fast Food, Chinese, Desserts, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/golden-paprika-fine-dine-and-playtorium-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Walk In The Village",
+        "cuisine": "North Indian, Mughlai, Chinese, Kebab",
+        "price_for_two": "₹850 for two",
+        "location": "Mohan Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/walk-in-the-village-mohan-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Boba Bhai - Bubble Tea & Korean Street Food",
+        "cuisine": "Bubble Tea, Burger, Beverages, Korean, Shake, Momos, Fast Food, Street Food",
+        "price_for_two": "₹400 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/boba-bhai-bubble-tea-korean-street-food-11-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Veg Mantra",
+        "cuisine": "North Indian, Chinese, Fast Food, Street Food",
+        "price_for_two": "₹1,000 for two",
+        "location": "Mohan Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/veg-mantra-mohan-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Magadhi Al - Madhaq",
+        "cuisine": "North Indian, Mughlai, Chinese, Sandwich, Pasta, Fast Food, Shake",
+        "price_for_two": "₹1,200 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/magadhi-al-madhaq-1-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Great Kabab Factory",
+        "cuisine": "North Indian, Mughlai, BBQ, Shake",
+        "price_for_two": "₹3,000 for two",
+        "location": "Kaushambi, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-great-kabab-factory-kaushambi-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Chowman",
+        "cuisine": "Chinese, Asian, Thai, Seafood, Sichuan, Desserts, Beverages",
+        "price_for_two": "₹1,400 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/chowman-1-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Sultan- Radisson Blu Kaushambi",
+        "cuisine": "North Indian, Chinese, Continental, Italian, Asian, Beverages",
+        "price_for_two": "₹6,000 for two",
+        "location": "Kaushambi, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/sultan-radisson-blu-kaushambi-kaushambi-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Punjab Grill",
+        "cuisine": "North Indian, Kebab, Biryani, Mughlai",
+        "price_for_two": "₹2,500 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/punjab-grill-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Yellow Chilli",
+        "cuisine": "North Indian, Mughlai, Chinese, Seafood, Biryani, Salad, Desserts, Beverages",
+        "price_for_two": "₹2,200 for two",
+        "location": "Sahibabad, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-yellow-chilli-sahibabad-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Flock 'O' Clock",
+        "cuisine": "North Indian, Pizza, Chinese, Fast Food, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Ambedkar Road, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/flock-o-clock-ambedkar-road-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Khumari Terrace Bar & Lounge",
+        "cuisine": "Continental, Salad, Fast Food, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/khumari-terrace-bar-lounge-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Koko Restro Bar & Lounge",
+        "cuisine": "Bar Food, Continental, Asian, North Indian, Biryani, Italian, Mughlai, Desserts",
+        "price_for_two": "₹1,600 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/koko-restro-bar-lounge-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Barista Coffee",
+        "cuisine": "Cafe, Coffee, Tea, Fast Food, Beverages, Desserts",
+        "price_for_two": "₹700 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/barista-coffee-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Hit A Pint Brewery & Restaurant",
+        "cuisine": "North Indian, Chinese, Oriental, Continental, Pizza, Street Food, Desserts, Beverages",
+        "price_for_two": "₹1,500 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/hit-a-pint-brewery-restaurant-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Cinnamon Kitchen",
+        "cuisine": "North Indian, Chinese, Continental, Italian, Fast Food, Sichuan, Beverages",
+        "price_for_two": "₹1,700 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/cinnamon-kitchen-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Nior",
+        "cuisine": "North Indian, Mughlai, Pizza, Pasta, Biryani, Chinese, Continental, Mexican",
+        "price_for_two": "₹1,800 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/nior-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Mulethi",
+        "cuisine": "North Indian, Chinese, Fast Food",
+        "price_for_two": "₹1,200 for two",
+        "location": "Shalimar Garden, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/mulethi-1-shalimar-garden-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Let's Catch Up",
+        "cuisine": "North Indian, Beverages",
+        "price_for_two": "₹350 for two",
+        "location": "Nehru Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/lets-catch-up-3-nehru-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Grill House",
+        "cuisine": "North Indian, Chinese, Mughlai, Kebab",
+        "price_for_two": "₹1,200 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-grill-house-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Tangerine - Mahagun Sarovar Portico",
+        "cuisine": "North Indian, Thai, Chinese, Fast Food, Desserts, Beverages, Ice Cream",
+        "price_for_two": "₹2,500 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/tangerine-mahagun-sarovar-portico-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Cafe ElleBee",
+        "cuisine": "Continental, Chinese, Pizza, Fast Food, Shake, Pasta, Desserts, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/cafe-ellebee-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Zoca Diner",
+        "cuisine": "Cafe, Coffee, Continental, Italian, Pizza, Momos, Desserts, Beverages",
+        "price_for_two": "₹1,100 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/zoca-diner-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Biryani By Kilo",
+        "cuisine": "Biryani, Rolls, Desserts, Hyderabadi, Kebab, North Indian, Mughlai",
+        "price_for_two": "₹600 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/biryani-by-kilo-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Shivam Pahalwan Dhaba",
+        "cuisine": "North Indian",
+        "price_for_two": "₹250 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/shivam-pahalwan-dhaba-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Dhaba 99 Cafe & Kitchen",
+        "cuisine": "North Indian, Chinese, Pizza, Momos, Sandwich, Fast Food, Beverages, Shake",
+        "price_for_two": "₹900 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/dhaba-99-cafe-kitchen-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Gulaboo Resto And Cafe",
+        "cuisine": "Chinese, Fast Food, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/gulaboo-resto-and-cafe-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Railicious",
+        "cuisine": "North Indian, Chinese, Fast Food, Desserts, Ice Cream, Mughlai, Continental, Biryani",
+        "price_for_two": "₹1,600 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/railicious-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "HOF- Heaven Of Flavours",
+        "cuisine": "North Indian, Chinese, Mexican, Pizza, Burger, Sandwich, Desserts, Beverages",
+        "price_for_two": "₹1,100 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/hof-heaven-of-flavours-1-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Barbeque Company",
+        "cuisine": "North Indian, Chinese, BBQ",
+        "price_for_two": "₹2,800 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-barbeque-company-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Sky Grill - A Mediterranean Experience",
+        "cuisine": "Grilled Chicken, Mediterranean, Italian, European, Pizza, Pasta, Bar Food, Desserts",
+        "price_for_two": "₹2,000 for two",
+        "location": "Kaushambi, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/sky-grill-a-mediterranean-experience-kaushambi-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Walk",
+        "cuisine": "North Indian, Chinese, Pasta, Pizza, Momos, Sandwich, Fast Food, Beverages",
+        "price_for_two": "₹2,500 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-walk-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Handi Delight",
+        "cuisine": "North Indian, Chinese, Fast Food, Biryani, Momos",
+        "price_for_two": "₹700 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/handi-delight-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "BBQ Beer Bash",
+        "cuisine": "BBQ, North Indian, Mughlai, Asian, Chinese, Pizza, Pasta, Fast Food",
+        "price_for_two": "₹1,700 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/bbq-beer-bash-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Dosa Cafe",
+        "cuisine": "South Indian, Tamil, Rolls, Chinese, Kebab, North Indian, Beverages, Italian",
+        "price_for_two": "₹1,200 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/dosa-cafe-5-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Rebound - Cafe Lounge & Bar",
+        "cuisine": "North Indian, Continental, Italian, Chinese, Asian, Middle Eastern, Bar Food, Beverages",
+        "price_for_two": "₹1,700 for two",
+        "location": "Kavi Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/rebound-cafe-lounge-bar-kavi-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Blue Tokai Coffee Roasters",
+        "cuisine": "Coffee",
+        "price_for_two": "₹600 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/blue-tokai-coffee-roasters-1-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Garam Dharam",
+        "cuisine": "North Indian, Chinese, Street Food, South Indian, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹1,700 for two",
+        "location": "Mohan Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/garam-dharam-mohan-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Yanny's",
+        "cuisine": "Street Food, North Indian, Chinese, Salad, Desserts, Beverages",
+        "price_for_two": "₹2,000 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/yannys-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Ru-Bar-Ru",
+        "cuisine": "North Indian, Continental, Mexican, Chinese",
+        "price_for_two": "₹3,100 for two",
+        "location": "Kaushambi, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/ru-bar-ru-kaushambi-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Roms Pizza",
+        "cuisine": "Pizza, Burger, Fast Food, Shake",
+        "price_for_two": "₹500 for two",
+        "location": "Nehru Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/roms-pizza-3-nehru-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Sardari",
+        "cuisine": "North Indian, Fast Food, Chinese, Biryani, Momos, Desserts, Healthy Food, Ice Cream",
+        "price_for_two": "₹800 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/sardari-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Starbucks Coffee",
+        "cuisine": "Cafe, Coffee, Tea, Beverages",
+        "price_for_two": "₹900 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/starbucks-coffee-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Food Workshop",
+        "cuisine": "North Indian, Chinese, Fast Food, Continental, Beverages, Shake, Italian, Bar Food",
+        "price_for_two": "₹1,400 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-food-workshop-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Barbeque Nation",
+        "cuisine": "North Indian, BBQ, Kebab, Biryani",
+        "price_for_two": "₹1,800 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/barbeque-nation-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Tasa Kitchen Bar & Terrace",
+        "cuisine": "North Indian, Chinese, Italian, Mediterranean, Asian, Sushi, Desserts, Beverages",
+        "price_for_two": "₹1,900 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/tasa-kitchen-bar-terrace-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "California Burrito",
+        "cuisine": "Mexican, American, Continental, Healthy Food, Beverages, Fast Food",
+        "price_for_two": "₹600 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/california-burrito-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Heaven Of Flavors",
+        "cuisine": "North Indian, Chinese, Mughlai, Kebab, Biryani, Rolls",
+        "price_for_two": "₹550 for two",
+        "location": "Pratap Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/heaven-of-flavors-pratap-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "New Paul Bhojanalya",
+        "cuisine": "North Indian, Mughlai, South Indian, Chinese",
+        "price_for_two": "₹500 for two",
+        "location": "Mohan Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/new-paul-bhojanalya-mohan-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "BrewHouse- Radisson Blu Kaushambi",
+        "cuisine": "North Indian, Continental",
+        "price_for_two": "₹4,000 for two",
+        "location": "Kaushambi, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/brewhouse-radisson-blu-kaushambi-kaushambi-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Khomaari",
+        "cuisine": "North Indian, Chinese, Mughlai, Desserts, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/khomaari-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Handi Highway Dining",
+        "cuisine": "North Indian, South Indian, Chinese, Biryani, Pizza, Sandwich, Momos, Desserts",
+        "price_for_two": "₹800 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/handi-highway-dining-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Marv's Pizza - Deliciously Fresh",
+        "cuisine": "Pizza, Pasta, Italian, Mexican, Beverages, Shake",
+        "price_for_two": "₹350 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/marvs-pizza-deliciously-fresh-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Dawat Family Restaurant",
+        "cuisine": "Fast Food, Chinese",
+        "price_for_two": "₹300 for two",
+        "location": "Pratap Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/dawat-family-restaurant-pratap-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Dial A Cake",
+        "cuisine": "Bakery, Desserts",
+        "price_for_two": "₹350 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/dial-a-cake-1-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Aas Paas Resto Cafe",
+        "cuisine": "North Indian, Chinese, Momos, Coffee",
+        "price_for_two": "₹900 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/aas-paas-resto-cafe-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Veer Ji Malai Chaap Wale",
+        "cuisine": "North Indian, Rolls, Chinese, Momos",
+        "price_for_two": "₹400 for two",
+        "location": "Vasundhara, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/veer-ji-malai-chaap-wale-vasundhara-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "La Pino'z Pizza",
+        "cuisine": "Pizza, Desserts, Fast Food, Pasta, Italian",
+        "price_for_two": "₹600 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/la-pinoz-pizza-2-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Clubate By Swadesi Tandoor",
+        "cuisine": "North Indian, Chinese, Continental, Pizza, Coffee, Shake, Beverages",
+        "price_for_two": "₹2,000 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/clubate-by-swadesi-tandoor-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Flying Dutchman",
+        "cuisine": "Italian, North Indian, Chinese, Fast Food, Pizza",
+        "price_for_two": "₹4,000 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-flying-dutchman-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "7 Degree Fahrenheit",
+        "cuisine": "Fast Food, Sandwich, Burger, Pasta, Chinese, Street Food, Beverages, Ice Cream",
+        "price_for_two": "₹400 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/7-degree-fahrenheit-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Bikanervala",
+        "cuisine": "Mithai, North Indian, South Indian, Chinese, Fast Food, Street Food, Beverages, Desserts",
+        "price_for_two": "₹600 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/bikanervala-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Cafe Marshmallow",
+        "cuisine": "North Indian, Chinese, Sandwich, Burger, Pizza, Wraps, Continental, Italian",
+        "price_for_two": "₹1,000 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/cafe-marshmallow-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Taste Swag",
+        "cuisine": "Mithai, North Indian, South Indian, Chinese",
+        "price_for_two": "₹300 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/taste-swag-1-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Donald's Pastry Shop",
+        "cuisine": "Fast Food, Beverages, Desserts, Bakery, Cake",
+        "price_for_two": "₹350 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/donalds-pastry-shop-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Pavilion",
+        "cuisine": "Beverages, Salad, Pasta, Mexican, North Indian, Chinese, Biryani, Desserts",
+        "price_for_two": "₹1,900 for two",
+        "location": "Kavi Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-pavilion-kavi-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Pahalwan Dhaba ( Hapur Chungi Wale )",
+        "cuisine": "North Indian",
+        "price_for_two": "₹200 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/pahalwan-dhaba-hapur-chungi-wale-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "N D Chicken Corner",
+        "cuisine": "North Indian, Chinese",
+        "price_for_two": "₹400 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/n-d-chicken-corner-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Burger Singh - Big Punjabi Burgers",
+        "cuisine": "Burger, Fast Food, Momos, Beverages, Desserts",
+        "price_for_two": "₹400 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/burger-singh-big-punjabi-burgers-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Liquicious",
+        "cuisine": "North Indian, Mughlai, Chinese",
+        "price_for_two": "₹400 for two",
+        "location": "Vasundhara, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/liquicious-vasundhara-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Om Sai Hotel & Caterers",
+        "cuisine": "North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Lal Kuan, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/om-sai-hotel-caterers-lal-kuan-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Midnight Zombies Cafe",
+        "cuisine": "North Indian, Chinese, Rolls, Sandwich, Fast Food, Street Food, Momos, Beverages",
+        "price_for_two": "₹600 for two",
+        "location": "Nehru Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/midnight-zombies-cafe-nehru-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Shawarma Point",
+        "cuisine": "Shawarma, Sandwich, Rolls, Pizza, Burger, North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Govind Puram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/shawarma-point-govind-puram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Woodside Cafe",
+        "cuisine": "Chinese, Pizza, Burger, Sandwich, Pasta, Fast Food, Coffee, Shake",
+        "price_for_two": "₹900 for two",
+        "location": "Ramprastha, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-woodside-cafe-1-ramprastha-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Melt Bistro",
+        "cuisine": "Pizza, Wraps, Beverages, Pasta, Burger, Mexican, Italian",
+        "price_for_two": "₹1,000 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/melt-bistro-1-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Big Bulls",
+        "cuisine": "Pizza, Burger, Sandwich, Wraps, Fast Food, Street Food, Coffee, Shake",
+        "price_for_two": "₹300 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-big-bulls-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Shawarma Joint",
+        "cuisine": "Rolls, Burger, Shawarma",
+        "price_for_two": "₹400 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-shawarma-joint-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Basan",
+        "cuisine": "North Indian, Mughlai, Biryani, Rolls",
+        "price_for_two": "₹500 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/basan-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Food Workshop",
+        "cuisine": "North Indian, Fast Food, Salad, Mughlai",
+        "price_for_two": "₹500 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/food-workshop-1-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Beast Cafe",
+        "cuisine": "Pizza, Sandwich, Burger, Fast Food, Momos, Rolls, Beverages",
+        "price_for_two": "₹350 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-beast-cafe-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Apni Rasoi",
+        "cuisine": "North Indian, Chinese, Fast Food, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/apni-rasoi-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "WoW! Vada Pav",
+        "cuisine": "Street Food, Fast Food",
+        "price_for_two": "₹200 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/wow-vada-pav-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Virgin Bistro",
+        "cuisine": "Bakery, Desserts, Shake, Cafe, Coffee, Beverages, Healthy Food",
+        "price_for_two": "₹500 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/virgin-bistro-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Lucknow Wale Kababi- Since 2009",
+        "cuisine": "North Indian, Mughlai",
+        "price_for_two": "₹500 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/lucknow-wale-kababi-since-2009-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Tiwari Tea",
+        "cuisine": "Street Food, Tea, Fast Food",
+        "price_for_two": "₹400 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/tiwari-tea-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Tandoor Unplugged",
+        "cuisine": "Chinese, Momos, Rolls, North Indian, Mughlai",
+        "price_for_two": "₹400 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/tandoor-unplugged-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Preet Chaap",
+        "cuisine": "North Indian, Mughlai",
+        "price_for_two": "₹350 for two",
+        "location": "Lal Kuan, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/preet-chaap-lal-kuan-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Ratan Sudh Bhojanalya",
+        "cuisine": "North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/ratan-sudh-bhojanalya-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Delhi Darbar Chaap Point",
+        "cuisine": "Momos, Rolls, North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/delhi-darbar-chaap-point-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Pasta Ka Wasta",
+        "cuisine": "North Indian, Fast Food",
+        "price_for_two": "₹350 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/pasta-ka-wasta-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Indian Zaika 2",
+        "cuisine": "Rolls, North Indian, Momos, Mughlai, Biryani, Chinese",
+        "price_for_two": "₹400 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/indian-zaika-2-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Baba Cake House",
+        "cuisine": "Bakery",
+        "price_for_two": "₹300 for two",
+        "location": "Shalimar Garden, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/baba-cake-house-1-shalimar-garden-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Bake the Cake - BTC",
+        "cuisine": "Bakery, Desserts",
+        "price_for_two": "₹250 for two",
+        "location": "Sahibabad, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/bake-the-cake-btc-sahibabad-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Food Factory",
+        "cuisine": "North Indian, Chinese, Momos",
+        "price_for_two": "₹400 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/food-factory-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Yellow Bowl",
+        "cuisine": "Chinese, Momos, Rolls, Fast Food, North Indian, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-yellow-bowl-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Shree Jee Restaurant",
+        "cuisine": "North Indian, Chinese, South Indian, Street Food, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Govind Puram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/shree-jee-restaurant-1-govind-puram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Barboys",
+        "cuisine": "North Indian, Fast Food, Street Food",
+        "price_for_two": "₹1,500 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/barboys-1-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Pehlwan Dhaba",
+        "cuisine": "North Indian",
+        "price_for_two": "₹400 for two",
+        "location": "Nehru Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/pehlwan-dhaba-1-nehru-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Divya Food Court",
+        "cuisine": "Chinese, North Indian",
+        "price_for_two": "₹500 for two",
+        "location": "Shalimar Garden, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/divya-food-court-3-shalimar-garden-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Kinza Pizza Point",
+        "cuisine": "Pizza, Burger, Fast Food",
+        "price_for_two": "₹200 for two",
+        "location": "Loni, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/kinza-pizza-point-loni-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Pizza 24×7",
+        "cuisine": "Pizza, Fast Food",
+        "price_for_two": "₹300 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/pizza-24-7-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Dom's Pizza",
+        "cuisine": "Pizza, Fast Food",
+        "price_for_two": "₹300 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/doms-pizza-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Chinese Wok",
+        "cuisine": "Chinese, Momos, Desserts, Beverages",
+        "price_for_two": "₹700 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/chinese-wok-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Crops & Curries",
+        "cuisine": "North Indian, Chinese, Biryani, Pizza, Beverages",
+        "price_for_two": "₹1,200 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/crops-curries-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Namaste Flavours",
+        "cuisine": "North Indian, Chinese, Pizza, Pasta, Momos, Beverages, Desserts",
+        "price_for_two": "₹450 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/namaste-flavours-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Aurum Dine - In",
+        "cuisine": "North Indian, Fast Food, Chinese, Shake, Coffee, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Chander Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/aurum-dine-in-1-chander-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Jai Maa Laxmi Dhaba",
+        "cuisine": "North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Loni, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/jai-maa-laxmi-dhaba-loni-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "C & D Cheese & Dough The Pizza Revolution",
+        "cuisine": "Burger, Chinese, Fast Food, Momos, Pizza, Sandwich, Indo-Chinese, Italian",
+        "price_for_two": "₹600 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/c-d-cheese-dough-the-pizza-revolution-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Chillout Restaurant & Cafe",
+        "cuisine": "Chinese, North Indian, Rolls, Fast Food",
+        "price_for_two": "₹350 for two",
+        "location": "Rajendar Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/chillout-restaurant-cafe-rajendar-nagar/info"
+        ]
+    },
+    {
+        "name": "Desi vibes",
+        "cuisine": "North Indian, Beverages, Kebab, Mughlai, Afghani, Indian, Desserts, Biryani",
+        "price_for_two": "₹1,100 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/desi-vibes-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Terrace Grill - Mahagun Sarovar Portico",
+        "cuisine": "North Indian, Continental, Desserts, Chinese",
+        "price_for_two": "₹2,500 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/terrace-grill-mahagun-sarovar-portico-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "DS Dosa Factory",
+        "cuisine": "South Indian, Beverages, Chinese, Desserts, North Indian",
+        "price_for_two": "₹1,200 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/ds-dosa-factory-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Sandwedges",
+        "cuisine": "Sandwich, Fast Food, Street Food, Beverages",
+        "price_for_two": "₹200 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/sandwedges-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Sankalp",
+        "cuisine": "South Indian",
+        "price_for_two": "₹700 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/sankalp-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Rooftop Cafe",
+        "cuisine": "Cafe, Coffee, Sandwich, Pizza, Wraps, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Shastri Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/rooftop-cafe-shastri-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Mystery Of Food",
+        "cuisine": "North Indian, Mughlai, Chinese, Thai, Asian, Continental, Desserts",
+        "price_for_two": "₹2,000 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/mystery-of-food-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Spoon & Sip",
+        "cuisine": "North Indian, Seafood, Chinese, Fast Food, Bar Food, Pizza, Pasta, Italian",
+        "price_for_two": "₹1,000 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-spoon-sip-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Mithaas",
+        "cuisine": "Mithai, Street Food, Desserts",
+        "price_for_two": "₹450 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/mithaas-3-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Zoca Cafe",
+        "cuisine": "Chinese, Italian, Pizza, Burger, Fast Food, Shake, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/zoca-cafe-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Dal Cheeni",
+        "cuisine": "North Indian, Chinese, Kebab",
+        "price_for_two": "₹1,000 for two",
+        "location": "Kavi Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/dal-cheeni-kavi-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "ASAP - As Spicy As Possible Diner",
+        "cuisine": "North Indian, South Indian, Chinese, Pizza, Desserts, Beverages",
+        "price_for_two": "₹700 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/asap-as-spicy-as-possible-diner-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Xero Degrees",
+        "cuisine": "Italian, Pizza, Wraps, Sandwich, Burger, Desserts, Momos, Beverages",
+        "price_for_two": "₹700 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/xero-degrees-2-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Courtyard By Maini's Green Leaf",
+        "cuisine": "North Indian, Chinese, Continental, Desserts, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Mohan Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/courtyard-by-mainis-green-leaf-2-mohan-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Pepper Pods By Hotel Tushar Elegant",
+        "cuisine": "North Indian, Mughlai, Kebab, Biryani, Chinese",
+        "price_for_two": "₹1,000 for two",
+        "location": "Kavi Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/pepper-pods-by-hotel-tushar-elegant-kavi-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Butter Berry",
+        "cuisine": "Bakery, Desserts, Cafe",
+        "price_for_two": "₹500 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/butter-berry-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Veu by Duty Free",
+        "cuisine": "North Indian, Chinese, Biryani, Kebab, Asian, Pasta, Beverages",
+        "price_for_two": "₹1,500 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/veu-by-duty-free-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Moti Mahal Delux",
+        "cuisine": "Beverages, Chinese, Desserts, Mughlai, North Indian, Biryani, Kebab",
+        "price_for_two": "₹1,300 for two",
+        "location": "Sahibabad, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/moti-mahal-delux-sahibabad-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Cafe El Dorado",
+        "cuisine": "Chinese, Cafe, Coffee, Pizza, Sandwich, Momos, Pasta",
+        "price_for_two": "₹600 for two",
+        "location": "Kavi Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/cafe-el-dorado-kavi-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "34 Masala Lane",
+        "cuisine": "Chinese, North Indian, Fast Food, Street Food",
+        "price_for_two": "₹1,000 for two",
+        "location": "Vasundhara, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/34-masala-lane-9-vasundhara-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Orchid - Fortune District Centre",
+        "cuisine": "North Indian, Chinese, Continental, Beverages",
+        "price_for_two": "₹2,000 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/orchid-fortune-district-centre-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Your's Pizza",
+        "cuisine": "Pizza, Italian, Fast Food, Pasta, Burger, Shake, Beverages, Desserts",
+        "price_for_two": "₹500 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/yours-pizza-2-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Taco Bell",
+        "cuisine": "Street Food, Mexican, Fast Food, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/taco-bell-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Krishnam Restaurant",
+        "cuisine": "North Indian, Chinese, Pasta, Pizza, Fast Food, Street Food, Desserts, Shake",
+        "price_for_two": "₹900 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/krishnam-restaurant-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Flying Bucket",
+        "cuisine": "Chinese, North Indian, Mughlai, Biryani, Rolls",
+        "price_for_two": "₹550 for two",
+        "location": "Pratap Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-flying-bucket-pratap-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Punjabi Hub",
+        "cuisine": "North Indian, Mughlai, Biryani, Kebab, Chinese, Rolls, Fast Food",
+        "price_for_two": "₹1,300 for two",
+        "location": "Pratap Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/punjabi-hub-pratap-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Flavours Of Punjabi",
+        "cuisine": "North Indian, Rolls, Mughlai, Biryani, Chinese",
+        "price_for_two": "₹400 for two",
+        "location": "Pratap Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/flavours-of-punjabi-pratap-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Biryani Blues",
+        "cuisine": "Biryani, Mughlai, North Indian, Healthy Food, Hyderabadi, Kebab, Street Food",
+        "price_for_two": "₹1,200 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/biryani-blues-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Sawariya Restro & Sweets",
+        "cuisine": "North Indian, South Indian, Chinese, Pizza, Street Food, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Loni, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/sawariya-restro-sweets-loni-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Drunken Detective",
+        "cuisine": "North Indian, Bar Food, Chinese, Mughlai, Pizza, Desserts, Beverages",
+        "price_for_two": "₹1,900 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/drunken-detective-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Flav O Grills - Mexican-Turkish-Israeli",
+        "cuisine": "Mexican, Turkish, Israeli, Continental, Asian, Salad, Desserts, Beverages",
+        "price_for_two": "₹600 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/flav-o-grills-mexican-turkish-israeli-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Chaupal",
+        "cuisine": "North Indian, Chinese, Fast Food, Rolls, Momos, Shake, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Govind Puram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/chaupal-govind-puram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Agniq Restaurant",
+        "cuisine": "North Indian, Chinese, Pizza, Desserts, Shake, Beverages",
+        "price_for_two": "₹1,100 for two",
+        "location": "Ambedkar Road, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/agniq-restaurant-1-ambedkar-road-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Cocoon",
+        "cuisine": "North Indian, Mughlai, Biryani, Chinese, Continental, Italian, Desserts, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Vasundhara, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/cocoon-vasundhara-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Cake The Cafe",
+        "cuisine": "Bakery, Pizza, Burger, Pasta",
+        "price_for_two": "₹1,000 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/cake-the-cafe-5-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Goli Vada Pav No. 1",
+        "cuisine": "Fast Food, Maharashtrian, Street Food, Beverages, Burger, Rolls",
+        "price_for_two": "₹250 for two",
+        "location": "Surya Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/goli-vada-pav-no-1-surya-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Brewhouse",
+        "cuisine": "North Indian, Chinese, Bar Food",
+        "price_for_two": "₹1,800 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/brewhouse-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Taste Of Chicken",
+        "cuisine": "North Indian, Fast Food",
+        "price_for_two": "₹300 for two",
+        "location": "Pratap Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/taste-of-chicken-pratap-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Veer Ji The Hotel",
+        "cuisine": "North Indian, Rolls",
+        "price_for_two": "₹600 for two",
+        "location": "Pratap Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/veer-ji-the-hotel-pratap-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Urban Punjab",
+        "cuisine": "North Indian, Chinese, Mughlai, Rolls, Kebab",
+        "price_for_two": "₹550 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/urban-punjab-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Shagun Sweets",
+        "cuisine": "Mithai",
+        "price_for_two": "₹350 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/shagun-sweets-1-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "KFC",
+        "cuisine": "Burger, Rolls, Fast Food, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Sahibabad, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/kfc-sahibabad-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Singla's Sweets Bakery & Restaurant",
+        "cuisine": "Mithai, North Indian, Chinese, South Indian, Street Food, Fast Food",
+        "price_for_two": "₹450 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/singlas-sweets-bakery-restaurant-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Usman Bhai Biryani Wale",
+        "cuisine": "Biryani",
+        "price_for_two": "₹200 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/usman-bhai-biryani-wale-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Mahour Poha Centre",
+        "cuisine": "Street Food",
+        "price_for_two": "₹100 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/mahour-poha-centre-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Belgian Waffle Co.",
+        "cuisine": "Waffle, Ice Cream, Desserts, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Vasundhara, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-belgian-waffle-co-vasundhara-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Singhal Sweets",
+        "cuisine": "Mithai, Bakery, Chinese",
+        "price_for_two": "₹300 for two",
+        "location": "Govind Puram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/singhal-sweets-govind-puram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Ice Cream Bell",
+        "cuisine": "Ice Cream",
+        "price_for_two": "₹100 for two",
+        "location": "GT Road, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/ice-cream-bell-gt-road-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Mr. Juice Mrs. Shake Pizza & Cafe",
+        "cuisine": "Italian, Shake, Pizza, Burger, Cafe, Beverages",
+        "price_for_two": "₹200 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/mr-juice-mrs-shake-pizza-cafe-1-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Gupta's Restaurant",
+        "cuisine": "Cafe, Coffee, Pizza, Chinese, Burger, Momos, Fast Food, Shake",
+        "price_for_two": "₹300 for two",
+        "location": "Ankur Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/guptas-restaurant-ankur-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Havmor Icecream",
+        "cuisine": "Ice Cream, Desserts, Beverages, Shake",
+        "price_for_two": "₹300 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/havmor-icecream-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Angithi Restaurant",
+        "cuisine": "North Indian, Chinese, Fast Food, Momos, Shake, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Loni, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/angithi-restaurant-loni-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "chawla's veg kitchen",
+        "cuisine": "North Indian, Chinese, Momos, Rolls, Fast Food, Desserts",
+        "price_for_two": "₹500 for two",
+        "location": "Vasundhara, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/chawlas-veg-kitchen-1-vasundhara-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Burger King",
+        "cuisine": "Burger, Fast Food, Desserts, Shake",
+        "price_for_two": "₹400 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/burger-king-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Postman Kitchen",
+        "cuisine": "North Indian, Chinese, Mughlai, Biryani, Rolls, BBQ",
+        "price_for_two": "₹600 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-postman-kitchen-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Nuskha-E-Biryani",
+        "cuisine": "Biryani, Mughlai, North Indian",
+        "price_for_two": "₹500 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/nuskha-e-biryani-1-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "JFC Family Restaurant",
+        "cuisine": "North Indian, Chinese, South Indian, Street Food",
+        "price_for_two": "₹450 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/jfc-family-restaurant-1-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Cafe Pannora",
+        "cuisine": "Fast Food, Burger, Sandwich, Pasta, Pizza, Coffee, Shake, Rolls",
+        "price_for_two": "₹1,100 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/cafe-pannora-1-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Kitchen Clicks",
+        "cuisine": "North Indian, Mughlai, Continental, Chinese, Street Food, Beverages, Desserts",
+        "price_for_two": "₹1,700 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/kitchen-clicks-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Fortune Deli - Fortune District Centre",
+        "cuisine": "North Indian, Cafe, Beverages, Desserts",
+        "price_for_two": "₹1,500 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/fortune-deli-fortune-district-centre-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Nagpal Di Hatti",
+        "cuisine": "North Indian, Street Food",
+        "price_for_two": "₹200 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/nagpal-di-hatti-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Champaran Matka Wala Mutton Aur Chicken Palace",
+        "cuisine": "North Indian, Kebab, Biryani",
+        "price_for_two": "₹500 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/champaran-matka-wala-mutton-aur-chicken-palace-2-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Golf View Cafe & Restaurant",
+        "cuisine": "North Indian, Mughlai, Biryani, Kebab, Sandwich, Chinese, Fast Food, Beverages",
+        "price_for_two": "₹1,400 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/golf-view-cafe-restaurant-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Baba Chaap & Rolls",
+        "cuisine": "North Indian, Rolls",
+        "price_for_two": "₹250 for two",
+        "location": "Shalimar Garden, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/baba-chaap-rolls-shalimar-garden-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Foodezz",
+        "cuisine": "North Indian, Biryani, Street Food",
+        "price_for_two": "₹200 for two",
+        "location": "Ankur Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/foodezz-ankur-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Kulhad Chai By Mamaji",
+        "cuisine": "Tea",
+        "price_for_two": "₹200 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/kulhad-chai-by-mamaji-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "RollsKing",
+        "cuisine": "Rolls, North Indian, Beverages, Fast Food",
+        "price_for_two": "₹300 for two",
+        "location": "Pratap Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/rollsking-pratap-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Spice Avenue",
+        "cuisine": "Chinese, Fast Food, Pasta, Sandwich, Pizza, Burger, Momos, Shake",
+        "price_for_two": "₹400 for two",
+        "location": "Ankur Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/spice-avenue-ankur-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Delhi Darbaar Restaurant",
+        "cuisine": "North Indian, Mughlai",
+        "price_for_two": "₹400 for two",
+        "location": "Shalimar Garden, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/delhi-darbaar-restaurant-shalimar-garden-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Champaran Handi",
+        "cuisine": "North Indian, Mughlai, Kebab",
+        "price_for_two": "₹300 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/champaran-handi-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Punjabi Burger King",
+        "cuisine": "Pizza, Burger, Fast Food",
+        "price_for_two": "₹200 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/punjabi-burger-king-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Pizzariya 24*7",
+        "cuisine": "Pizza, Burger, Pasta",
+        "price_for_two": "₹500 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/pizzariya-24-7-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Nuptam Foods",
+        "cuisine": "North Indian, Mughlai, Biryani, Fast Food, Street Food",
+        "price_for_two": "₹550 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/nuptam-foods-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Spicy Tawa",
+        "cuisine": "Biryani, North Indian, Chinese, Street Food, Indo-Chinese, Momos, Kebab",
+        "price_for_two": "₹300 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/spicy-tawa-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Call It Yummy",
+        "cuisine": "North Indian, Chinese, Rolls, Momos",
+        "price_for_two": "₹400 for two",
+        "location": "Rajendar Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/call-it-yummy-1-rajendar-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Wok And Wonders",
+        "cuisine": "Chinese, Sichuan, Momos",
+        "price_for_two": "₹800 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/wok-and-wonders-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "K’s Cafe",
+        "cuisine": "Mexican, Italian, Pizza, Fast Food, Beverages, Korean, Sandwich, Waffle",
+        "price_for_two": "₹1,100 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/ks-cafe-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Old Delhi",
+        "cuisine": "North Indian, Mughlai, Kebab, Biryani",
+        "price_for_two": "₹700 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-old-delhi-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Namaste Punjab",
+        "cuisine": "North Indian, Chinese, Mughlai, Sichuan, Biryani, Beverages",
+        "price_for_two": "₹1,800 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/namastepunjabindirapuram/info"
+        ]
+    },
+    {
+        "name": "The Daryaganj Grills",
+        "cuisine": "North Indian, Chinese, Mughlai, Rolls, Momos",
+        "price_for_two": "₹500 for two",
+        "location": "Lal Kuan, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-daryaganj-grills-lal-kuan-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Rominus Pizza And Burger",
+        "cuisine": "Pizza, Burger, Pasta",
+        "price_for_two": "₹200 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/rominus-pizza-and-burger-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Pizzakart",
+        "cuisine": "Pizza, Pasta, Fast Food, Beverages, Burger, Shake, Italian",
+        "price_for_two": "₹500 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/pizzakart-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Tummy Section",
+        "cuisine": "Shawarma, Fast Food, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-tummy-section-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Woodbury",
+        "cuisine": "North Indian, Mughlai, Chinese, Fast Food, Pizza, Beverages, Desserts",
+        "price_for_two": "₹1,800 for two",
+        "location": "Vasundhara, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/woodbury-vasundhara-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Veggie Art",
+        "cuisine": "North Indian, Chinese, Sandwich, Salad, Beverages",
+        "price_for_two": "₹1,200 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/veggie-art-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Labash",
+        "cuisine": "North Indian, Mughlai, Biryani, Pizza, Pasta, Chinese, Continental, Italian",
+        "price_for_two": "₹1,200 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/labash-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "White Hart Pizza",
+        "cuisine": "Pizza, Fast Food, Burger",
+        "price_for_two": "₹350 for two",
+        "location": "Vasundhara, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/white-hart-pizza-vasundhara-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Aadaram",
+        "cuisine": "South Indian, Beverages",
+        "price_for_two": "₹600 for two",
+        "location": "Mohan Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/aadaram-1-mohan-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Swadesi Tandoor",
+        "cuisine": "North Indian, Mughlai, Chinese",
+        "price_for_two": "₹500 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/swadesi-tandoor-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Keventers - Milkshakes & Waffles",
+        "cuisine": "Shake, Desserts",
+        "price_for_two": "₹500 for two",
+        "location": "Nehru Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/keventers-milkshakes-waffles-nehru-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Chaat Di Hatti",
+        "cuisine": "Chinese, Pizza, Momos, Healthy Food, Beverages, Burger, Sandwich, Indian",
+        "price_for_two": "₹500 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/chaat-di-hatti-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Blooming Garden",
+        "cuisine": "Continental, Oriental, Italian, North Indian, Pizza, Mughlai, Fast Food, Beverages",
+        "price_for_two": "₹2,000 for two",
+        "location": "Pratap Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/blooming-garden-1-pratap-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Bakingo",
+        "cuisine": "Bakery",
+        "price_for_two": "₹200 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/bakingo-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Royal - Restaurant And Bar",
+        "cuisine": "North Indian, Mughlai, South Indian, Asian, Continental, Italian, Desserts, Beverages",
+        "price_for_two": "₹1,800 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-royal-restaurant-and-bar-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "9th Avenue Cafe & Restaurant",
+        "cuisine": "North Indian, Chinese, Italian, Burger, Sandwich, Fast Food, Waffle, Shake",
+        "price_for_two": "₹700 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/9th-avenue-cafe-restaurant-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Rainbow Leaf",
+        "cuisine": "North Indian, Fast Food",
+        "price_for_two": "₹1,200 for two",
+        "location": "Vasundhara, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/rainbow-leaf-vasundhara-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Neptune - Fortune District Centre",
+        "cuisine": "Finger Food",
+        "price_for_two": "₹2,200 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/neptune-fortune-district-centre-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Beyimaan' Biryani",
+        "cuisine": "Biryani, North Indian, Roast Chicken, Kebab, Awadhi",
+        "price_for_two": "₹800 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/beyimaan-biryani-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "New Ganga Shudh Bhojnalaya",
+        "cuisine": "North Indian",
+        "price_for_two": "₹550 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/new-ganga-shudh-bhojnalaya-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Sharma's Choice",
+        "cuisine": "North Indian, Chinese, Burger, Pizza, Fast Food, Street Food",
+        "price_for_two": "₹300 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/sharmas-choice-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Mahour Poha Center",
+        "cuisine": "Street Food",
+        "price_for_two": "₹200 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/mahour-poha-center-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Momo Shomo",
+        "cuisine": "Momos, Tibetan, Asian, North Eastern, Fast Food, Street Food, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "Rajendar Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/momo-shomo-rajendar-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Parantha Xpress",
+        "cuisine": "North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/parantha-xpress-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Nasir Diet Cafe",
+        "cuisine": "Healthy Food, Fast Food, Sandwich, Street Food",
+        "price_for_two": "₹200 for two",
+        "location": "Shalimar Garden, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/nasir-diet-cafe-shalimar-garden-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Shree Shyam Foods",
+        "cuisine": "North Indian, Chinese, Beverages",
+        "price_for_two": "₹250 for two",
+        "location": "Shastri Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/shree-shyam-foods-3-shastri-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Sagar Shudh Bhojnalaya",
+        "cuisine": "North Indian",
+        "price_for_two": "₹350 for two",
+        "location": "Shastri Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/sagar-shudh-bhojnalaya-shastri-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Dilli Darbaar",
+        "cuisine": "Biryani, Mughlai, North Indian, Kebab",
+        "price_for_two": "₹600 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/dilli-darbaar-2-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Good Food Cafe",
+        "cuisine": "North Indian, Chinese, Sandwich, Fast Food, Street Food, Shake, Beverages",
+        "price_for_two": "₹450 for two",
+        "location": "Shalimar Garden, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/good-food-cafe-shalimar-garden-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Biryani Haweli",
+        "cuisine": "North Indian, Biryani, Fast Food",
+        "price_for_two": "₹500 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/biryani-haweli-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Pehlwan Dhaba",
+        "cuisine": "North Indian",
+        "price_for_two": "₹400 for two",
+        "location": "Govind Puram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/pehlwan-dhaba-govind-puram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Wrapido",
+        "cuisine": "Pizza",
+        "price_for_two": "₹300 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/wrapido-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Burger Lab",
+        "cuisine": "Fast Food, Burger, Shake, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-burger-lab-5-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Champaran Handi Meat",
+        "cuisine": "North Indian",
+        "price_for_two": "₹500 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/champaran-handi-meat-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Egg Protein Point",
+        "cuisine": "Street Food",
+        "price_for_two": "₹300 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/egg-protein-point-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "ZAIKA Food Junction",
+        "cuisine": "North Indian, Biryani, Rolls",
+        "price_for_two": "₹550 for two",
+        "location": "Surya Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/zaika-food-junction-surya-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Thapa's Chinese Food Mirchi",
+        "cuisine": "Fast Food, Chinese, Burger",
+        "price_for_two": "₹500 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/thapas-chinese-food-mirchi-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Krishna Restaurant",
+        "cuisine": "North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Shastri Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/krishna-restaurant-1-shastri-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Gym Diet & Fitness Cafe",
+        "cuisine": "Sandwich, Salad, North Indian, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-gym-diet-fitness-cafe-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Pehlwan Dhaba",
+        "cuisine": "North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/pehlwan-dhaba-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Noor Chicken Resturant",
+        "cuisine": "North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Pratap Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/noor-chicken-resturant-pratap-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Multi Food Restaurant",
+        "cuisine": "North Indian, Chinese, Momos",
+        "price_for_two": "₹300 for two",
+        "location": "Shalimar Garden, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/multi-food-restaurant-2-shalimar-garden-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Bengal Kathi Roll Junction",
+        "cuisine": "Rolls, North Indian, Mughlai, Biryani",
+        "price_for_two": "₹450 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/bengal-kathi-roll-junction-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "24Seven",
+        "cuisine": "Street Food, Fast Food, North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/24seven-1-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Best Kolkata Kathi Egg Roll",
+        "cuisine": "Rolls, Chinese, Momos",
+        "price_for_two": "₹300 for two",
+        "location": "Rajendar Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-best-kolkata-kathi-egg-roll-rajendar-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Cafe101",
+        "cuisine": "Pizza",
+        "price_for_two": "₹400 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/cafe101-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Tandoori Eats",
+        "cuisine": "Chinese",
+        "price_for_two": "₹400 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/tandoori-eats-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Gabbar Dhaba",
+        "cuisine": "North Indian, Chinese, Biryani, Mughlai",
+        "price_for_two": "₹1,000 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/gabbar-dhaba-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Kulcha Lal Parantha Das",
+        "cuisine": "North Indian, Street Food, Desserts, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/kulcha-lal-parantha-das-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "WOW! China",
+        "cuisine": "Chinese, Asian, Fast Food",
+        "price_for_two": "₹550 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/wow-china-3-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Hungry Hackers",
+        "cuisine": "Fast Food, Burger, Sandwich, Beverages, Shake, American",
+        "price_for_two": "₹400 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/hungry-hackers-1-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Devrana Express",
+        "cuisine": "North Indian, South Indian, Chinese, Fast Food, Street Food, Beverages",
+        "price_for_two": "₹600 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/devrana-express-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "@Clip",
+        "cuisine": "Chinese, North Indian, Momos, Continental, Pasta, Thai, Asian",
+        "price_for_two": "₹1,000 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/@clip-2-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Sohan's Mantra",
+        "cuisine": "North Indian, Chinese, South Indian, Biryani",
+        "price_for_two": "₹950 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/sohans-mantra-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Kiran’s Restaurant",
+        "cuisine": "Chinese",
+        "price_for_two": "₹400 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-kirans-restaurant-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Bakeido",
+        "cuisine": "Bakery, Cafe",
+        "price_for_two": "₹200 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/bakeido-1-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Sohan's Restaurant & Party Hall",
+        "cuisine": "North Indian, South Indian, Chinese, Momos, Fast Food, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/sohans-restaurant-party-hall-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Waffle Co.",
+        "cuisine": "Desserts, Waffle, Pancake, Shake, Belgian, Beverages",
+        "price_for_two": "₹350 for two",
+        "location": "Govind Puram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-waffle-co-govind-puram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Yellow Bowl",
+        "cuisine": "Rolls, North Indian, Chinese, Momos",
+        "price_for_two": "₹400 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/yellow-bowl-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Udupi Krishna Restaurant",
+        "cuisine": "North Indian, South Indian, Chinese, Fast Food, Italian",
+        "price_for_two": "₹700 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/udupi-krishna-restaurant-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Theobroma",
+        "cuisine": "Bakery, Desserts, Beverages, Sandwich",
+        "price_for_two": "₹500 for two",
+        "location": "Chander Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/theobroma-chander-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Bhukha Sher Fast Food & Nonveg Dhaba",
+        "cuisine": "North Indian, Fast Food, Sichuan",
+        "price_for_two": "₹300 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/bhukha-sher-fast-food-nonveg-dhaba-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Banbhori Sweets And Restaurant",
+        "cuisine": "North Indian, Chinese, Mithai, Bengali, Burger, Fast Food",
+        "price_for_two": "₹450 for two",
+        "location": "Vasundhara, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/banbhori-sweets-and-restaurant-vasundhara-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Brother's Bakery And Cafe",
+        "cuisine": "North Indian, Chinese, Pizza, Sandwich, Fast Food, Bakery, Rolls, Momos",
+        "price_for_two": "₹600 for two",
+        "location": "Loni, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/brothers-bakery-and-cafe-loni-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Salam Chicken Restaurant",
+        "cuisine": "Mughlai, North Indian, Fast Food, Desserts",
+        "price_for_two": "₹350 for two",
+        "location": "Loni, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/salam-chicken-restaurant-1-loni-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Liquor Paradise",
+        "cuisine": "Bar Food, North Indian, Chinese",
+        "price_for_two": "₹1,000 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/liquor-paradise-1-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "No Limits - BYOB Cafe & Lounge",
+        "cuisine": "North Indian, Mughlai, Biryani, Chinese, Continental, Pizza, Fast Food",
+        "price_for_two": "₹1,200 for two",
+        "location": "Chander Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/no-limits-byob-cafe-lounge-chander-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Wrapperz",
+        "cuisine": "Rolls, Chinese, North Indian, Mexican, Shawarma, Momos",
+        "price_for_two": "₹350 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/wrapperz-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Aradhya Restaurant And Cafe",
+        "cuisine": "",
+        "price_for_two": "for two",
+        "location": "Nehru Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-aradhya-restaurant-and-cafe-nehru-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Haji Sweet Corner & Namkeen",
+        "cuisine": "Fast Food",
+        "price_for_two": "₹300 for two",
+        "location": "Shalimar Garden, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/haji-sweet-corner-namkeen-1-shalimar-garden-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "C for Cafe",
+        "cuisine": "",
+        "price_for_two": "for two",
+        "location": "Shastri Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/c-for-cafe-2-shastri-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "G2 Cafe",
+        "cuisine": "Fast Food, North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Ankur Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/g2-cafe-ankur-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Delicious The Food Park",
+        "cuisine": "South Indian, North Indian, Chinese, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/delicious-the-food-park-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Drnk Lab",
+        "cuisine": "Burger, Pizza, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Kaushambi, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/drnk-lab-kaushambi-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Deepanshu Restaurant",
+        "cuisine": "North Indian, Chinese, Mughlai, South Indian",
+        "price_for_two": "₹500 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/deepanshu-restaurant-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Nothing Before Coffee",
+        "cuisine": "Coffee, Fast Food, Street Food, Desserts",
+        "price_for_two": "₹300 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/nothing-before-coffee-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Wok Dish Way",
+        "cuisine": "Chinese, Thai, Wraps, Sichuan, Momos, Healthy Food, Fast Food, Street Food",
+        "price_for_two": "₹700 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/wok-dish-way-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "I Love Chillies Restaurant",
+        "cuisine": "North Indian, Chinese, Seafood, Mughlai, Biryani, Kebab, Momos, Fast Food",
+        "price_for_two": "₹1,000 for two",
+        "location": "Loni, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/i-love-chillies-restaurant-loni-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Maini's Green Leaf",
+        "cuisine": "North Indian, Chinese, Italian, Salad, Asian, Desserts, Beverages",
+        "price_for_two": "₹1,300 for two",
+        "location": "Kaushambi, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/mainis-green-leaf-kaushambi-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "La Deliche",
+        "cuisine": "North Indian, Pasta, Sandwich, Pizza, Chinese, Desserts, Shake, Tea",
+        "price_for_two": "₹1,200 for two",
+        "location": "Rajendar Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/la-deliche-3-rajendar-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Haveli Dhaba",
+        "cuisine": "North Indian, South Indian, Biryani, Fast Food, Bakery",
+        "price_for_two": "₹1,000 for two",
+        "location": "Vasundhara, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/haveli-dhaba-vasundhara-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Pizza Smith",
+        "cuisine": "Pizza",
+        "price_for_two": "₹400 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-pizza-smith-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Haristo Pizzeria",
+        "cuisine": "Italian, Burger, Sandwich, Pizza, Pasta, Chinese, Fast Food",
+        "price_for_two": "₹700 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/haristo-pizzeria-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Tikka Junction",
+        "cuisine": "Biryani, Chinese, Fast Food, Kebab, Mughlai, North Indian, Rolls, Indo-Chinese",
+        "price_for_two": "₹500 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/tikka-junction-1-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Sunheri Lal Sweets",
+        "cuisine": "Mithai, North Indian, Street Food",
+        "price_for_two": "₹300 for two",
+        "location": "Loni, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/sunheri-lal-sweets-loni-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Dilliwala Food Bazaar",
+        "cuisine": "North Indian, Street Food, Salad",
+        "price_for_two": "₹350 for two",
+        "location": "Kavi Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/dilliwala-food-bazaar-kavi-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Taste Of Amritsar - Punjabi Food Lover",
+        "cuisine": "Biryani, North Indian, Rolls, Chinese, Fast Food, Kebab, Mughlai",
+        "price_for_two": "₹500 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-taste-of-amritsar-punjabi-food-lover-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Urban Bites",
+        "cuisine": "South Indian, Chinese, Momos, Pizza, Continental",
+        "price_for_two": "₹400 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/urban-bites-2-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Daily Buzz Cafe",
+        "cuisine": "Chinese, Fast Food, Burger, Sandwich, Pasta, Shake, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-daily-buzz-cafe-4-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Feed My Tummy",
+        "cuisine": "North Indian, Chinese, Pizza, Sandwich, Momos, Fast Food, Street Food, Shake",
+        "price_for_two": "₹300 for two",
+        "location": "Matiyala, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/feed-my-tummy-matiyala-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Laxmi Sudh Bhojnalaya",
+        "cuisine": "North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/laxmi-sudh-bhojnalaya-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Sheikh Chang Singh",
+        "cuisine": "Rolls, Momos, Chinese, Lebanese, Street Food",
+        "price_for_two": "₹500 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/sheikh-chang-singh-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Yummy In Tummy",
+        "cuisine": "North Indian, Chinese, Rolls, Momos",
+        "price_for_two": "₹600 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/yummy-in-tummy-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Maini Restaurant",
+        "cuisine": "North Indian",
+        "price_for_two": "₹400 for two",
+        "location": "Surya Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/maini-restaurant-surya-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Chinese Feast",
+        "cuisine": "North Indian, Chinese, Momos",
+        "price_for_two": "₹300 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-chinese-feast-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Negi Ji Pure Vegetarian",
+        "cuisine": "North Indian, Rolls",
+        "price_for_two": "₹250 for two",
+        "location": "Wazirabad, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/negi-ji-pure-vegetarian-wazirabad-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Bikaner",
+        "cuisine": "Chinese, North Indian",
+        "price_for_two": "₹300 for two",
+        "location": "Rajendar Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/bikaner-rajendar-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Voodoo Chinese Food Valley",
+        "cuisine": "Indo-Chinese, Chinese, Momos, Street Food, Fast Food, North Indian",
+        "price_for_two": "₹250 for two",
+        "location": "Pratap Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/voodoo-chinese-food-valley-pratap-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Natkhat Restaurant",
+        "cuisine": "North Indian, Chinese, Fast Food, Momos",
+        "price_for_two": "₹300 for two",
+        "location": "Ankur Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/natkhat-restaurant-ankur-vihar/info"
+        ]
+    },
+    {
+        "name": "Nazeer Foods",
+        "cuisine": "North Indian, Mughlai, Biryani, Rolls, Burger, Fast Food, Beverages, Desserts",
+        "price_for_two": "₹900 for two",
+        "location": "Vasundhara, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/nazeer-foods-vasundhara-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Pandit Ji Ki Rasoi",
+        "cuisine": "North Indian, South Indian, Chinese",
+        "price_for_two": "₹300 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/pandit-ji-ki-rasoi-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Janta Chicken Point",
+        "cuisine": "Mughlai",
+        "price_for_two": "₹500 for two",
+        "location": "Pratap Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/janta-chicken-point-pratap-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Little India",
+        "cuisine": "North Indian, Chinese, Street Food, South Indian, Shake, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Shastri Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/little-india-1-shastri-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Sunil Chole Kulche",
+        "cuisine": "Street Food",
+        "price_for_two": "₹200 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/sunil-chole-kulche-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Domino's Pizza",
+        "cuisine": "Pizza, Beverages, Desserts",
+        "price_for_two": "₹350 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/dominos-pizza-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Subtle Spices",
+        "cuisine": "Pizza, Sandwich, Rolls",
+        "price_for_two": "₹300 for two",
+        "location": "Pratap Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/subtle-spices-pratap-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Royal Food",
+        "cuisine": "North Indian, Chinese, Momos, Fast Food",
+        "price_for_two": "₹600 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-royal-food-2-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Third Wave Coffee",
+        "cuisine": "Cafe, Coffee, Tea, Beverages, Sandwich, Fast Food, Desserts, Pizza",
+        "price_for_two": "₹900 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/third-wave-coffee-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Red Flame Restaurant",
+        "cuisine": "North Indian, South Indian, Biryani, Chinese, Pizza, Fast Food, Desserts, Shake",
+        "price_for_two": "₹600 for two",
+        "location": "Loni, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/red-flame-restaurant-4-loni-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Otto Lounge by The Monarch",
+        "cuisine": "North Indian, Chinese, Continental, Coffee, Bar Food, Asian, Kebab, BBQ",
+        "price_for_two": "₹1,800 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/otto-lounge-by-the-monarch-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Khadak Singh Da Dhaba",
+        "cuisine": "North Indian, Biryani, Chinese, Mughlai",
+        "price_for_two": "₹700 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/khadak-singh-da-dhaba-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Al - Salam Biryani & Kebab",
+        "cuisine": "Biryani, Kebab",
+        "price_for_two": "₹200 for two",
+        "location": "Rajendar Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/al-salam-biryani-kebab-rajendar-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Bir's Signature Kitchen",
+        "cuisine": "North Indian, Chinese, Fast Food",
+        "price_for_two": "₹250 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/birs-signature-kitchen-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Arorvs Special Chinese Food Valley",
+        "cuisine": "Chinese, Fast Food",
+        "price_for_two": "₹300 for two",
+        "location": "Pratap Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/arorvs-special-chinese-food-valley-pratap-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Shree Rathnam",
+        "cuisine": "South Indian, North Indian, Chinese",
+        "price_for_two": "₹600 for two",
+        "location": "Kaushambi, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/shree-rathnam-kaushambi-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Nazara Rooftop & Cafe",
+        "cuisine": "Beverages, Shake, Momos, South Indian",
+        "price_for_two": "₹600 for two",
+        "location": "Bamheta, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/nazara-rooftop-cafe-bamheta-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Balaji Confectionery Fast Food Corner",
+        "cuisine": "Fast Food",
+        "price_for_two": "₹100 for two",
+        "location": "Rajendar Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/balaji-confectionery-fast-food-corner-rajendar-nagar/info"
+        ]
+    },
+    {
+        "name": "Vedantam Cafe",
+        "cuisine": "South Indian, Desserts, Coffee",
+        "price_for_two": "₹350 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/vedantam-cafe-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Apni Rasoi",
+        "cuisine": "North Indian, Chinese, Fast Food, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/apni-rasoi-6-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Le Winkies",
+        "cuisine": "Pizza, Fast Food, Sandwich, Street Food, Beverages, Shake",
+        "price_for_two": "₹300 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/le-winkies-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Hotel Krishna Sagar",
+        "cuisine": "South Indian, Fast Food, Chinese, Pizza, North Indian, Ice Cream, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/hotel-krishna-sagar-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Bs Gulatis Punjabi Swad",
+        "cuisine": "North Indian, Kebab, Chinese, Biryani",
+        "price_for_two": "₹800 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/bs-gulatis-punjabi-swad-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Haldiram's",
+        "cuisine": "Mithai, Street Food, North Indian, South Indian, Chinese, Beverages",
+        "price_for_two": "₹600 for two",
+        "location": "Sahibabad, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/haldirams-sahibabad-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Monarch Terrace",
+        "cuisine": "North Indian, Mughlai, Chinese, Asian, Continental, Italian, Desserts, Beverages",
+        "price_for_two": "₹1,900 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-monarch-terrace-2-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Beetle 2.0 Cafe and Restaurant",
+        "cuisine": "North Indian, Fast Food, Chinese, Pizza, Beverages, Momos, Sandwich, Cafe",
+        "price_for_two": "₹1,200 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/beetle-2-0-cafe-and-restaurant-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "The Grills",
+        "cuisine": "Fast Food, Burger, Chinese, Pizza",
+        "price_for_two": "₹250 for two",
+        "location": "Vasundhara, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/the-grills-vasundhara-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Happy Punjab",
+        "cuisine": "North Indian, Chinese, Rolls, Mughlai",
+        "price_for_two": "₹500 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/happy-punjab-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "McDonald's",
+        "cuisine": "Burger, Wraps, Fast Food, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/mcdonalds-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Sagar Ratna",
+        "cuisine": "South Indian, North Indian, Beverages, Desserts, Chinese",
+        "price_for_two": "₹1,100 for two",
+        "location": "Sahibabad, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/sagar-ratna-sahibabad-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Aggarwal Sweets",
+        "cuisine": "Street Food, Fast Food, Chinese",
+        "price_for_two": "₹300 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/aggarwal-sweets-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Mashaya",
+        "cuisine": "North Indian, Chinese, Fast Food, Desserts, Pasta, Continental",
+        "price_for_two": "₹1,400 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/mashaya-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Dode's Cafe",
+        "cuisine": "Cafe, Ice Cream, Street Food, Fast Food, Beverages, Shake",
+        "price_for_two": "₹850 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/dodes-cafe-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Annapurna Bhoj",
+        "cuisine": "North Indian, Chinese",
+        "price_for_two": "₹400 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/annapurna-bhoj-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Amar Bakery",
+        "cuisine": "Street Food, Bakery, Desserts, Mithai, Fast Food, Beverages, Cake",
+        "price_for_two": "₹250 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/amar-bakery-4-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Silbatti",
+        "cuisine": "North Indian, Mughlai, Kebab, Biryani, Rolls",
+        "price_for_two": "₹600 for two",
+        "location": "Vasundhara, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/silbatti-vasundhara-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Hira Sweets",
+        "cuisine": "Mithai, North Indian, South Indian, Chinese, Pizza, Street Food, Ice Cream, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/hira-sweets-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Mr. Brown",
+        "cuisine": "Bakery, Burger, Beverages, Desserts",
+        "price_for_two": "₹600 for two",
+        "location": "Kaushambi, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/mr-brown-kaushambi-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "GreeNox - Healthy Bites, Happy Lives",
+        "cuisine": "Healthy Food, Salad, Mexican, Sandwich, Pasta, Juices, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "Vasundhara, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/greenox-healthy-bites-happy-lives-vasundhara-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Three Guys Cafe & Lounge",
+        "cuisine": "Chinese, North Indian, Pizza, Burger, Rolls, Momos, Shake, Beverages",
+        "price_for_two": "₹1,200 for two",
+        "location": "Nehru Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/three-guys-cafe-lounge-nehru-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Chaayos Chai+Snacks=Relax",
+        "cuisine": "Tea, Cafe, Coffee, Rolls, Fast Food, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Crossing Republik, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/chaayos-chai-snacks-relax-crossing-republik-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Ice World",
+        "cuisine": "Ice Cream, Desserts, Beverages, Waffle, Shake, Coffee, Juices, Bakery",
+        "price_for_two": "₹400 for two",
+        "location": "Kavi Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/ice-world-kavi-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Kennedia Blu",
+        "cuisine": "North Indian, Italian, Oriental, Chinese, Asian, Biryani, Pizza, Continental",
+        "price_for_two": "₹700 for two",
+        "location": "Raj Nagar Extension, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/kennedia-blu-raj-nagar-extension-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Grill Burger Point",
+        "cuisine": "Fast Food, Sandwich, Pizza, Burger, Shake, Beverages",
+        "price_for_two": "₹250 for two",
+        "location": "Pratap Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/grill-burger-point-pratap-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Jain Shudh Bhojanalya",
+        "cuisine": "North Indian, South Indian, Chinese, Fast Food",
+        "price_for_two": "₹300 for two",
+        "location": "Ambedkar Road, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/jain-shudh-bhojanalya-ambedkar-road-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "abcoffee",
+        "cuisine": "Coffee, Beverages, Shake, Bakery, Cafe, Desserts",
+        "price_for_two": "₹600 for two",
+        "location": "Indirapuram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/abcoffee-indirapuram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Madan Sweets & Restaurant",
+        "cuisine": "Street Food, Mithai, South Indian, Chinese, Fast Food, North Indian, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "Nehru Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/madan-sweets-restaurant-nehru-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Swaad Oasis",
+        "cuisine": "North Indian, Chinese, Momos, Shake, Beverages",
+        "price_for_two": "₹700 for two",
+        "location": "Pratap Vihar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/swaad-oasis-pratap-vihar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Delhi 84",
+        "cuisine": "Burger, Chinese, Fast Food, Pasta, Rolls, Sandwich, Street Food, North Indian",
+        "price_for_two": "₹200 for two",
+        "location": "Wazirabad, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/delhi-84-wazirabad-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Fateh Chand Ki Kachori",
+        "cuisine": "Street Food, Fast Food",
+        "price_for_two": "₹300 for two",
+        "location": "Vaishali, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/fateh-chand-ki-kachori-vaishali-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Momo Thikana",
+        "cuisine": "Street Food, Momos, Chinese, Fast Food, Shake, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "Govind Puram, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/momo-thikana-govind-puram-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Jia Food Corner",
+        "cuisine": "North Indian, Chinese",
+        "price_for_two": "₹250 for two",
+        "location": "Rajendar Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/jia-food-corner-rajendar-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Cheesecake & Co.",
+        "cuisine": "Desserts, Beverages, Bakery",
+        "price_for_two": "₹500 for two",
+        "location": "Raj Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/cheesecake-co-raj-nagar-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Pizza Hut",
+        "cuisine": "Pizza, Pasta, Italian",
+        "price_for_two": "₹600 for two",
+        "location": "Bamheta, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/pizza-hut-bamheta-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Baithak",
+        "cuisine": "North Indian, Chinese, Momos, Salad, Fast Food, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "GT Road, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/baithak-gt-road-ghaziabad/info"
+        ]
+    },
+    {
+        "name": "Woods Cafe Restaurant",
+        "cuisine": "",
+        "price_for_two": "for two",
+        "location": "Mohan Nagar, Ghaziabad",
+        "page_link": [
+            "https://www.zomato.com/ncr/woods-cafe-restaurant-mohan-nagar-ghaziabad/info"
+        ]
+    }
+]
