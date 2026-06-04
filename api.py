@@ -40,6 +40,7 @@ scraper_status = "idle"  # idle | running | done | error
 log_queue: asyncio.Queue = asyncio.Queue()
 data_queue: asyncio.Queue = asyncio.Queue()
 stop_event = threading.Event()
+active_scraper_loop = None
 
 class ScrapeRequest(BaseModel):
     city_url: str
@@ -68,13 +69,9 @@ def custom_json_dump(obj, fp, *args, **kwargs):
     """
     Monkeypatched json.dump to intercept data when scraper writes output.
     """
+    global active_scraper_loop
     if isinstance(obj, list) and len(obj) > 0 and isinstance(obj[0], dict) and "name" in obj[0]:
-        try:
-            loop = asyncio.get_event_loop()
-        except RuntimeError:
-            loop = None
-            
-        if loop:
+        if active_scraper_loop:
             for item in obj:
                 mapped_item = {
                     "name": item.get("name", "Unknown"),
@@ -84,7 +81,7 @@ def custom_json_dump(obj, fp, *args, **kwargs):
                     "price": item.get("cost_for_two", item.get("price_for_two", "Unknown")),
                     "contact": item.get("phone", "Unknown")
                 }
-                asyncio.run_coroutine_threadsafe(data_queue.put(mapped_item), loop)
+                asyncio.run_coroutine_threadsafe(data_queue.put(mapped_item), active_scraper_loop)
 
     return builtins._original_json_dump(obj, fp, *args, **kwargs)
 
@@ -103,7 +100,8 @@ builtins._original_open = builtins.open
 
 
 def run_scraper_sync(city_url: str, loop: asyncio.AbstractEventLoop):
-    global scraper_status
+    global scraper_status, active_scraper_loop
+    active_scraper_loop = loop
     
     # Store original builtins
     original_input = builtins.input
