@@ -1,0 +1,1937 @@
+[
+  {
+    "id": 1,
+    "name": "Rominus Pizza And Burger",
+    "ratings": {},
+    "cuisines": [
+      "पिज़्ज़ा",
+      "फास्ट फूड",
+      "पास्‍ता",
+      "बर्गर",
+      "रैप्स",
+      "पेय"
+    ],
+    "address": "396/336, Ground Floor, Colonel Ganj, Allahabad",
+    "timing": "12midnight - 4am, 10am - 12midnight (आज)",
+    "cost_for_two": null,
+    "phone": "+917891515252",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 2,
+    "name": "Burger Singh - Big Punjabi Burgers",
+    "ratings": {},
+    "cuisines": [
+      "Burger",
+      "Fast Food",
+      "Momos"
+    ],
+    "address": "House 1, PD Tandon Road, Civil Lines, Allahabad",
+    "timing": "12midnight – 5am, 12noon – 12midnight (Today)",
+    "cost_for_two": null,
+    "phone": "+919958718268",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 3,
+    "name": "Pizza Galleria",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Shake",
+      "Beverages",
+      "Pasta",
+      "Sandwich",
+      "Burger"
+    ],
+    "address": "9/7C Old, New 9C, Zone-13, Moti Lal Nehru Road, Colonel Ganj, Allahabad",
+    "timing": "Opens at 10am",
+    "cost_for_two": null,
+    "phone": "+918052517999",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 4,
+    "name": "Laal's Kitchen",
+    "ratings": {},
+    "cuisines": [
+      "Fast Food",
+      "Indo-Chinese",
+      "Asian",
+      "Chinese"
+    ],
+    "address": "748/121/5G Shivkuti, Prayagraj, Teliarganj, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918105915920",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 5,
+    "name": "McDonald's",
+    "ratings": {},
+    "cuisines": [
+      "Burger",
+      "Fast Food",
+      "Beverages",
+      "Coffee",
+      "Cafe"
+    ],
+    "address": "34-B, Zone 3, M.G. Marg, Civil Lines, Allahabad",
+    "timing": "12midnight – 2:45am, 8am – 12midnight (Today)",
+    "cost_for_two": null,
+    "phone": "+919919990587",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 6,
+    "name": "KFC",
+    "ratings": {},
+    "cuisines": [
+      "Burger",
+      "Fast Food"
+    ],
+    "address": "4/4A/1A, Ground Floor, Zone 9, Hashimpur Road, Tagore Town, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917304038565",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 7,
+    "name": "Burger King",
+    "ratings": {},
+    "cuisines": [
+      "Burger",
+      "Fast Food",
+      "Desserts"
+    ],
+    "address": "Unit A-1, Plot 126, Ground Floor, 1st Floor And 2nd Floor, Mohalla P.D, Tandon Road, Civil Lines, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "Not available for this place",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 8,
+    "name": "Barbeque Nation",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "BBQ",
+      "Kebab",
+      "Biryani"
+    ],
+    "address": "5th Floor, P Square Mall, MG Road, George Town, Allahabad",
+    "timing": "Opens at 11am",
+    "cost_for_two": null,
+    "phone": "+918069028722",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 9,
+    "name": "Temptation Bakery",
+    "ratings": {},
+    "cuisines": [
+      "Bakery"
+    ],
+    "address": "Kamla Nagar, Myorabad, Near Jeevandeep Pharmacy, Katra, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919265591104",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 10,
+    "name": "Momos Castle",
+    "ratings": {},
+    "cuisines": [
+      "Chinese",
+      "African",
+      "Rolls",
+      "Beverages"
+    ],
+    "address": "13, S P Marg, Civil Lines, Allahabad",
+    "timing": "12midnight – 3am, 12:45pm – 12midnight (Today)",
+    "cost_for_two": null,
+    "phone": "+918447891794",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 11,
+    "name": "Healthy Rasoi",
+    "ratings": {},
+    "cuisines": [
+      "Chinese",
+      "Fast Food",
+      "Street Food"
+    ],
+    "address": "9, Amarnath Jha Marg, George Town, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918887682312",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 12,
+    "name": "Pizza Hut",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Fast Food",
+      "Desserts",
+      "Beverages"
+    ],
+    "address": "Shop 31/31, SP Marg, Civil Lines, Allahabad",
+    "timing": "Opens at 11am",
+    "cost_for_two": null,
+    "phone": "+918929021995",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 13,
+    "name": "Nomad's Kitchen",
+    "ratings": {},
+    "cuisines": [
+      "Fast Food",
+      "North Indian",
+      "Rolls",
+      "Mughlai",
+      "Street Food",
+      "Shake",
+      "Biryani",
+      "Chinese"
+    ],
+    "address": "8/22 B, Sardar Patel Marg, Civil Lines, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919335206557",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 14,
+    "name": "Punjabi Handi",
+    "ratings": {},
+    "cuisines": [
+      "Mughlai"
+    ],
+    "address": "184/80, B1, Myorabad, Katra, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919454163226",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 15,
+    "name": "Domino's Pizza",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Italian",
+      "Pasta",
+      "Fast Food",
+      "Desserts"
+    ],
+    "address": "Upper Ground Floor, Plot 1, 6A, 1A, Mayo Hall Chauraha, Near Boys High School, Civil Lines, Allahabad",
+    "timing": "11am – 3am (Today)",
+    "cost_for_two": null,
+    "phone": "+915322990017",
+    "dishes": [
+      {
+        "name": "Today's Exclusive Dishes",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Paneer Maxxx",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Sourdough Range",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Pizza Mania",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Dominos Classics",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Cheese Burst - 3 New Flavours",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Big Big Pizza",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Chicken Feast",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Garlic Breads & Dips",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Loaded Pizza",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Tacos",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Burgers & Parcels",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Cheese Volcano",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Party Combo",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Value Meals",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Flavours of India",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Desserts",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Pizza Mania Deals",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Cheese Lava Pull Apart Pizza",
+        "price": "read more",
+        "detail": ""
+      }
+    ],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 16,
+    "name": "Maa Annapurna Restaurant",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Biryani",
+      "Burger",
+      "Pasta",
+      "Rolls",
+      "Chinese",
+      "Fast Food",
+      "Street Food"
+    ],
+    "address": "593, 776, Gadhaiya, Nai Basti, Kydganj, Mutthi Ganj Bhag-1, Zone 7, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": null,
+    "phone": "+918318411192",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 17,
+    "name": "Baratie Momos",
+    "ratings": {},
+    "cuisines": [
+      "Momos",
+      "Street Food",
+      "Tibetan",
+      "Asian",
+      "Rolls",
+      "Indo-Chinese",
+      "Chinese",
+      "Japanese"
+    ],
+    "address": "8/22-B, Sardar Patel Marg, Civil Lines, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918090921166",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 18,
+    "name": "Aharam Foods Private Limited",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Street Food",
+      "Desserts"
+    ],
+    "address": "184/80, B1, Muirabad, Katra, Allahabad",
+    "timing": "Aharam Foods Private Limited\n/",
+    "cost_for_two": null,
+    "phone": "+919454812233",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 19,
+    "name": "Bala Ji Food",
+    "ratings": {},
+    "cuisines": [
+      "Burger",
+      "Chinese"
+    ],
+    "address": "Garapur, Parandeeh, Near High Court Gate 1, Civil Lines, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917651878611",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 20,
+    "name": "Momo Street",
+    "ratings": {},
+    "cuisines": [
+      "Momos",
+      "Chinese",
+      "Burger",
+      "Rolls",
+      "Sandwich",
+      "Shake",
+      "Beverages"
+    ],
+    "address": "House 212, First Floor, Katra, Allahabad",
+    "timing": "12midnight – 5am, 10am – 12midnight (Today)",
+    "cost_for_two": null,
+    "phone": "+918090924441",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 21,
+    "name": "Cheesy Affairs",
+    "ratings": {},
+    "cuisines": [
+      "Fast Food",
+      "Street Food",
+      "Pizza"
+    ],
+    "address": "272, Bahadurganj, Zone 7, Chak Zero Road, Near Bus Stand, Chowk, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918299465619",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 22,
+    "name": "Murgh Junction",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Desserts",
+      "Fast Food"
+    ],
+    "address": "215B/80B/1, Muir Road, Ashok Nagar, Allahabad",
+    "timing": "12midnight – 3am, 2pm – 12midnight (Today)",
+    "cost_for_two": null,
+    "phone": "+918009992716",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 23,
+    "name": "Spice & Chutney - Cloud Kitchen",
+    "ratings": {},
+    "cuisines": [
+      "Beverages",
+      "Chinese",
+      "Italian",
+      "North Indian",
+      "Pizza",
+      "Street Food",
+      "Fast Food"
+    ],
+    "address": "326/167, Zone-08, Near Bai Ka Bagh, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": null,
+    "phone": "+917985622265",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 24,
+    "name": "Pizza Wala",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "address": "House 116/261, Bichua Tagore Town, Prayagraj, Tagore Town, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918268539846",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 25,
+    "name": "Keventers - Milkshakes & Waffles",
+    "ratings": {},
+    "cuisines": [
+      "Beverages",
+      "Shake",
+      "Ice Cream",
+      "Desserts"
+    ],
+    "address": "202/45, MG Marg, Civil Lines, Allahabad",
+    "timing": "12midnight – 4am, 10am – 12midnight (Today)",
+    "cost_for_two": null,
+    "phone": "+919792036673",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 26,
+    "name": "MG Food Zone",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Burger",
+      "Chinese",
+      "Biryani",
+      "Fast Food",
+      "Street Food"
+    ],
+    "address": "593, New Basti, Kydganj, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": null,
+    "phone": "+918318411192",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 27,
+    "name": "Aharam",
+    "ratings": {},
+    "cuisines": [
+      "North Indian"
+    ],
+    "address": "184/80, B1, Muirabad, Katra, Allahabad",
+    "timing": "Aharam\n/",
+    "cost_for_two": null,
+    "phone": "+919454812233",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 28,
+    "name": "Biryani House",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "North Indian",
+      "Kebab",
+      "Rolls"
+    ],
+    "address": "Subhash Chauraha, Area-1, Zone-12, Civil Lines, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918303038658",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 29,
+    "name": "Jaiswal Dosa Corner",
+    "ratings": {},
+    "cuisines": [
+      "South Indian"
+    ],
+    "address": "257A/12, Lower Ground Floor, MG Marg, Near Medical Chauraha, George Town, Allahabad",
+    "timing": "Opens at 9:30am",
+    "cost_for_two": null,
+    "phone": "+917080811111",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 30,
+    "name": "SK Food Gallery",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Pizza",
+      "Street Food"
+    ],
+    "address": "593, Nai Basti, Kydganj, Prayagraj, Zone 08, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": null,
+    "phone": "+917607703297",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 31,
+    "name": "Babu Rao Burger",
+    "ratings": {},
+    "cuisines": [
+      "Street Food",
+      "Burger",
+      "Rolls",
+      "Fast Food",
+      "Shake",
+      "Beverages",
+      "American"
+    ],
+    "address": "8/22 B, Auckland Road, Civil Lines, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918090921166",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 32,
+    "name": "Veerji Malai Chaap Wale",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Healthy Food",
+      "Rolls",
+      "Modern Indian"
+    ],
+    "address": "215B/80B/1, Muir Road, Ashok Nagar, Allahabad",
+    "timing": "12midnight – 3am, 1:30pm – 12midnight (Today)",
+    "cost_for_two": null,
+    "phone": "+918009992729",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 33,
+    "name": "Balaji Cafe",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Fast Food",
+      "Street Food",
+      "Biryani"
+    ],
+    "address": "593, 776, New Basti, Kydganj Gadhaiya, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": null,
+    "phone": "+918318411192",
+    "dishes": [
+      {
+        "name": "Starters",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Rice and Biryani",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Noodles",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Pizza and Pasta",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Burgers",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Snacks",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Maggi",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Dessert",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Roti and Rice",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Drinks (Beverages)",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Meals",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Sandwiches",
+        "price": "read more",
+        "detail": ""
+      }
+    ],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 34,
+    "name": "Madnani Food Court",
+    "ratings": {},
+    "cuisines": [
+      "Street Food",
+      "North Indian",
+      "Fast Food",
+      "Rolls"
+    ],
+    "address": "215B/80B/1, Muir Road, Ashok Nagar, Allahabad",
+    "timing": "Opens at 1:30pm",
+    "cost_for_two": null,
+    "phone": "+918009992713",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 35,
+    "name": "Paneer Cheese Pizza Hub",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "address": "House 116/261, Zone 9, Near Pandey Classes, LIC Road, Tagore Town, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918268539846",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 36,
+    "name": "9 Tea's Cafe",
+    "ratings": {},
+    "cuisines": [
+      "Tea",
+      "Coffee",
+      "Shake",
+      "Beverages",
+      "Sandwich",
+      "Pizza",
+      "Fast Food",
+      "Street Food"
+    ],
+    "address": "House 116/261, Bichua, Near Pandey Classes, Tagore Town, Allahabad",
+    "timing": "Opens at 10am",
+    "cost_for_two": null,
+    "phone": "+917045638890",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 37,
+    "name": "Darbar Biryani",
+    "ratings": {},
+    "cuisines": [
+      "Biryani"
+    ],
+    "address": "184/80, B-1, Muirabad, Katra, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919454163226",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 38,
+    "name": "Tea Smokers",
+    "ratings": {},
+    "cuisines": [
+      "Sandwich",
+      "Fast Food",
+      "Street Food"
+    ],
+    "address": "3M/1/2, Ground Floor, Tagore Murti Square, Tagore Town, Allahabad",
+    "timing": "12midnight – 6am, 9:30am – 12midnight (Today)",
+    "cost_for_two": null,
+    "phone": "+917309360112",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 39,
+    "name": "Hashtag Cafe",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Chinese",
+      "Pasta",
+      "Biryani",
+      "Sandwich",
+      "Burger",
+      "Rolls",
+      "North Indian"
+    ],
+    "address": "593, 776, New Basti, Kydganj Gadhaiya, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": null,
+    "phone": "+918318411192",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 40,
+    "name": "Cake Rich & Bakery",
+    "ratings": {},
+    "cuisines": [
+      "Fırın"
+    ],
+    "address": "Kamla Nagar, Near Jeevandeep Pharmacy, Katra, Allahabad",
+    "timing": "Ürün Toplamı: ₹0",
+    "cost_for_two": null,
+    "phone": "+919265591104",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 41,
+    "name": "Flavour Bites",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Sandwich",
+      "Fast Food",
+      "Street Food",
+      "Biryani"
+    ],
+    "address": "593, New Basti Kydganj, Ashrafpur Khas, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": null,
+    "phone": "+918318411192",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 42,
+    "name": "Green Pizza Co",
+    "ratings": {},
+    "cuisines": [
+      "Fast Food",
+      "Pizza"
+    ],
+    "address": "House 116/261, Prayagraj, Bharatdwaj Puram, Zone 9, Near Pandey Classes, Tagore Town, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918268539846",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 43,
+    "name": "Thakur Ki Rasoi",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Burger",
+      "Rolls"
+    ],
+    "address": "691/439/10, Baksi Khurd Colony, Indra Nagar, Allapur, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919026389931",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 44,
+    "name": "Keventers Ice Cream",
+    "ratings": {},
+    "cuisines": [
+      "Ice Cream",
+      "Desserts"
+    ],
+    "address": "202/45/1, Mahatma Gandhi Marg, Civil Lines, Allahabad",
+    "timing": "Keventers Ice Cream\n/",
+    "cost_for_two": null,
+    "phone": "+919792036673",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 45,
+    "name": "The Cake N Bake",
+    "ratings": {},
+    "cuisines": [
+      "Bakery"
+    ],
+    "address": "Jeevandeep Pharmacy, Kamla Nagar, Myorabad, Rajapur, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919265591104",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 46,
+    "name": "Oven Pizzeria",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "address": "194/A, Zone 13, Colonel Ganj, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917757073203",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 47,
+    "name": "Apna Sweet Cake",
+    "ratings": {},
+    "cuisines": [
+      "Bakery"
+    ],
+    "address": "Kamla Nagar, Myorabad, Near Jeevandeep Pharmacy, Katra, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919265591104",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 48,
+    "name": "The Burger Company",
+    "ratings": {},
+    "cuisines": [
+      "Beverages",
+      "Burger",
+      "Momos",
+      "Pizza",
+      "Sandwich",
+      "Coffee",
+      "Italian",
+      "Korean"
+    ],
+    "address": "91, Muir Road, West End, Ashok Nagar, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+916307047546",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 49,
+    "name": "Daawat Biryani",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "North Indian",
+      "Mughlai"
+    ],
+    "address": "184/80, B1, Myorabad, Katra, Allahabad",
+    "timing": "12midnight – 3am, 12noon – 12midnight (Today)",
+    "cost_for_two": null,
+    "phone": "+919454163226",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 50,
+    "name": "Nani De Parathe",
+    "ratings": {},
+    "cuisines": [
+      "North Indian"
+    ],
+    "address": "184/80 B1, Myorabad, Katra, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919454163226",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 51,
+    "name": "Shree Shyam Dosa Corner",
+    "ratings": {},
+    "cuisines": [
+      "South Indian"
+    ],
+    "address": "407, 1st Floor, Zone 13, Near Laxmi Talkies Chauraha, Katra, Allahabad",
+    "timing": "Shree Shyam Dosa Corner\n/",
+    "cost_for_two": null,
+    "phone": "+919120232553",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 52,
+    "name": "9Ts Momos Pizza",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Momos"
+    ],
+    "address": "194 A, Nagar Nigam, Food Safety Zone 13, Colonel Ganj, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917757073203",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 53,
+    "name": "MG Pizza Hub",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "Burger",
+      "Chinese",
+      "Pasta",
+      "Sandwich",
+      "Street Food"
+    ],
+    "address": "593/776, New Basti Kydganj, Ward VII, Gadhaiya, Zone 15, Near Kotha Parcha Daat Ka Pull, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": null,
+    "phone": "+918318411192",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 54,
+    "name": "Modern Berry Cakes",
+    "ratings": {},
+    "cuisines": [
+      "Cake"
+    ],
+    "address": "Kamla Nagar, Near Jeevandeep Pharmacy, Rajapur, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919265591104",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 55,
+    "name": "Panch Biryani",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Biryani"
+    ],
+    "address": "474/355, Bahadur Ganj, Ahmadganj, Bahadurganj, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": null,
+    "phone": "+918318735019",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 56,
+    "name": "Dum Safar Biryani",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi",
+      "Kebab",
+      "North Indian",
+      "BBQ"
+    ],
+    "address": "5th Floor, P Square Mall, Mahatma Gandhi Marg, Civil Lines, Allahabad",
+    "timing": "12midnight – 3am, 11am – 11:45pm (Today)",
+    "cost_for_two": null,
+    "phone": "+919151154149",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 57,
+    "name": "Ambika Ki Rasoi",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Fast Food",
+      "Beverages"
+    ],
+    "address": "15/2, Shiv Nagar Colony, Loha Park, Near Police Chowki Gate 2, Allapur, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918299020769",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 58,
+    "name": "Universe Bakers And Cake",
+    "ratings": {},
+    "cuisines": [
+      "Bakery"
+    ],
+    "address": "315-B, Jeevandeep Pharmacy, Kamla Nagar, Myorabad, Katra, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919265591104",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 59,
+    "name": "Burger Bistro",
+    "ratings": {},
+    "cuisines": [
+      "Burger",
+      "Pizza",
+      "Fast Food"
+    ],
+    "address": "House 116/261, Bharatdwaj Puram, Near Pandey Classes, Tagore Town, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918268539846",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 60,
+    "name": "Sasta Family Cuisine",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Fast Food",
+      "Street Food"
+    ],
+    "address": "56/45, Malviya Nagar, Bharti Bhavan Road, Near Wais Furniture, Chowk, Allahabad",
+    "timing": "Sasta Family Cuisine\n/",
+    "cost_for_two": null,
+    "phone": "+917348765110",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 61,
+    "name": "Ande Ka Funda",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "Street Food"
+    ],
+    "address": "11, Nakash Kona, Shahganj, Nagar Nigam, Chowk, Allahabad",
+    "timing": "Opens at 8pm",
+    "cost_for_two": null,
+    "phone": "+917860358642",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 62,
+    "name": "Forex Haveli Restaurant",
+    "ratings": {},
+    "cuisines": [
+      "India Utara",
+      "Mughlai",
+      "Biryani",
+      "Desserts",
+      "Minuman"
+    ],
+    "address": "117, Dondipur Dayra Shah Ajmal, Prayagraj, Leader Road, Allahabad",
+    "timing": "Tutup dalam 1 jam 29 menit",
+    "cost_for_two": null,
+    "phone": "+918090991536",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 63,
+    "name": "Khana Khazana",
+    "ratings": {},
+    "cuisines": [
+      "Chinese",
+      "Street Food",
+      "Healthy Food"
+    ],
+    "address": "Bharti Bhavan Lane, Malviya Nagar, Prayagraj, Chowk, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917348144191",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 64,
+    "name": "Wow Sandwich",
+    "ratings": {},
+    "cuisines": [
+      "Sandwich",
+      "Fast Food"
+    ],
+    "address": "House 116/261, Bharatdwaj Puram, Near Pandey Classes, Tagore Town, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918268539846",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 65,
+    "name": "Al - Karim Restaurant",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Mughlai"
+    ],
+    "address": "802B/527, Mutthiganj Nagar, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": null,
+    "phone": "+919026169600",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 66,
+    "name": "Burger Lane",
+    "ratings": {},
+    "cuisines": [
+      "Burger",
+      "Wraps",
+      "Fast Food",
+      "Beverages"
+    ],
+    "address": "396/336, Colonel Ganj, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917891515252",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 67,
+    "name": "The Chinese Hotpot",
+    "ratings": {},
+    "cuisines": [
+      "Chinese",
+      "Biryani",
+      "North Indian",
+      "Rolls",
+      "Sichuan"
+    ],
+    "address": "802B/527, Bhag-1, Nagar Mutthiganj, Zone-07, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": null,
+    "phone": "+919026169600",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 68,
+    "name": "Indian Curry",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Biryani"
+    ],
+    "address": "802B/527, Mutthiganj, Bhag-1, Salikram Jaiswal Nagar, Zone-07, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": null,
+    "phone": "+918868021911",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 69,
+    "name": "Biryani Bite",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "Fast Food"
+    ],
+    "address": "231J/2, Ground Floor, Gangaganj, Sultanpur Bhawa, Kareli, Allahabad",
+    "timing": "12midnight – 5:45am, 6am – 12midnight (Today)",
+    "cost_for_two": null,
+    "phone": "+918957116746",
+    "dishes": [
+      {
+        "name": "Biryani",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Combos",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Starters",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Main Course",
+        "price": "read more",
+        "detail": ""
+      },
+      {
+        "name": "Drinks (Beverages)",
+        "price": "read more",
+        "detail": ""
+      }
+    ],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 70,
+    "name": "Thali Darbar",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Biryani",
+      "Chinese"
+    ],
+    "address": "802B/527, Salikram Jaiswal Nagar, Mutthiganj, Zone 7, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": null,
+    "phone": "+919277293719",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 71,
+    "name": "Krishna Maggi Point",
+    "ratings": {},
+    "cuisines": [
+      "Chinese",
+      "North Indian",
+      "Street Food"
+    ],
+    "address": "264/194 A, Attarsuiya, Meergunj, Allahabad",
+    "timing": "12:05am – 4am, 11am – 12midnight (Today)",
+    "cost_for_two": null,
+    "phone": "+919125212037",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 72,
+    "name": "The Food Ocean",
+    "ratings": {},
+    "cuisines": [
+      "Fast Food",
+      "Sandwich",
+      "Pizza",
+      "North Indian"
+    ],
+    "address": "142B, Chawkhandi, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": null,
+    "phone": "+919169359633",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 73,
+    "name": "Fresh Biryani",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "North Indian",
+      "Beverages"
+    ],
+    "address": "Berial Tiraha, Near Sanjar Palace, Kareli, Allahabad",
+    "timing": "12midnight – 5:45am, 6am – 12midnight (Today)",
+    "cost_for_two": null,
+    "phone": "+918957116746",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 74,
+    "name": "UBQ-Meals,Thalis & Bowls",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Kebab",
+      "BBQ",
+      "Biryani"
+    ],
+    "address": "5th Floor, P Square Mall, Mahatma Gandhi Marg, Civil Lines, Allahabad",
+    "timing": "Opens at 11am",
+    "cost_for_two": null,
+    "phone": "+919151154149",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 75,
+    "name": "Zaika Rasoi Ka",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Street Food"
+    ],
+    "address": "446, Bahadur Ganj, Prayagraj, Zone 07, Meergunj, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919918280231",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 76,
+    "name": "TeaMax Cafe",
+    "ratings": {},
+    "cuisines": [
+      "Street Food",
+      "Tea",
+      "Burger",
+      "Fast Food",
+      "Shake",
+      "Coffee",
+      "Beverages"
+    ],
+    "address": "269-B, Ground Floor, Near Tagore Public School, Kareli, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919580056683",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 77,
+    "name": "The Top Biryani",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "Desserts"
+    ],
+    "address": "A332/2, A-block, Kareli GTB Nagar, Kareli, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917236006724",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 78,
+    "name": "Momo Shomo",
+    "ratings": {},
+    "cuisines": [
+      "Momos",
+      "Tibetan",
+      "Asian",
+      "North Eastern",
+      "Street Food",
+      "Desserts",
+      "Beverages"
+    ],
+    "address": "House 1, PD Tandon Road, Civil Lines, Allahabad",
+    "timing": "12midnight – 4am, 12noon – 12midnight (Today)",
+    "cost_for_two": null,
+    "phone": "+919958718268",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 79,
+    "name": "The Medhus Cafe",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Chinese",
+      "Burger",
+      "Sandwich",
+      "Momos",
+      "Fast Food",
+      "Coffee",
+      "Beverages"
+    ],
+    "address": "Katehra Dariyabad, Near HP Petrol Pump, Baluaghat Road, Meerapur, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919369924674",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 80,
+    "name": "Top Biryani",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "Desserts"
+    ],
+    "address": "A-332/2, GTB Nagar, Civil Lines, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917236006724",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 81,
+    "name": "Prayag Pizza Hub",
+    "ratings": {},
+    "cuisines": [
+      "Pizza"
+    ],
+    "address": "593/4, Nai Basti Kydganj, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": null,
+    "phone": "+917619908891",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 82,
+    "name": "Paratha Street",
+    "ratings": {},
+    "cuisines": [
+      "North Indian"
+    ],
+    "address": "8B/16B, Jhulelal Nagar, West Khusro Bagh Road, Lukerganj, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917007656909",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 83,
+    "name": "Arbour 24",
+    "ratings": {},
+    "cuisines": [
+      "Burger",
+      "Fast Food",
+      "Italian",
+      "Pasta",
+      "Pizza"
+    ],
+    "address": "9/6, Ground Floor, Opposite Ahuja Bhawan, Lukerganj, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918318768839",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 84,
+    "name": "Ayushman Restaurant",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Biryani",
+      "Fast Food",
+      "Pasta",
+      "Chinese",
+      "Street Food",
+      "Wraps",
+      "Beverages"
+    ],
+    "address": "260, Ground Floor, Basant Vihar Colony, Kohna, Jhunsi, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919621042506",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 85,
+    "name": "Biryani Mahal",
+    "ratings": {},
+    "cuisines": [
+      "Biryani"
+    ],
+    "address": "A-332/2, A Block, GTB Nagar, Zone 3, Chowk, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917236006724",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 86,
+    "name": "Fiza Fast Food",
+    "ratings": {},
+    "cuisines": [
+      "Fast Food",
+      "Chinese",
+      "Rolls",
+      "Burger"
+    ],
+    "address": "49B/18, Mahewa Patti Purab Uparhar, Kareli, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917786839927",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 87,
+    "name": "Punjabi Bites",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Sandwich",
+      "South Indian",
+      "Street Food",
+      "Fast Food",
+      "Pasta"
+    ],
+    "address": "235N/3A, Ground Floor, Karailabagh, Kareli, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919651114115",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 88,
+    "name": "The Royal Biryani",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "African",
+      "Desserts"
+    ],
+    "address": "A-332/2, A Block, GTB Nagar, Zone 3, Kareli, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917236006724",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 89,
+    "name": "Biryani Delight",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "Desserts"
+    ],
+    "address": "A-332/2, A Block, GTB Nagar, Naini, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917236006724",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 90,
+    "name": "Kolkata Royal Biryani & Rolls",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "Rolls",
+      "Bengali"
+    ],
+    "address": "P-146, Ground Floor, Gaus Nagar, Zone 3, Near Bismillah Chauraha, Kareli, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917084893903",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 91,
+    "name": "Kolkata Wrap & Rolls",
+    "ratings": {},
+    "cuisines": [
+      "Wraps",
+      "Rolls"
+    ],
+    "address": "P-146, Gaus Nagar, Near Bismillah Chauraha, Kareli, Allahabad",
+    "timing": "12midnight – 11:30pm (Today)",
+    "cost_for_two": null,
+    "phone": "+918777548011",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 92,
+    "name": "Rockstar Cafe",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Beverages",
+      "Burger",
+      "Fast Food",
+      "Italian"
+    ],
+    "address": "208, Near Lalita Devi Mandir, Kareli, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919169007188",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 93,
+    "name": "Amber Family Restaurant",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Mughlai"
+    ],
+    "address": "207R/16/1/70, Minhajpur, Prayagraj, Near Prayagraj Junction Gate 4, Leader Road, Allahabad",
+    "timing": "Amber Family Restaurant\n/",
+    "cost_for_two": null,
+    "phone": "+918353901114",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 94,
+    "name": "Frynite",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "Roast Chicken"
+    ],
+    "address": "A-66, GTB Nagar, Kareli, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+916306496309",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 95,
+    "name": "Aizam Biryani Hub",
+    "ratings": {},
+    "cuisines": [
+      "Biryani"
+    ],
+    "address": "117, Dondipur Prayagraj, Dayra Shah Ajmal, Leader Road, Allahabad",
+    "timing": "Aizam Biryani Hub\n/",
+    "cost_for_two": null,
+    "phone": "+918090991536",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 96,
+    "name": "Biryani Bowl",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "Desserts"
+    ],
+    "address": "A332/2, A-Block, GTB Nagar, Zone 3, Dhoomanganj, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917236006724",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 97,
+    "name": "Night Rider Biryani Point",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "North Indian",
+      "Street Food",
+      "Rolls"
+    ],
+    "address": "264/194 A, Kareli, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919125212037",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 98,
+    "name": "Prayagraj City Cake Bakery",
+    "ratings": {},
+    "cuisines": [
+      "Bakery"
+    ],
+    "address": "Kamla Nagar, Myorabad, Near Jeevandeep Pharmacy, Katra, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919621667203",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 99,
+    "name": "Grand Mother Kitchen - Reloaded",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "address": "8B/16B, Jhulelal Nagar, Zone 2, West Khushuro Bagh Road, Lukerganj, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917007656909",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 100,
+    "name": "Allahabadi Chatore",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Momos",
+      "Street Food"
+    ],
+    "address": "319/8, 1st Floor, Bahadurganj, GT Road, Opposite Red Cross Society, Meergunj, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+918957952068",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  }
+]

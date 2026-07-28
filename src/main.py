@@ -54,7 +54,7 @@ scroll_full_page(driver)
 # find all cards of restaurants 
 
 cards = driver.find_elements(
-    By.XPATH, "//a[contains(@class,'sc-hPeUyl') and contains(@class,'cKQNlu')]"
+    By.XPATH, "//a[.//h4]"
 )
 
 print(f"Found {len(cards)} restaurant cards.")
@@ -69,9 +69,24 @@ for idx, card in enumerate(cards, start=1):
     time.sleep(0.1)
 
     name = safe_text(card, ".//h4")
-    cuisine = safe_text(card, ".//p[contains(@class,'fSxdnq')]")
-    price = safe_text(card, ".//p[contains(@class,'KXcjT')]")
-    location = safe_text(card, ".//div[contains(@class,'min-basic-info-left')]/p")
+    cuisine = ""
+    price = ""
+    location = ""
+    
+    try:
+        p_tags = card.find_elements(By.TAG_NAME, "p")
+        for p in p_tags:
+            text = p.text.strip()
+            if not text:
+                continue
+            if "₹" in text:
+                price = text
+            elif "min" in text.lower():
+                pass
+            elif not cuisine:
+                cuisine = text
+    except Exception:
+        pass
     page_link = get_links(card)
 
     restaurants.append({

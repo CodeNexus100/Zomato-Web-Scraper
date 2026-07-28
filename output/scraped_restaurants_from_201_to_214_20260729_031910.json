@@ -1,0 +1,246 @@
+[
+  {
+    "id": 201,
+    "name": "WAB Cafe by Wat-a-Burger!",
+    "ratings": {},
+    "cuisines": [
+      "Chinese",
+      "Italian",
+      "Burger",
+      "Fast Food",
+      "Street Food",
+      "Tea",
+      "Beverages"
+    ],
+    "address": "918, Unit 1, Dariyabad, Zone 05, Near Dr Pandey Chauraha, Meerapur, Allahabad",
+    "timing": "Opens at 11am",
+    "cost_for_two": null,
+    "phone": "+917985719410",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 202,
+    "name": "Gopal Sweet House",
+    "ratings": {},
+    "cuisines": [
+      "Mithai",
+      "Street Food"
+    ],
+    "address": "882, Old Katra, Katra, Allahabad",
+    "timing": "Opens at 10am",
+    "cost_for_two": null,
+    "phone": "+918299154440",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 203,
+    "name": "Lapizzario Pizza Cafe & Restaurant",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Fast Food",
+      "Beverages"
+    ],
+    "address": "B-1666, G T B Nagar, Kareli, Allahabad",
+    "timing": "Opens at 11:30am",
+    "cost_for_two": null,
+    "phone": "+917668628157",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 204,
+    "name": "New Arabian's Fried Chicken",
+    "ratings": {},
+    "cuisines": [
+      "Fast Food"
+    ],
+    "address": "C-307/23, GTB Nagar, Kareli, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919956130930",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 205,
+    "name": "Night King",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Fast Food",
+      "Street Food"
+    ],
+    "address": "228/184B, Nakas Konah, Chowk, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917355059034",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 206,
+    "name": "Hobiza Tawa Chicken",
+    "ratings": {},
+    "cuisines": [
+      "Mughlai",
+      "North Indian"
+    ],
+    "address": "E 132/1, GTB Nagar, Kareli, Allahabad",
+    "timing": "Opens at 1pm",
+    "cost_for_two": null,
+    "phone": "+918318274748",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 207,
+    "name": "Swad Samridhi",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Bihari"
+    ],
+    "address": "First Floor, Agriculture Gate 3, Chakdondi, Indalpur Road, Near Redz Saloon, Meerapur, Allahabad",
+    "timing": "Swad Samridhi\n/",
+    "cost_for_two": null,
+    "phone": "+919661317038",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 208,
+    "name": "The Panda Bites - TPB",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Burger",
+      "Sandwich"
+    ],
+    "address": "45/45, Zone 4, Near Sadiyapur Gurudwara, Meerapur, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917505671345",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 209,
+    "name": "Delights by Inox – Pizza, Burger, Popcorn & Combos",
+    "ratings": {},
+    "cuisines": [
+      "Burger",
+      "Fast Food",
+      "Pizza",
+      "Sandwich",
+      "Hot dogs",
+      "Street Food"
+    ],
+    "address": "3rd Floor, Vinayak City Center Mall, Sardar Patel Marg, Civil Lines, Allahabad",
+    "timing": "Delights by Inox – Pizza, Burger, Popcorn & Combos\n/",
+    "cost_for_two": null,
+    "phone": "+917042229925",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 210,
+    "name": "Ballimaran Nahari Restaurant",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Biryani",
+      "Mughlai"
+    ],
+    "address": "31/7, Atala, Near Majidia Islamia Inter College, Kareli, Allahabad",
+    "timing": "Opens at 1pm",
+    "cost_for_two": null,
+    "phone": "+919554044441",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 211,
+    "name": "Pizza Mania",
+    "ratings": {},
+    "cuisines": [
+      "Burger",
+      "Fast Food",
+      "Pasta",
+      "Pizza",
+      "Italian",
+      "Wraps"
+    ],
+    "address": "656/745, Malviya Nagar, Kareli, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+917355106270",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 212,
+    "name": "Maa Ganga Rasoi",
+    "ratings": {},
+    "cuisines": [
+      "Street Food",
+      "Healthy Food",
+      "North Indian"
+    ],
+    "address": "37/23, Allengaj, Zone 10, Tagore Town, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919305791810",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 213,
+    "name": "SHIV TULSI BHOJNALAY",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Fast Food",
+      "Street Food"
+    ],
+    "address": "252, Malviya Nagar, Meergunj, Allahabad",
+    "timing": null,
+    "cost_for_two": null,
+    "phone": "+919005223853",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 214,
+    "name": "Oven's Delight",
+    "ratings": {},
+    "cuisines": [
+      "Bakery",
+      "Fast Food",
+      "Pizza"
+    ],
+    "address": "605/381, Raja Bara Ka Hata, Mutthiganj, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": null,
+    "phone": "+917499892805",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  }
+]
