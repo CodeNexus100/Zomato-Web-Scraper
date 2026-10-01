@@ -1,0 +1,1891 @@
+[
+  {
+    "id": 1,
+    "name": "The Hazelnut Factory",
+    "ratings": {},
+    "cuisines": [
+      "Healthy Food",
+      "Waffle",
+      "Desserts"
+    ],
+    "address": "B-1, 1st Ground Floor, Lohia Marg, Civil Lines, Allahabad",
+    "timing": "9am – 11:30pm (Today)",
+    "cost_for_two": "₹1,400 for two",
+    "phone": "+917348300300",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 2,
+    "name": "FIKA - Plates, Coffee, Culture",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Coffee",
+      "Italian",
+      "North Indian",
+      "Continental",
+      "Japanese",
+      "Chinese",
+      "Beverages"
+    ],
+    "address": "218E/71, Ground Floor, P Sqaure Mall, MG Marg, Civil Lines, Allahabad",
+    "timing": "1pm – 11:30pm (Today)",
+    "cost_for_two": "₹1,200 for two",
+    "phone": "+919918901681",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 3,
+    "name": null,
+    "ratings": {},
+    "cuisines": [],
+    "address": null,
+    "timing": null,
+    "cost_for_two": null,
+    "phone": null,
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 4,
+    "name": null,
+    "ratings": {},
+    "cuisines": [],
+    "address": null,
+    "timing": null,
+    "cost_for_two": null,
+    "phone": null,
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 5,
+    "name": "Barbeque Nation",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "BBQ",
+      "Kebab",
+      "Biryani"
+    ],
+    "address": "5th Floor, P Square Mall, MG Road, George Town, Allahabad",
+    "timing": "11am – 11:30pm, 12midnight – 1am (Today)",
+    "cost_for_two": "₹1,600 for two",
+    "phone": "+918064058047",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 6,
+    "name": "El Chico",
+    "ratings": {},
+    "cuisines": [
+      "Continental",
+      "North Indian",
+      "Chinese",
+      "Italian"
+    ],
+    "address": "142A, 32, Mahatma Gandhi, Civil Lines, Allahabad",
+    "timing": "12noon – 10:30pm (Today)",
+    "cost_for_two": "₹1,400 for two",
+    "phone": "+917705023555",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 7,
+    "name": "EDEN By Connoisseur",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Continental",
+      "Asian",
+      "Shake"
+    ],
+    "address": "Hotel Samrat, Civil Lines, Allahabad",
+    "timing": "12noon – 11pm (Today)",
+    "cost_for_two": "₹1,000 for two",
+    "phone": "+919517388886",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 8,
+    "name": "Alimento",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Cafe",
+      "Italian",
+      "Asian",
+      "Chinese",
+      "Pizza",
+      "Continental",
+      "Desserts"
+    ],
+    "address": "Auckland Road, Near Football Ground Sadar Bazar, Ashok Nagar, Allahabad",
+    "timing": "1pm – 11pm (Today)",
+    "cost_for_two": "₹1,200 for two",
+    "phone": "+919580462170",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 9,
+    "name": "Sagar Ratna",
+    "ratings": {},
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Fast Food",
+      "Pasta"
+    ],
+    "address": "3/3, Hashimpur Road, Balson Crossing, Near Anand Bhawan, Tagore Town, Allahabad",
+    "timing": "10:30am – 10:30pm (Today)",
+    "cost_for_two": "₹250 for two",
+    "phone": "+917668880022",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 10,
+    "name": "Trestra - Multicuisine Restaurant By Radisson Hotel",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "South Indian",
+      "Pizza",
+      "Mughlai",
+      "Continental",
+      "Pasta",
+      "BBQ"
+    ],
+    "address": "Plot 24-19D, Sarojini Naidu Marg, Ashok Nagar, Rajapur, Allahabad",
+    "timing": "7am – 10:30pm (Today)",
+    "cost_for_two": "₹1,000 for two",
+    "phone": "+919236361631",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 11,
+    "name": "Rominus Pizza And Burger",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Fast Food",
+      "Pasta",
+      "Burger",
+      "Wraps",
+      "Beverages"
+    ],
+    "address": "396/336, Ground Floor, Colonel Ganj, Allahabad",
+    "timing": "12midnight – 4am, 10am – 12midnight (Today)",
+    "cost_for_two": "₹400 for two",
+    "phone": "+917891515252",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 12,
+    "name": "Cafe Meraki",
+    "ratings": {},
+    "cuisines": [
+      "Cafe",
+      "Coffee",
+      "Italian",
+      "Mexican",
+      "Fast Food",
+      "Desserts",
+      "Shake",
+      "Beverages"
+    ],
+    "address": "18C/28A, Sarojini Naidu Marg, Civil Lines, Allahabad",
+    "timing": "12noon – 11pm (Today)",
+    "cost_for_two": "₹1,100 for two",
+    "phone": "+918860796234",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 13,
+    "name": "Shri Sainik Sweets Pvt. Ltd.",
+    "ratings": {},
+    "cuisines": [
+      "Mithai",
+      "Desserts"
+    ],
+    "address": "Muir Road, Ashok Nagar, Allahabad",
+    "timing": "8:15am – 8pm (Today)",
+    "cost_for_two": "₹500 for two",
+    "phone": "+918400124530",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 14,
+    "name": "Emerald By Rudraksh",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Biryani",
+      "Asian",
+      "Chinese",
+      "Continental",
+      "Italian",
+      "Desserts"
+    ],
+    "address": "29/18, Officers Line, Ward V, Zone 15, Hastings Road, Ashok Nagar, Allahabad",
+    "timing": "8:30am – 12noon, 12:30pm – 11pm (Today)",
+    "cost_for_two": "₹2,350 for two",
+    "phone": "+918187917711",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 15,
+    "name": "The Yellow Chilli",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Seafood",
+      "Mughlai",
+      "Biryani",
+      "Desserts"
+    ],
+    "address": "Shop 2 & 3, 5th Floor, WP Arena Mall, Hot Stuff Chauraha, Zone 12, Prayagraj, Civil Lines, Allahabad",
+    "timing": "12noon – 10:45pm (Today)",
+    "cost_for_two": "₹1,650 for two",
+    "phone": "+917880601524",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 16,
+    "name": "Cafyara",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "Chinese",
+      "Momos",
+      "North Indian",
+      "Street Food",
+      "Italian",
+      "Pizza",
+      "South Indian"
+    ],
+    "address": "Zone-12, Prayagraj, Opposite Vinayaka Vrindavan Tower, Civil Lines, Allahabad",
+    "timing": "11:30am – 12midnight (Today)",
+    "cost_for_two": "₹600 for two",
+    "phone": "+918090105119",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 17,
+    "name": "McDonald's",
+    "ratings": {},
+    "cuisines": [
+      "Burger",
+      "Fast Food",
+      "Beverages",
+      "Coffee",
+      "Cafe"
+    ],
+    "address": "34-B, Zone 3, M.G. Marg, Civil Lines, Allahabad",
+    "timing": "12midnight – 2:45am, 8am – 12midnight (Today)",
+    "cost_for_two": "₹500 for two",
+    "phone": "+919919990587",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 18,
+    "name": "Pind Balluchi",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Mughlai",
+      "Chinese",
+      "South Indian",
+      "Sichuan",
+      "Desserts",
+      "Fast Food",
+      "Beverages"
+    ],
+    "address": "48/8, Stratchy Road, Civil Lines, Allahabad",
+    "timing": "12noon – 11pm (Today)",
+    "cost_for_two": "₹1,000 for two",
+    "phone": "+917522001510",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 19,
+    "name": "The Roof Park Cafe & Restro",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Asian",
+      "Fast Food"
+    ],
+    "address": "35/27/3C, 2nd Floor, Tashkand Marg, Civil Lines, Allahabad",
+    "timing": "11:30am – 11:30pm (Today)",
+    "cost_for_two": "₹1,100 for two",
+    "phone": "+918419088430",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 20,
+    "name": "Biryani Mohabbat Wala",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "North Indian"
+    ],
+    "address": "22C/32, Zone-12, Cooper Road, Civil Lines, Allahabad",
+    "timing": "12noon – 11pm (Today)",
+    "cost_for_two": "₹400 for two",
+    "phone": "+917905999606",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 21,
+    "name": "Makkhan's",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Chinese",
+      "Fast Food",
+      "Desserts",
+      "Beverages"
+    ],
+    "address": "8, 9, Tulsiani Grace, Edmonston Road, Civil Lines, Allahabad",
+    "timing": "10:30am – 11pm (Today)",
+    "cost_for_two": "₹750 for two",
+    "phone": "+917081672222",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 22,
+    "name": "Starbucks Coffee",
+    "ratings": {},
+    "cuisines": [
+      "Coffee"
+    ],
+    "address": "Unit 6, Ground Floor, WP Arena, Hotstuff Crossing, Elgin Road, Civil Lines, Allahabad",
+    "timing": "10am – 10pm (Today)",
+    "cost_for_two": "₹900 for two",
+    "phone": "+917718845497",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 23,
+    "name": "Amritsari Haveli",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Desserts",
+      "Beverages"
+    ],
+    "address": "17C/0-1, Stretchy Road, Near Vishal Mega Mart, Civil Lines, Allahabad",
+    "timing": "11am – 11:30pm (Today)",
+    "cost_for_two": "₹700 for two",
+    "phone": "+919119991295",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 24,
+    "name": "Curry Leaf",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Fast Food",
+      "Desserts",
+      "Street Food",
+      "Ice Cream",
+      "Beverages"
+    ],
+    "address": "15H/13, Tashkand Marg, Civil Lines, Allahabad",
+    "timing": "8am – 11pm (Today)",
+    "cost_for_two": "₹500 for two",
+    "phone": "+917311139039",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 25,
+    "name": "Rishiraj The Food Plaza",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Fast Food",
+      "Beverages"
+    ],
+    "address": "41D/8, Prayag Station, Moti Lal Nehru Road, Teliarganj, Allahabad",
+    "timing": "12midnight – 6:45am, 7am – 11:45pm (Today)",
+    "cost_for_two": "₹300 for two",
+    "phone": "+917007479170",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 26,
+    "name": "Haldiram's",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Continental"
+    ],
+    "address": "05, Shop 05, 1st Ground Floor, WP Arena Hostuff Chauraha, Lal Bahadur Shastri Marg, Civil Lines, Allahabad",
+    "timing": "Haldiram's",
+    "cost_for_two": "₹600 for two",
+    "phone": "+919217315324",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 27,
+    "name": "House Of Eden",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Mughlai",
+      "Kebab",
+      "Coffee",
+      "Beverages"
+    ],
+    "address": "29 +, - A/29, Tashkand Marg, Civil Lines, Allahabad",
+    "timing": "11am – 11pm (Today)",
+    "cost_for_two": "₹1,000 for two",
+    "phone": "+916393099592",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 28,
+    "name": "Pizza Hut",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Fast Food",
+      "Desserts",
+      "Beverages"
+    ],
+    "address": "Shop 31/31, SP Marg, Civil Lines, Allahabad",
+    "timing": "11am – 11pm (Today)",
+    "cost_for_two": "₹300 for two",
+    "phone": "+918929021995",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 29,
+    "name": "Lily",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Biryani",
+      "Desserts"
+    ],
+    "address": "23/6A, MG Marg, Civil Lines, Allahabad",
+    "timing": "1:45pm – 11pm (Today)",
+    "cost_for_two": "₹1,400 for two",
+    "phone": "+919696048082",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 30,
+    "name": "Baati Chokha Family Restaurant",
+    "ratings": {},
+    "cuisines": [
+      "Rajasthani",
+      "North Indian",
+      "Street Food",
+      "Desserts",
+      "Beverages"
+    ],
+    "address": "28 B, MG Marg, Near Allen Solly, Civil Lines, Allahabad",
+    "timing": "Baati Chokha Family Restaurant",
+    "cost_for_two": "₹400 for two",
+    "phone": "+919956161195",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 31,
+    "name": "Burger King",
+    "ratings": {},
+    "cuisines": [
+      "Burger",
+      "Fast Food",
+      "Beverages"
+    ],
+    "address": "Shop-20-22, Ground Floor, Vinayak City Centre Mall, Old Katra, Civil Lines, Allahabad",
+    "timing": "12midnight – 2am, 10am – 12midnight (Today)",
+    "cost_for_two": "₹300 for two",
+    "phone": "+917738004674",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 32,
+    "name": "Biryani Bees",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "Kebab",
+      "Rolls",
+      "North Indian"
+    ],
+    "address": "41/2, Lal Bahadur Shastri Marg, Civil Lines, Allahabad",
+    "timing": "11:30am – 10:45pm (Today)",
+    "cost_for_two": "₹400 for two",
+    "phone": "+919519703030",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 33,
+    "name": "The Milkshake Factory",
+    "ratings": {},
+    "cuisines": [
+      "Beverages",
+      "Fast Food",
+      "Burger",
+      "Sandwich"
+    ],
+    "address": "25/51, M.G. Marg, Area-1, Civil Lines, Allahabad",
+    "timing": "12midnight – 4am, 10:30am – 11:45pm (Today)",
+    "cost_for_two": "₹300 for two",
+    "phone": "+917860834569",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 34,
+    "name": "Aryan Family's Delight",
+    "ratings": {},
+    "cuisines": [
+      "Beverages",
+      "Fast Food",
+      "South Indian",
+      "North Indian",
+      "Italian",
+      "Burger",
+      "Pizza",
+      "Chinese"
+    ],
+    "address": "Shop 23, 24 & 25, 48/24, S.P. Marg, Ground Floor, VCC Mall, Zone-12, Civil Lines, Allahabad",
+    "timing": "Aryan Family's Delight",
+    "cost_for_two": "₹500 for two",
+    "phone": "+915322261401",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 35,
+    "name": "Jevnaar",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Chinese"
+    ],
+    "address": "6/4, Ground Floor, Lal Bahadur Shastri Marg, Zone 12, Civil Lines, Allahabad",
+    "timing": "12noon – 11pm (Today)",
+    "cost_for_two": "₹1,200 for two",
+    "phone": "+919120282283",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 36,
+    "name": "Blinkk Restaurant By Hotel Divine Stay",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Chinese",
+      "Pizza",
+      "Fast Food",
+      "Desserts",
+      "Shake",
+      "Beverages"
+    ],
+    "address": "62A/1/50/2A, Zone 12, Civil Lines, Allahabad",
+    "timing": "11am – 11pm (Today)",
+    "cost_for_two": "₹1,400 for two",
+    "phone": "+917905319464",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 37,
+    "name": "Subway",
+    "ratings": {},
+    "cuisines": [
+      "Healthy Food",
+      "Sandwich",
+      "Fast Food",
+      "Wraps",
+      "Salad",
+      "Beverages"
+    ],
+    "address": "33/5A, Tashkand Marg, Civil Lines, Allahabad",
+    "timing": "12midnight – 1am, 10am – 12midnight (Today)",
+    "cost_for_two": "₹400 for two",
+    "phone": "+919511118094",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 38,
+    "name": "My Table- Bar & Restaurant",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "South Indian"
+    ],
+    "address": "33/25-1, LGF, Tulsiani Plaza, Grace Edmonston Road, Civil Lines, Allahabad",
+    "timing": "1:30pm – 11:45pm (Today)",
+    "cost_for_two": "₹1,400 for two",
+    "phone": "+919278315900",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 39,
+    "name": "Chandralok Kachouri",
+    "ratings": {},
+    "cuisines": [
+      "South Indian",
+      "Chinese",
+      "Fast Food",
+      "Beverages",
+      "Sichuan"
+    ],
+    "address": "34A/41A, Crosswaett Road, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": "₹300 for two",
+    "phone": "+919721240961",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 40,
+    "name": "La Pino'z Pizza",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Pasta",
+      "Italian",
+      "Fast Food"
+    ],
+    "address": "52/18 A, Harwara, Dhoomanganj, Allahabad",
+    "timing": "11am – 11pm (Today)",
+    "cost_for_two": "₹700 for two",
+    "phone": "+917897232549",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 41,
+    "name": "Rang Mahal - Hotel Ajay International",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Mughlai",
+      "Kebab",
+      "Oriental",
+      "Desserts",
+      "Beverages",
+      "Sichuan"
+    ],
+    "address": "A/2/D, Lal Bahadur Shastri Marg, Civil Lines, Allahabad",
+    "timing": "7am – 11pm (Today)",
+    "cost_for_two": "₹1,000 for two",
+    "phone": "+919319770810",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 42,
+    "name": "Cloudy Food Restaurant & Cafe",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Rolls",
+      "Sandwich",
+      "Pizza",
+      "South Indian",
+      "Burger",
+      "Healthy Food"
+    ],
+    "address": "Devprayagam Awas Yojna, Jhalwa, Allahabad",
+    "timing": "12midnight – 2am, 12:15pm – 11pm (Today)",
+    "cost_for_two": "₹350 for two",
+    "phone": "+919793222121",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 43,
+    "name": "The Khansama",
+    "ratings": {},
+    "cuisines": [
+      "Biryani",
+      "Mughlai",
+      "Kebab",
+      "North Indian"
+    ],
+    "address": "213/63, M.G. Marg, Civil Lines, Allahabad",
+    "timing": "The Khansama",
+    "cost_for_two": "₹250 for two",
+    "phone": "+919956299480",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 44,
+    "name": "Shubhi's Bake A Wish",
+    "ratings": {},
+    "cuisines": [
+      "Bakery",
+      "Desserts",
+      "Fast Food"
+    ],
+    "address": "20/12 A, Pannalal Road, Near Hari Netralay, George Town, Allahabad",
+    "timing": "10am – 11pm (Today)",
+    "cost_for_two": "₹200 for two",
+    "phone": "+919198453309",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 45,
+    "name": "Mr. Dewsis",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Fast Food",
+      "Beverages"
+    ],
+    "address": "2, MG Marg, Opposite Hanuman Mandir, Civil Lines, Allahabad",
+    "timing": "8am – 11pm (Today)",
+    "cost_for_two": "₹500 for two",
+    "phone": "+915322423333",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 46,
+    "name": "Mutton Mohabbat Wala Family Restaurant",
+    "ratings": {},
+    "cuisines": [
+      "North Indian"
+    ],
+    "address": "Myorabad, Near St. Peter's Church, Rajapur, Allahabad",
+    "timing": "Mutton Mohabbat Wala Family Restaurant",
+    "cost_for_two": "₹450 for two",
+    "phone": "+919219200501",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 47,
+    "name": "Hot Pizza Ace",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Fast Food",
+      "Beverages"
+    ],
+    "address": "90-B/5, Allenganj, Tagore Town, Allahabad",
+    "timing": "11am – 11pm (Today)",
+    "cost_for_two": "₹300 for two",
+    "phone": "+917311177715",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 48,
+    "name": "Domino's Pizza",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Italian",
+      "Pasta",
+      "Fast Food",
+      "Desserts"
+    ],
+    "address": "Upper Ground Floor, Plot 1, 6A, 1A, Mayo Hall Chauraha, Near Boys High School, Civil Lines, Allahabad",
+    "timing": "11am – 3am (Today)",
+    "cost_for_two": "₹400 for two",
+    "phone": "+915322990017",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 49,
+    "name": "Sardaar Ji Dhaba",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Mughlai",
+      "Biryani",
+      "Chinese",
+      "Desserts",
+      "Grilled Chicken",
+      "BBQ",
+      "Beverages"
+    ],
+    "address": "138C- MG Marg, Prayagra, Civil Lines, Allahabad",
+    "timing": "11am – 11pm (Today)",
+    "cost_for_two": "₹600 for two",
+    "phone": "+918882897431",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 50,
+    "name": "Theobroma",
+    "ratings": {},
+    "cuisines": [
+      "Bakery"
+    ],
+    "address": "17/23, Shop 9, Lower Ground Floor, Taskand Marg, Civil Lines, Allahabad",
+    "timing": "8am – 12midnight (Today)",
+    "cost_for_two": "₹500 for two",
+    "phone": "+918182881881",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 51,
+    "name": "Shri Baba Snacks & Restaurant by Sainik Sweets",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Chinese",
+      "Pizza",
+      "Fast Food",
+      "Kebab",
+      "Shake",
+      "Beverages"
+    ],
+    "address": "29B/4A, Hasting Road, Ashok Nagar, Allahabad",
+    "timing": "7:45am – 10:30pm (Today)",
+    "cost_for_two": "₹400 for two",
+    "phone": "+918127545530",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 52,
+    "name": "KFC",
+    "ratings": {},
+    "cuisines": [
+      "Burger",
+      "Fast Food",
+      "Rolls"
+    ],
+    "address": "229/71, Ground Floor, P Square Mall, MG Marg, Civil Lines, Allahabad",
+    "timing": "11am – 1am (Today)",
+    "cost_for_two": "₹450 for two",
+    "phone": "+915322990776",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 53,
+    "name": "Veggie Veg: By El Chico",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Fast Food",
+      "Beverages",
+      "South Indian",
+      "Pizza",
+      "Oriental"
+    ],
+    "address": "142/32B, MG Marg, Civil Lines, Allahabad",
+    "timing": "11am – 10:45pm (Today)",
+    "cost_for_two": "₹500 for two",
+    "phone": "+919918638222",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 54,
+    "name": "Capsicum",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Sandwich",
+      "Fast Food",
+      "Street Food",
+      "Ice Cream"
+    ],
+    "address": "17A/1, Mahewa Purab Patti Naini, Karchhana Tahsil, Naini, Allahabad",
+    "timing": "11am – 11pm (Today)",
+    "cost_for_two": "₹600 for two",
+    "phone": "+919369348657",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 55,
+    "name": "The Oval - Hotel Milan Palace",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Mughlai",
+      "Chinese",
+      "Pizza",
+      "Desserts"
+    ],
+    "address": "4/2, Govind Tower, Strach Road, Civil Lines, Allahabad",
+    "timing": "9am – 8pm (Today)",
+    "cost_for_two": "₹1,400 for two",
+    "phone": "+915322421505",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 56,
+    "name": "The Baking Co: By El Chico Since 1964",
+    "ratings": {},
+    "cuisines": [
+      "Bakery",
+      "Mithai",
+      "Desserts",
+      "Beverages",
+      "Sandwich",
+      "Street Food"
+    ],
+    "address": "142/32B, M. G. Marg, Civil Lines, Allahabad",
+    "timing": "9am – 11pm (Today)",
+    "cost_for_two": "₹300 for two",
+    "phone": "+919415128975",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 57,
+    "name": "R P Restaurant",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Street Food",
+      "Fast Food"
+    ],
+    "address": "By Pass, Phaphamau, Teliarganj, Allahabad",
+    "timing": "11am – 11pm (Today)",
+    "cost_for_two": "₹650 for two",
+    "phone": "+919005704040",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 58,
+    "name": "Tulsi Sweets",
+    "ratings": {},
+    "cuisines": [
+      "Mithai",
+      "North Indian",
+      "South Indian",
+      "Chinese",
+      "Fast Food",
+      "Street Food",
+      "Desserts",
+      "Beverages"
+    ],
+    "address": "S-1, Saidham, Civil Lines, Allahabad",
+    "timing": "10am – 10:45pm (Today)",
+    "cost_for_two": "₹350 for two",
+    "phone": "+919454624762",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 59,
+    "name": "Old School Cafe",
+    "ratings": {},
+    "cuisines": [
+      "Continental",
+      "North Indian",
+      "Chinese",
+      "Fast Food",
+      "Beverages",
+      "Desserts"
+    ],
+    "address": "9-10, Second Floor, Tulsiani Grace, Civil Lines, Allahabad",
+    "timing": "12noon – 10:30pm (Today)",
+    "cost_for_two": "₹1,000 for two",
+    "phone": "+919335151240",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 60,
+    "name": "Coffea",
+    "ratings": {},
+    "cuisines": [
+      "Cafe",
+      "Coffee",
+      "North Indian",
+      "Pizza",
+      "Pasta",
+      "Desserts",
+      "Tea",
+      "Beverages"
+    ],
+    "address": "9/4, Mahewa Patti Uprahar, Zone-14, Chak Bhatahi, Naini, Allahabad",
+    "timing": "10am – 10:30pm (Today)",
+    "cost_for_two": "₹900 for two",
+    "phone": "+919792947907",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 61,
+    "name": "Makkhan's Restaurant",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Chinese",
+      "Fast Food",
+      "Beverages"
+    ],
+    "address": "39/41, G T Road, Meera Patti, Transport Nagar, Dhoomanganj, Allahabad",
+    "timing": "10am – 11pm (Today)",
+    "cost_for_two": "₹500 for two",
+    "phone": "+917080115400",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 62,
+    "name": "Hotel Ravisha Continental",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Continental",
+      "Chinese",
+      "Fast Food",
+      "Desserts"
+    ],
+    "address": "57 A, Purshottamdas Tandon Marg, Civil Lines, Allahabad",
+    "timing": "11am – 11pm (Today)",
+    "cost_for_two": "₹700 for two",
+    "phone": "+917388200886",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 63,
+    "name": "The Food Bazaar",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Biryani",
+      "Chinese",
+      "Pizza",
+      "Fast Food",
+      "Mithai",
+      "Desserts"
+    ],
+    "address": "House G2, Ground Floor, Shantipuram, Gohri Road, Teliarganj, Allahabad",
+    "timing": "11am – 11pm (Today)",
+    "cost_for_two": "₹1,100 for two",
+    "phone": "+919838967499",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 64,
+    "name": "La Papa's Pizza",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "address": "B-1688, GTB Nagar, 60 Feet Road, Near Green Market, Kareli, Allahabad",
+    "timing": "2pm – 11:30pm (Today)",
+    "cost_for_two": "₹400 for two",
+    "phone": "+917016807456",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 65,
+    "name": "Maharani Zaika",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "South Indian",
+      "Pizza",
+      "Burger",
+      "Fast Food",
+      "Beverages"
+    ],
+    "address": "257A/12, Near Medical Chauraha, MG Marg, George Town, Allahabad",
+    "timing": "11am – 11pm (Today)",
+    "cost_for_two": "₹500 for two",
+    "phone": "+917080811111",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 66,
+    "name": "The Belgian Waffle Co.",
+    "ratings": {},
+    "cuisines": [
+      "Waffle",
+      "Pancake",
+      "Desserts",
+      "Beverages",
+      "Ice Cream"
+    ],
+    "address": "27 A/17/7, Lal Bahadur Shashtrimarg, Prayagraj, Civil Lines, Allahabad",
+    "timing": "10:30am – 12midnight (Today)",
+    "cost_for_two": "₹300 for two",
+    "phone": "+918542080098",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 67,
+    "name": "Kamdhenu Sweets",
+    "ratings": {},
+    "cuisines": [
+      "Mithai",
+      "Bakery",
+      "Desserts",
+      "Ice Cream",
+      "Street Food",
+      "Fast Food"
+    ],
+    "address": "0/1, 0/2, 0/3, Upkhand, Civil Lines, Allahabad",
+    "timing": "Kamdhenu Sweets",
+    "cost_for_two": "₹350 for two",
+    "phone": "+917080102771",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 68,
+    "name": "Moti Mahal Delux",
+    "ratings": {},
+    "cuisines": [
+      "Mughlai",
+      "North Indian",
+      "Chinese",
+      "Italian",
+      "Fast Food",
+      "Sandwich",
+      "Beverages"
+    ],
+    "address": "Floor 2, Vinayak City Center Mall, SP Marg, Civil Lines, Allahabad",
+    "timing": "11am – 12midnight (Today)",
+    "cost_for_two": "₹600 for two",
+    "phone": "+917521087711",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 69,
+    "name": "Misthi Bites",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "South Indian",
+      "Pizza",
+      "Fast Food",
+      "Burger",
+      "Shake",
+      "Beverages"
+    ],
+    "address": "39A, Chak Raghunath Mirzapur Road, Naini, Allahabad",
+    "timing": "11:30am – 10:30pm (Today)",
+    "cost_for_two": "₹450 for two",
+    "phone": "+919919887770",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 70,
+    "name": "Pizza Nice",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Burger"
+    ],
+    "address": "54, Sulem Sarai Awas Yojna, Sulem Sarai Prayagraj, Dhoomanganj, Allahabad",
+    "timing": "7am – 9:30pm (Today)",
+    "cost_for_two": "₹250 for two",
+    "phone": "+918887407304",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 71,
+    "name": "Chatpataa's Pizza",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Fast Food",
+      "Burger",
+      "Wraps"
+    ],
+    "address": "301, New Basti, Kydganj, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": "₹150 for two",
+    "phone": "+919455322006",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 72,
+    "name": "Baati Chokha Wala",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Rajasthani",
+      "Street Food"
+    ],
+    "address": "14M Mig, Teleyarganj Govindpur, Allahabad",
+    "timing": "11:30am – 8:30pm (Today)",
+    "cost_for_two": "₹300 for two",
+    "phone": "+918471064880",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 73,
+    "name": "Pizzaria Tree",
+    "ratings": {},
+    "cuisines": [
+      "Fast Food",
+      "Pizza",
+      "Burger",
+      "Sandwich",
+      "Beverages"
+    ],
+    "address": "203K/155 K, Sabhasad Nagar, Kausambhi Marg, Rajrooppur, Allahabad",
+    "timing": "11am – 11pm (Today)",
+    "cost_for_two": "₹400 for two",
+    "phone": "+916387696356",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 74,
+    "name": "Thornhill Bakers",
+    "ratings": {},
+    "cuisines": [
+      "Bakery",
+      "Desserts",
+      "Cake"
+    ],
+    "address": "23 C, Thornhill Road, Civil Lines, Allahabad",
+    "timing": "10am – 10:30pm (Today)",
+    "cost_for_two": "₹400 for two",
+    "phone": "+919170079222",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 75,
+    "name": "Hotel Rama Continental",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Burger",
+      "Fast Food",
+      "Indo-Chinese",
+      "Kebab",
+      "Mughlai",
+      "American"
+    ],
+    "address": "37/29, Tashkent Marg, Civil Lines, Allahabad",
+    "timing": "Hotel Rama Continental",
+    "cost_for_two": "₹1,700 for two",
+    "phone": "+919235220748",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 76,
+    "name": "Barista Coffee",
+    "ratings": {},
+    "cuisines": [
+      "Cafe",
+      "Coffee",
+      "Desserts"
+    ],
+    "address": "68/01/56A/02B, Lal Bahadur Shastri Marg, Civil Lines, Allahabad",
+    "timing": "10am – 11pm (Today)",
+    "cost_for_two": "₹500 for two",
+    "phone": "+919335972235",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 77,
+    "name": "Chhappan Bhog",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Chinese",
+      "Street Food",
+      "Fast Food",
+      "Beverages",
+      "Desserts"
+    ],
+    "address": "17/2, Kasturba Gandhi Marg, Kutchery Road, Katra, Allahabad",
+    "timing": "8am – 12midnight (Today)",
+    "cost_for_two": "₹400 for two",
+    "phone": "+919838035720",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 78,
+    "name": "Cakes For Celebrations",
+    "ratings": {},
+    "cuisines": [
+      "Bakery"
+    ],
+    "address": "House 299, Nayi Basti, Near Kid Ganj Police Booth, Kid Ganj, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": "₹300 for two",
+    "phone": "+917985300563",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 79,
+    "name": "Jaiswal Dosa Corner",
+    "ratings": {},
+    "cuisines": [
+      "South Indian"
+    ],
+    "address": "257A/12, Lower Ground Floor, MG Marg, Near Medical Chauraha, George Town, Allahabad",
+    "timing": "9:30am – 10:30pm (Today)",
+    "cost_for_two": "₹300 for two",
+    "phone": "+917080811111",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 80,
+    "name": "Vintage Hut",
+    "ratings": {},
+    "cuisines": [
+      "Chinese",
+      "North Indian",
+      "Kebab",
+      "Mughlai"
+    ],
+    "address": "32, C.Y Chintamani Road, George Town, Allahabad",
+    "timing": "12noon – 11pm (Today)",
+    "cost_for_two": "₹550 for two",
+    "phone": "+919451356186",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 81,
+    "name": "Sulaki Lal Shrinath & Sons",
+    "ratings": {},
+    "cuisines": [
+      "Mithai",
+      "Street Food"
+    ],
+    "address": "86, Bahadurganj, Chowk, Allahabad",
+    "timing": "8am – 10pm (Today)",
+    "cost_for_two": "₹350 for two",
+    "phone": "+919335111052",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 82,
+    "name": "Bhole Chature",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Momos",
+      "Shake",
+      "Beverages"
+    ],
+    "address": "28/132/1A, Mahatma Gandhi Marg, Civil Lines, Allahabad",
+    "timing": "10:30am – 10:30pm (Today)",
+    "cost_for_two": "₹350 for two",
+    "phone": "+918400095731",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 83,
+    "name": "Hotel Placid",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Beverages"
+    ],
+    "address": "Hotel Placid, 161/48, Tagore Murti Chauraha, Tagore Town, Allahabad",
+    "timing": "11:30am – 11pm (Today)",
+    "cost_for_two": "₹1,000 for two",
+    "phone": "+915322468599",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 84,
+    "name": "Last Bench Cafe",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Sandwich",
+      "Pasta",
+      "Fast Food",
+      "Street Food",
+      "Tea",
+      "Coffee",
+      "Shake"
+    ],
+    "address": "831/551a, 1st Floor, Traffic Chauraha, Zone-12, Near Gurukul Classes, Rajapur, Allahabad",
+    "timing": "12:15am – 11:45pm (Today)",
+    "cost_for_two": "₹300 for two",
+    "phone": "+916393069235",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 85,
+    "name": "The Bull",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Asian",
+      "Chinese"
+    ],
+    "address": "2/2, Zone 12, Cooper Road, Civil Lines, Allahabad",
+    "timing": "2pm – 11:15pm (Today)",
+    "cost_for_two": "₹1,100 for two",
+    "phone": "+919919141002",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 86,
+    "name": "Atulyam Restaurant",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "South Indian",
+      "Chinese",
+      "Pizza",
+      "Pasta",
+      "Biryani"
+    ],
+    "address": "1-235, Awas Vikas Colony, Jhunsi, Allahabad",
+    "timing": "Atulyam Restaurant",
+    "cost_for_two": "₹800 for two",
+    "phone": "+919335949448",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 87,
+    "name": "Relish Restaurant- The Legend Hotel",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Italian"
+    ],
+    "address": "23 C, First Floor, Thornhill Road, Civil Lines, Allahabad",
+    "timing": "12noon – 10pm (Today)",
+    "cost_for_two": "₹1,100 for two",
+    "phone": "+915322272200",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 88,
+    "name": "Jai Shri Shankar Bhojnalaya",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "African",
+      "Chinese",
+      "South Indian"
+    ],
+    "address": "M.G. Marg, Near Big Bazaar, Civil Lines, Allahabad",
+    "timing": "11am – 11pm (Today)",
+    "cost_for_two": "₹300 for two",
+    "phone": "+919793484137",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 89,
+    "name": "Allahabad Kabab Paratha",
+    "ratings": {},
+    "cuisines": [
+      "Mughlai",
+      "North Indian"
+    ],
+    "address": "5A, Atala, Kareli, Allahabad",
+    "timing": "Opens at 5pm",
+    "cost_for_two": "₹400 for two",
+    "phone": "+919161187804",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 90,
+    "name": "Hotel Naveen Continental",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "South Indian",
+      "Fast Food",
+      "Continental",
+      "Desserts",
+      "Beverages",
+      "Shake"
+    ],
+    "address": "29/30, K.P Kakkar Road, Rambagh, Allahabad",
+    "timing": "Rambagh\n/",
+    "cost_for_two": "₹700 for two",
+    "phone": "+919026716273",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 91,
+    "name": "Infinity Bistro",
+    "ratings": {},
+    "cuisines": [
+      "Chinese",
+      "North Indian",
+      "Fast Food",
+      "Street Food",
+      "Desserts",
+      "Beverages"
+    ],
+    "address": "14, South Road, Civil Lines, Allahabad",
+    "timing": "11am – 11:30pm (Today)",
+    "cost_for_two": "₹1,200 for two",
+    "phone": "+919151112949",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 92,
+    "name": "Maa The Rasoi",
+    "ratings": {},
+    "cuisines": [
+      "Fast Food",
+      "North Indian",
+      "Beverages"
+    ],
+    "address": "Chaitham Lines, Karanpur, Allen Ganj, Civil Lines, Allahabad",
+    "timing": "12midnight – 6:45am, 7am – 11:45pm (Today)",
+    "cost_for_two": "₹300 for two",
+    "phone": "+917007479170",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 93,
+    "name": "Hudson Chopsticks - Fresh Chinese",
+    "ratings": {},
+    "cuisines": [
+      "Chinese",
+      "Asian",
+      "Thai",
+      "Fast Food",
+      "Beverages"
+    ],
+    "address": "215B/80B/1, Ashok Nagar, Muir Road, Ashok Nagar, Allahabad",
+    "timing": "12midnight – 1am, 1:30pm – 12midnight (Today)",
+    "cost_for_two": "₹1,000 for two",
+    "phone": "+918009992716",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 94,
+    "name": "Paradise",
+    "ratings": {},
+    "cuisines": [
+      "Bakery",
+      "Fast Food",
+      "Pizza",
+      "Ice Cream",
+      "Desserts",
+      "Beverages"
+    ],
+    "address": "3/3, Hashimpur Road, Near Balson Chauraha, Tagore Town, Allahabad",
+    "timing": "9:30am – 10pm (Today)",
+    "cost_for_two": "₹400 for two",
+    "phone": "+917233000114",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 95,
+    "name": "The Robot Restaurant - Yellow House",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Mughlai",
+      "Biryani",
+      "Pizza",
+      "Pasta",
+      "Desserts"
+    ],
+    "address": "Myohall Chauraha, PD Tandon Road, Civil Lines, Allahabad",
+    "timing": "11:45am – 11pm (Today)",
+    "cost_for_two": "₹1,000 for two",
+    "phone": "+918177014684",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 96,
+    "name": "Headquarters Cafe 2.0",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Kebab",
+      "Mughlai",
+      "Pasta",
+      "Fast Food",
+      "Desserts",
+      "Beverages"
+    ],
+    "address": "House 126, 3rd Floor, Sadar, Zone 12, PD Tandon Road, Civil Lines, Allahabad",
+    "timing": "1:30pm – 10:45pm (Today)",
+    "cost_for_two": "₹650 for two",
+    "phone": "+917525907766",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 97,
+    "name": "Burger Singh - Big Punjabi Burgers",
+    "ratings": {},
+    "cuisines": [
+      "Burger",
+      "American",
+      "Fast Food",
+      "Desserts",
+      "Beverages"
+    ],
+    "address": "22, Chak Raghunath Naini, Allahabad",
+    "timing": "12midnight – 2am, 11am – 12midnight (Today)",
+    "cost_for_two": "₹300 for two",
+    "phone": "+919667300726",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 98,
+    "name": "Malta Cafe & Restaurant",
+    "ratings": {},
+    "cuisines": [
+      "Burger",
+      "Fast Food",
+      "Street Food",
+      "Desserts",
+      "Shake",
+      "Beverages"
+    ],
+    "address": "13/7/1A, First Floor, Zone 12, Kamla Nehru Road, Civil Lines, Allahabad",
+    "timing": "11am – 10pm (Today)",
+    "cost_for_two": "₹500 for two",
+    "phone": "+918114038717",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 99,
+    "name": "Momo Fever",
+    "ratings": {},
+    "cuisines": [
+      "Momos",
+      "Fast Food",
+      "Shake",
+      "Beverages"
+    ],
+    "address": "25G/9, Dr Panna Lal Road, George Town, Allahabad",
+    "timing": "12noon – 10pm (Today)",
+    "cost_for_two": "₹250 for two",
+    "phone": "+919838698795",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 100,
+    "name": "Jade Garden",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Fast Food",
+      "Desserts",
+      "Mughlai"
+    ],
+    "address": "123/27A, MG Marg, Civil Lines, Allahabad",
+    "timing": "11am – 11pm (Today)",
+    "cost_for_two": "₹800 for two",
+    "phone": "+915322561408",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  }
+]

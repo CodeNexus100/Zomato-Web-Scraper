@@ -1,0 +1,95 @@
+[
+  {
+    "id": 101,
+    "name": "Blunch And Dine",
+    "ratings": {},
+    "cuisines": [
+      "North Indian",
+      "Mughlai",
+      "Chinese",
+      "Pizza",
+      "Fast Food",
+      "Momos",
+      "Biryani"
+    ],
+    "address": "Top Floor, 21 PD Tandon Road, Civil Lines, Allahabad",
+    "timing": "11am – 9pm (Today)",
+    "cost_for_two": "₹500 for two",
+    "phone": "+916391197777",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 102,
+    "name": "Pizza House",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "address": "LIG 206, Ada Colony, Preetam Nagar, Dhoomanganj, Allahabad",
+    "timing": "11am – 10pm (Today)",
+    "cost_for_two": "₹450 for two",
+    "phone": "+918737912343",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 103,
+    "name": "Gunjan Dosa Corner",
+    "ratings": {},
+    "cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese"
+    ],
+    "address": "179 A, Atarsuiya Tagore Public School, Kareli, Allahabad",
+    "timing": "2pm – 9pm (Today)",
+    "cost_for_two": "₹300 for two",
+    "phone": "+919336745413",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 104,
+    "name": "Indian Coffee House",
+    "ratings": {},
+    "cuisines": [
+      "South Indian",
+      "Fast Food",
+      "Beverages"
+    ],
+    "address": "15, MG Marg, Civil Lines, Allahabad",
+    "timing": "8:15am – 8:30pm (Today)",
+    "cost_for_two": "₹300 for two",
+    "phone": "+915322427211",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  },
+  {
+    "id": 105,
+    "name": "Eat And Fit Restaurant",
+    "ratings": {},
+    "cuisines": [
+      "Pizza",
+      "Burger",
+      "Fast Food",
+      "Biryani",
+      "South Indian",
+      "Chinese",
+      "North Indian",
+      "Beverages"
+    ],
+    "address": "Katka By Pass, Jhunsi, Allahabad",
+    "timing": "12noon – 10:30pm (Today)",
+    "cost_for_two": "₹900 for two",
+    "phone": "+919140530610",
+    "dishes": [],
+    "photos": [],
+    "menu_images": []
+  }
+]

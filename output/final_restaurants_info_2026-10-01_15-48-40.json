@@ -1,0 +1,947 @@
+[
+    {
+        "name": "The Hazelnut Factory",
+        "cuisine": "Healthy Food, Waffle, Desserts",
+        "price_for_two": "₹1,400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/the-hazelnut-factory-civil-lines/info"
+        ]
+    },
+    {
+        "name": "FIKA - Plates, Coffee, Culture",
+        "cuisine": "Pizza, Coffee, Italian, North Indian, Continental, Japanese, Chinese, Beverages",
+        "price_for_two": "₹1,200 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/fika-plates-coffee-culture-2-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Methi Dana",
+        "cuisine": "North Indian, South Indian, Chinese, Pizza, Desserts, Indian, Beverages, Mughlai",
+        "price_for_two": "₹1,200 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/methi-dana-1-civil-lines/info"
+        ]
+    },
+    {
+        "name": "WelcomCafe - Welcomhotel by ITC Hotels",
+        "cuisine": "North Indian, Continental, Italian",
+        "price_for_two": "₹3,000 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/welcomcafe-welcomhotel-by-itc-hotels-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Barbeque Nation",
+        "cuisine": "North Indian, BBQ, Kebab, Biryani",
+        "price_for_two": "₹1,600 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/barbeque-nation-george-town/info"
+        ]
+    },
+    {
+        "name": "El Chico",
+        "cuisine": "Continental, North Indian, Chinese, Italian",
+        "price_for_two": "₹1,400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/el-chico-civil-lines/info"
+        ]
+    },
+    {
+        "name": "EDEN By Connoisseur",
+        "cuisine": "North Indian, Chinese, Continental, Asian, Shake",
+        "price_for_two": "₹1,000 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/eden-by-connoisseur-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Alimento",
+        "cuisine": "North Indian, Cafe, Italian, Asian, Chinese, Pizza, Continental, Desserts",
+        "price_for_two": "₹1,200 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/alimento-ashok-nagar/info"
+        ]
+    },
+    {
+        "name": "Sagar Ratna",
+        "cuisine": "South Indian, North Indian, Chinese, Fast Food, Pasta",
+        "price_for_two": "₹250 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/sagar-ratna-tagore-town/info"
+        ]
+    },
+    {
+        "name": "Trestra - Multicuisine Restaurant By Radisson Hotel",
+        "cuisine": "North Indian, Chinese, South Indian, Pizza, Mughlai, Continental, Pasta, BBQ",
+        "price_for_two": "₹1,000 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/trestra-multicuisine-restaurant-by-radisson-hotel-rajapur/info"
+        ]
+    },
+    {
+        "name": "Rominus Pizza And Burger",
+        "cuisine": "Pizza, Fast Food, Pasta, Burger, Wraps, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/rominus-pizza-and-burger-colonel-ganj/info"
+        ]
+    },
+    {
+        "name": "Cafe Meraki",
+        "cuisine": "Cafe, Coffee, Italian, Mexican, Fast Food, Desserts, Shake, Beverages",
+        "price_for_two": "₹1,100 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/cafe-meraki-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Shri Sainik Sweets Pvt. Ltd.",
+        "cuisine": "Mithai, Desserts",
+        "price_for_two": "₹500 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/shri-sainik-sweets-pvt-ltd-ashok-nagar/info"
+        ]
+    },
+    {
+        "name": "Emerald By Rudraksh",
+        "cuisine": "North Indian, Biryani, Asian, Chinese, Continental, Italian, Desserts",
+        "price_for_two": "₹2,350 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/emerald-by-rudraksh-ashok-nagar/info"
+        ]
+    },
+    {
+        "name": "The Yellow Chilli",
+        "cuisine": "North Indian, Chinese, Seafood, Mughlai, Biryani, Desserts",
+        "price_for_two": "₹1,650 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/the-yellow-chilli-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Cafyara",
+        "cuisine": "Biryani, Chinese, Momos, North Indian, Street Food, Italian, Pizza, South Indian",
+        "price_for_two": "₹600 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/cafyara-civil-lines/info"
+        ]
+    },
+    {
+        "name": "McDonald's",
+        "cuisine": "Burger, Fast Food, Beverages, Coffee, Cafe",
+        "price_for_two": "₹500 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/mcdonalds-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Pind Balluchi",
+        "cuisine": "North Indian, Mughlai, Chinese, South Indian, Sichuan, Desserts, Fast Food, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/pind-balluchi-civil-lines/info"
+        ]
+    },
+    {
+        "name": "The Roof Park Cafe & Restro",
+        "cuisine": "North Indian, Chinese, Asian, Fast Food",
+        "price_for_two": "₹1,100 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/the-roof-park-cafe-restro-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Biryani Mohabbat Wala",
+        "cuisine": "Biryani, North Indian",
+        "price_for_two": "₹400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/biryani-mohabbat-wala-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Makkhan's",
+        "cuisine": "North Indian, South Indian, Chinese, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹750 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/makkhans-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Starbucks Coffee",
+        "cuisine": "Coffee",
+        "price_for_two": "₹900 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/starbucks-coffee-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Amritsari Haveli",
+        "cuisine": "North Indian, Chinese, Desserts, Beverages",
+        "price_for_two": "₹700 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/amritsari-haveli-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Curry Leaf",
+        "cuisine": "North Indian, South Indian, Fast Food, Desserts, Street Food, Ice Cream, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/curry-leaf-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Rishiraj The Food Plaza",
+        "cuisine": "North Indian, Chinese, Fast Food, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/rishiraj-the-food-plaza-teliarganj/info"
+        ]
+    },
+    {
+        "name": "Haldiram's",
+        "cuisine": "North Indian, South Indian, Continental",
+        "price_for_two": "₹600 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/haldirams-civil-lines/info"
+        ]
+    },
+    {
+        "name": "House Of Eden",
+        "cuisine": "North Indian, Chinese, Mughlai, Kebab, Coffee, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/house-of-eden-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Pizza Hut",
+        "cuisine": "Pizza, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/pizza-hut-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Lily",
+        "cuisine": "North Indian, Biryani, Desserts",
+        "price_for_two": "₹1,400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/lily-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Baati Chokha Family Restaurant",
+        "cuisine": "Rajasthani, North Indian, Street Food, Desserts, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/baati-chokha-family-restaurant-1-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Burger King",
+        "cuisine": "Burger, Fast Food, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/burger-king-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Biryani Bees",
+        "cuisine": "Biryani, Kebab, Rolls, North Indian",
+        "price_for_two": "₹400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/biryani-bees-civil-lines/info"
+        ]
+    },
+    {
+        "name": "The Milkshake Factory",
+        "cuisine": "Beverages, Fast Food, Burger, Sandwich",
+        "price_for_two": "₹300 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/the-milkshake-factory-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Aryan Family's Delight",
+        "cuisine": "Beverages, Fast Food, South Indian, North Indian, Italian, Burger, Pizza, Chinese",
+        "price_for_two": "₹500 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/aryan-familys-delight-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Jevnaar",
+        "cuisine": "North Indian, South Indian, Chinese",
+        "price_for_two": "₹1,200 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/jevnaar-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Blinkk Restaurant By Hotel Divine Stay",
+        "cuisine": "North Indian, South Indian, Chinese, Pizza, Fast Food, Desserts, Shake, Beverages",
+        "price_for_two": "₹1,400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/blinkk-restaurant-by-hotel-divine-stay-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Subway",
+        "cuisine": "Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/subway-civil-lines/info"
+        ]
+    },
+    {
+        "name": "My Table- Bar & Restaurant",
+        "cuisine": "North Indian, Chinese, South Indian",
+        "price_for_two": "₹1,400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/my-table-bar-restaurant-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Chandralok Kachouri",
+        "cuisine": "South Indian, Chinese, Fast Food, Beverages, Sichuan",
+        "price_for_two": "₹300 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/chandralok-kachouri-rambagh/info"
+        ]
+    },
+    {
+        "name": "La Pino'z Pizza",
+        "cuisine": "Pizza, Pasta, Italian, Fast Food",
+        "price_for_two": "₹700 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/la-pinoz-pizza-dhoomanganj/info"
+        ]
+    },
+    {
+        "name": "Rang Mahal - Hotel Ajay International",
+        "cuisine": "North Indian, Chinese, Mughlai, Kebab, Oriental, Desserts, Beverages, Sichuan",
+        "price_for_two": "₹1,000 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/rang-mahal-hotel-ajay-international-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Cloudy Food Restaurant & Cafe",
+        "cuisine": "North Indian, Chinese, Rolls, Sandwich, Pizza, South Indian, Burger, Healthy Food",
+        "price_for_two": "₹350 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/cloudy-food-restaurant-cafe-jhalwa/info"
+        ]
+    },
+    {
+        "name": "The Khansama",
+        "cuisine": "Biryani, Mughlai, Kebab, North Indian",
+        "price_for_two": "₹250 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/the-khansama-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Shubhi's Bake A Wish",
+        "cuisine": "Bakery, Desserts, Fast Food",
+        "price_for_two": "₹200 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/shubhis-bake-a-wish-2-george-town/info"
+        ]
+    },
+    {
+        "name": "Mr. Dewsis",
+        "cuisine": "North Indian, South Indian, Fast Food, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/mr-dewsis-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Mutton Mohabbat Wala Family Restaurant",
+        "cuisine": "North Indian",
+        "price_for_two": "₹450 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/mutton-mohabbat-wala-family-restaurant-rajapur/info"
+        ]
+    },
+    {
+        "name": "Hot Pizza Ace",
+        "cuisine": "Pizza, Fast Food, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/hot-pizza-ace-tagore-town/info"
+        ]
+    },
+    {
+        "name": "Domino's Pizza",
+        "cuisine": "Pizza, Italian, Pasta, Fast Food, Desserts",
+        "price_for_two": "₹400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/dominos-pizza-2-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Sardaar Ji Dhaba",
+        "cuisine": "North Indian, Mughlai, Biryani, Chinese, Desserts, Grilled Chicken, BBQ, Beverages",
+        "price_for_two": "₹600 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/sardaar-ji-dhaba-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Theobroma",
+        "cuisine": "Bakery",
+        "price_for_two": "₹500 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/theobroma-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Shri Baba Snacks & Restaurant by Sainik Sweets",
+        "cuisine": "North Indian, South Indian, Chinese, Pizza, Fast Food, Kebab, Shake, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/shri-baba-snacks-restaurant-by-sainik-sweets-ashok-nagar/info"
+        ]
+    },
+    {
+        "name": "KFC",
+        "cuisine": "Burger, Fast Food, Rolls",
+        "price_for_two": "₹450 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/kfc-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Veggie Veg: By El Chico",
+        "cuisine": "North Indian, Chinese, Fast Food, Beverages, South Indian, Pizza, Oriental",
+        "price_for_two": "₹500 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/veggie-veg-by-el-chico-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Capsicum",
+        "cuisine": "North Indian, Chinese, Sandwich, Fast Food, Street Food, Ice Cream",
+        "price_for_two": "₹600 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/capsicum-naini/info"
+        ]
+    },
+    {
+        "name": "The Oval - Hotel Milan Palace",
+        "cuisine": "North Indian, Mughlai, Chinese, Pizza, Desserts",
+        "price_for_two": "₹1,400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/the-oval-hotel-milan-palace-civil-lines/info"
+        ]
+    },
+    {
+        "name": "The Baking Co: By El Chico Since 1964",
+        "cuisine": "Bakery, Mithai, Desserts, Beverages, Sandwich, Street Food",
+        "price_for_two": "₹300 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/the-baking-co-by-el-chico-since-1964-civil-lines/info"
+        ]
+    },
+    {
+        "name": "R P Restaurant",
+        "cuisine": "North Indian, Street Food, Fast Food",
+        "price_for_two": "₹650 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/r-p-restaurant-teliarganj/info"
+        ]
+    },
+    {
+        "name": "Tulsi Sweets",
+        "cuisine": "Mithai, North Indian, South Indian, Chinese, Fast Food, Street Food, Desserts, Beverages",
+        "price_for_two": "₹350 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/tulsi-sweets-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Old School Cafe",
+        "cuisine": "Continental, North Indian, Chinese, Fast Food, Beverages, Desserts",
+        "price_for_two": "₹1,000 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/old-school-cafe-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Coffea",
+        "cuisine": "Cafe, Coffee, North Indian, Pizza, Pasta, Desserts, Tea, Beverages",
+        "price_for_two": "₹900 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/coffea-naini/info"
+        ]
+    },
+    {
+        "name": "Makkhan's Restaurant",
+        "cuisine": "North Indian, South Indian, Chinese, Fast Food, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/makkhans-restaurant-dhoomanganj/info"
+        ]
+    },
+    {
+        "name": "Hotel Ravisha Continental",
+        "cuisine": "North Indian, Continental, Chinese, Fast Food, Desserts",
+        "price_for_two": "₹700 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/hotel-ravisha-continental-civil-lines/info"
+        ]
+    },
+    {
+        "name": "The Food Bazaar",
+        "cuisine": "North Indian, South Indian, Biryani, Chinese, Pizza, Fast Food, Mithai, Desserts",
+        "price_for_two": "₹1,100 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/the-food-bazaar-teliarganj/info"
+        ]
+    },
+    {
+        "name": "La Papa's Pizza",
+        "cuisine": "Pizza, Fast Food",
+        "price_for_two": "₹400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/la-papas-pizza-1-kareli/info"
+        ]
+    },
+    {
+        "name": "Maharani Zaika",
+        "cuisine": "North Indian, Chinese, South Indian, Pizza, Burger, Fast Food, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/maharani-zaika-1-george-town/info"
+        ]
+    },
+    {
+        "name": "The Belgian Waffle Co.",
+        "cuisine": "Waffle, Pancake, Desserts, Beverages, Ice Cream",
+        "price_for_two": "₹300 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/the-belgian-waffle-co-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Kamdhenu Sweets",
+        "cuisine": "Mithai, Bakery, Desserts, Ice Cream, Street Food, Fast Food",
+        "price_for_two": "₹350 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/kamdhenu-sweets-1-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Moti Mahal Delux",
+        "cuisine": "Mughlai, North Indian, Chinese, Italian, Fast Food, Sandwich, Beverages",
+        "price_for_two": "₹600 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/moti-mahal-delux-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Misthi Bites",
+        "cuisine": "North Indian, Chinese, South Indian, Pizza, Fast Food, Burger, Shake, Beverages",
+        "price_for_two": "₹450 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/misthi-bites-naini/info"
+        ]
+    },
+    {
+        "name": "Pizza Nice",
+        "cuisine": "Pizza, Burger",
+        "price_for_two": "₹250 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/pizza-nice-dhoomanganj/info"
+        ]
+    },
+    {
+        "name": "Chatpataa's Pizza",
+        "cuisine": "Pizza, Fast Food, Burger, Wraps",
+        "price_for_two": "₹150 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/chatpataas-pizza-rambagh/info"
+        ]
+    },
+    {
+        "name": "Baati Chokha Wala",
+        "cuisine": "North Indian, Chinese, Rajasthani, Street Food",
+        "price_for_two": "₹300 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/baati-chokha-wala-govindpur/info"
+        ]
+    },
+    {
+        "name": "Pizzaria Tree",
+        "cuisine": "Fast Food, Pizza, Burger, Sandwich, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/pizzaria-tree-rajrooppur/info"
+        ]
+    },
+    {
+        "name": "Thornhill Bakers",
+        "cuisine": "Bakery, Desserts, Cake",
+        "price_for_two": "₹400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/thornhill-bakers-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Hotel Rama Continental",
+        "cuisine": "North Indian, Chinese, Burger, Fast Food, Indo-Chinese, Kebab, Mughlai, American",
+        "price_for_two": "₹1,700 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/hotel-rama-continental-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Barista Coffee",
+        "cuisine": "Cafe, Coffee, Desserts",
+        "price_for_two": "₹500 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/barista-coffee-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Chhappan Bhog",
+        "cuisine": "North Indian, South Indian, Chinese, Street Food, Fast Food, Beverages, Desserts",
+        "price_for_two": "₹400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/chhappan-bhog-katra/info"
+        ]
+    },
+    {
+        "name": "Cakes For Celebrations",
+        "cuisine": "Bakery",
+        "price_for_two": "₹300 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/cakes-for-celebrations-rambagh/info"
+        ]
+    },
+    {
+        "name": "Jaiswal Dosa Corner",
+        "cuisine": "South Indian",
+        "price_for_two": "₹300 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/jaiswal-dosa-corner-george-town/info"
+        ]
+    },
+    {
+        "name": "Vintage Hut",
+        "cuisine": "Chinese, North Indian, Kebab, Mughlai",
+        "price_for_two": "₹550 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/vintage-hut-george-town/info"
+        ]
+    },
+    {
+        "name": "Sulaki Lal Shrinath & Sons",
+        "cuisine": "Mithai, Street Food",
+        "price_for_two": "₹350 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/sulaki-lal-shrinath-sons-chowk/info"
+        ]
+    },
+    {
+        "name": "Bhole Chature",
+        "cuisine": "North Indian, Chinese, Momos, Shake, Beverages",
+        "price_for_two": "₹350 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/bhole-chature-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Hotel Placid",
+        "cuisine": "North Indian, South Indian, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/hotel-placid-tagore-town/info"
+        ]
+    },
+    {
+        "name": "Last Bench Cafe",
+        "cuisine": "Pizza, Sandwich, Pasta, Fast Food, Street Food, Tea, Coffee, Shake",
+        "price_for_two": "₹300 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/last-bench-cafe-rajapur/info"
+        ]
+    },
+    {
+        "name": "The Bull",
+        "cuisine": "North Indian, Asian, Chinese",
+        "price_for_two": "₹1,100 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/the-bull-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Atulyam Restaurant",
+        "cuisine": "North Indian, South Indian, Chinese, Pizza, Pasta, Biryani",
+        "price_for_two": "₹800 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/atulyam-restaurant-3-jhunsi/info"
+        ]
+    },
+    {
+        "name": "Relish Restaurant- The Legend Hotel",
+        "cuisine": "North Indian, Chinese, Italian",
+        "price_for_two": "₹1,100 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/relish-restaurant-the-legend-hotel-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Jai Shri Shankar Bhojnalaya",
+        "cuisine": "North Indian, African, Chinese, South Indian",
+        "price_for_two": "₹300 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/jai-shri-shankar-bhojnalaya-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Allahabad Kabab Paratha",
+        "cuisine": "Mughlai, North Indian",
+        "price_for_two": "₹400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/allahabad-kabab-paratha-kareli/info"
+        ]
+    },
+    {
+        "name": "Hotel Naveen Continental",
+        "cuisine": "North Indian, Chinese, South Indian, Fast Food, Continental, Desserts, Beverages, Shake",
+        "price_for_two": "₹700 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/hotel-naveen-continental-rambagh/info"
+        ]
+    },
+    {
+        "name": "Infinity Bistro",
+        "cuisine": "Chinese, North Indian, Fast Food, Street Food, Desserts, Beverages",
+        "price_for_two": "₹1,200 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/infinity-bistro-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Maa The Rasoi",
+        "cuisine": "Fast Food, North Indian, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/maa-the-rasoi-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Hudson Chopsticks - Fresh Chinese",
+        "cuisine": "Chinese, Asian, Thai, Fast Food, Beverages",
+        "price_for_two": "₹1,000 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/hudson-chopsticks-fresh-chinese-ashok-nagar/info"
+        ]
+    },
+    {
+        "name": "Paradise",
+        "cuisine": "Bakery, Fast Food, Pizza, Ice Cream, Desserts, Beverages",
+        "price_for_two": "₹400 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/paradise-tagore-town/info"
+        ]
+    },
+    {
+        "name": "The Robot Restaurant - Yellow House",
+        "cuisine": "North Indian, Chinese, Mughlai, Biryani, Pizza, Pasta, Desserts",
+        "price_for_two": "₹1,000 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/the-robot-restaurant-yellow-house-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Headquarters Cafe 2.0",
+        "cuisine": "North Indian, Chinese, Kebab, Mughlai, Pasta, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹650 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/headquarters-cafe-2-0-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Burger Singh - Big Punjabi Burgers",
+        "cuisine": "Burger, American, Fast Food, Desserts, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/burger-singh-big-punjabi-burgers-naini/info"
+        ]
+    },
+    {
+        "name": "Malta Cafe & Restaurant",
+        "cuisine": "Burger, Fast Food, Street Food, Desserts, Shake, Beverages",
+        "price_for_two": "₹500 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/malta-cafe-restaurant-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Momo Fever",
+        "cuisine": "Momos, Fast Food, Shake, Beverages",
+        "price_for_two": "₹250 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/momo-fever-george-town/info"
+        ]
+    },
+    {
+        "name": "Jade Garden",
+        "cuisine": "North Indian, Chinese, Fast Food, Desserts, Mughlai",
+        "price_for_two": "₹800 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/jade-garden-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Blunch And Dine",
+        "cuisine": "North Indian, Mughlai, Chinese, Pizza, Fast Food, Momos, Biryani",
+        "price_for_two": "₹500 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/blunch-and-dine-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Pizza House",
+        "cuisine": "Pizza, Fast Food",
+        "price_for_two": "₹450 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/pizza-house-dhoomanganj/info"
+        ]
+    },
+    {
+        "name": "Gunjan Dosa Corner",
+        "cuisine": "South Indian, North Indian, Chinese",
+        "price_for_two": "₹300 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/gunjan-dosa-corner-kareli/info"
+        ]
+    },
+    {
+        "name": "Indian Coffee House",
+        "cuisine": "South Indian, Fast Food, Beverages",
+        "price_for_two": "₹300 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/indian-coffee-house-civil-lines/info"
+        ]
+    },
+    {
+        "name": "Eat And Fit Restaurant",
+        "cuisine": "Pizza, Burger, Fast Food, Biryani, South Indian, Chinese, North Indian, Beverages",
+        "price_for_two": "₹900 for two",
+        "location": "",
+        "page_link": [
+            "https://www.zomato.com/allahabad/eat-and-fit-restaurant-jhunsi/info"
+        ]
+    }
+]
